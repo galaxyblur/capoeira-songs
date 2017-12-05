@@ -1,770 +1,1094 @@
 [
   [
     "capoeira",
-    316
+    424
   ],
   [
     "nao",
-    297
+    377
   ],
   [
     "pra",
-    252
+    333
   ],
   [
     "berimbau",
-    172
+    230
   ],
   [
     "mestre",
-    162
+    223
   ],
   [
     "la",
-    161
+    215
   ],
   [
     "vou",
-    152
+    186
   ],
   [
     "roda",
-    142
-  ],
-  [
-    "voce",
-    119
+    177
   ],
   [
     "jogar",
-    111
+    154
   ],
   [
-    "quo",
-    109
+    "voce",
+    148
   ],
   [
     "jogo",
-    109
+    145
   ],
   [
-    "deus",
-    97
+    "quo",
+    141
   ],
   [
     "angola",
-    93
+    127
   ],
   [
     "bahia",
-    91
-  ],
-  [
-    "so",
-    90
+    116
   ],
   [
     "mar",
-    87
+    115
+  ],
+  [
+    "so",
+    113
+  ],
+  [
+    "deus",
+    111
   ],
   [
     "ja",
-    82
-  ],
-  [
-    "mundo",
-    78
-  ],
-  [
-    "vida",
-    77
-  ],
-  [
-    "ta",
-    68
+    106
   ],
   [
     "tambem",
-    67
+    98
   ],
   [
     "bimba",
-    65
+    97
   ],
   [
-    "coracao",
-    59
+    "vida",
+    93
   ],
   [
-    "pro",
-    58
+    "mundo",
+    91
+  ],
+  [
+    "to",
+    79
+  ],
+  [
+    "ta",
+    79
   ],
   [
     "corpo",
-    57
+    76
   ],
   [
-    "olha",
-    52
+    "pro",
+    73
   ],
   [
-    "minga",
-    51
+    "coracao",
+    73
   ],
   [
     "tempo",
-    50
+    69
   ],
   [
     "oi",
-    49
+    67
   ],
   [
-    "negro",
-    47
-  ],
-  [
-    "regional",
-    46
-  ],
-  [
-    "ie",
-    46
-  ],
-  [
-    "camara",
-    45
-  ],
-  [
-    "sao",
-    43
-  ],
-  [
-    "amor",
-    43
-  ],
-  [
-    "ai",
-    43
-  ],
-  [
-    "luta",
-    42
+    "listen",
+    67
   ],
   [
     "lua",
-    42
+    65
+  ],
+  [
+    "sao",
+    64
+  ],
+  [
+    "regional",
+    63
+  ],
+  [
+    "olha",
+    63
+  ],
+  [
+    "minga",
+    63
+  ],
+  [
+    "negro",
+    62
+  ],
+  [
+    "luta",
+    59
+  ],
+  [
+    "ai",
+    55
   ],
   [
     "terra",
-    41
+    54
+  ],
+  [
+    "amor",
+    54
   ],
   [
     "pe",
-    41
-  ],
-  [
-    "dende",
-    39
-  ],
-  [
-    "toque",
-    38
-  ],
-  [
-    "mare",
-    38
-  ],
-  [
-    "lhe",
-    38
-  ],
-  [
-    "ate",
-    38
-  ],
-  [
-    "volta",
-    37
-  ],
-  [
-    "chao",
-    37
-  ],
-  [
-    "senhor",
-    36
-  ],
-  [
-    "vamos",
-    35
-  ],
-  [
-    "saber",
-    35
-  ],
-  [
-    "menino",
-    35
+    52
   ],
   [
     "joga",
-    35
+    52
+  ],
+  [
+    "ie",
+    51
   ],
   [
     "gre",
-    35
+    51
   ],
   [
-    "falar",
-    35
+    "toque",
+    50
   ],
   [
-    "cantar",
-    34
+    "lhe",
+    50
   ],
   [
-    "viola",
-    33
+    "dende",
+    50
   ],
   [
-    "vim",
-    33
+    "camara",
+    49
+  ],
+  [
+    "menino",
+    48
+  ],
+  [
+    "mare",
+    48
+  ],
+  [
+    "ate",
+    48
   ],
   [
     "tocar",
-    33
+    47
   ],
   [
-    "povo",
-    33
+    "volta",
+    45
   ],
   [
     "mao",
-    32
-  ],
-  [
-    "leva",
-    32
-  ],
-  [
-    "iaia",
-    32
-  ],
-  [
-    "ceu",
-    32
-  ],
-  [
-    "casa",
-    32
-  ],
-  [
-    "atabaque",
-    32
-  ],
-  [
-    "viva",
-    31
-  ],
-  [
-    "ensinou",
-    31
+    45
   ],
   [
     "gente",
-    30
+    45
   ],
   [
-    "forte",
-    30
+    "viola",
+    43
   ],
   [
-    "deu",
-    30
+    "cantar",
+    43
+  ],
+  [
+    "leva",
+    42
+  ],
+  [
+    "iaia",
+    42
+  ],
+  [
+    "falar",
+    42
+  ],
+  [
+    "ensinou",
+    42
+  ],
+  [
+    "chao",
+    42
   ],
   [
     "arte",
-    30
+    42
   ],
   [
-    "toca",
-    29
-  ],
-  [
-    "mou",
-    29
+    "saber",
+    41
   ],
   [
     "vi",
-    28
+    40
   ],
   [
-    "vadiar",
-    28
+    "vamos",
+    40
+  ],
+  [
+    "povo",
+    40
+  ],
+  [
+    "deu",
+    40
   ],
   [
     "rasteira",
-    28
+    39
   ],
   [
-    "pois",
-    28
+    "vim",
+    38
   ],
   [
-    "pai",
-    28
-  ],
-  [
-    "maculele",
-    28
-  ],
-  [
-    "historia",
-    28
-  ],
-  [
-    "guerreiro",
-    28
-  ],
-  [
-    "muita",
-    27
-  ],
-  [
-    "canto",
-    27
-  ],
-  [
-    "velho",
-    26
-  ],
-  [
-    "tao",
-    26
-  ],
-  [
-    "saudade",
-    26
-  ],
-  [
-    "nego",
-    26
-  ],
-  [
-    "mae",
-    26
-  ],
-  [
-    "ginga",
-    26
+    "senhor",
+    38
   ],
   [
     "beira",
-    26
+    38
   ],
   [
-    "senzala",
-    25
+    "atabaque",
+    38
   ],
   [
-    "peiro",
-    25
+    "saudade",
+    37
   ],
   [
-    "ninguem",
-    25
+    "muita",
+    37
   ],
   [
-    "mingueiro",
-    25
-  ],
-  [
-    "mim",
-    25
-  ],
-  [
-    "le",
-    25
-  ],
-  [
-    "forca",
-    25
-  ],
-  [
-    "deixa",
-    25
-  ],
-  [
-    "chama",
-    25
-  ],
-  [
-    "brasil",
-    25
+    "casa",
+    37
   ],
   [
     "valor",
-    24
+    36
   ],
   [
-    "toco",
-    24
+    "toca",
+    36
   ],
   [
-    "energia",
-    24
+    "viva",
+    35
   ],
   [
-    "chegou",
-    24
+    "mou",
+    35
   ],
   [
-    "camarada",
-    24
+    "maculele",
+    35
   ],
   [
-    "tinha",
-    23
+    "historia",
+    35
   ],
   [
-    "tava",
-    23
+    "forte",
+    35
   ],
   [
-    "nasceu",
-    23
-  ],
-  [
-    "mesmo",
-    23
-  ],
-  [
-    "maria",
-    23
-  ],
-  [
-    "filho",
-    23
-  ],
-  [
-    "viver",
-    22
-  ],
-  [
-    "sai",
-    22
-  ],
-  [
-    "pastinha",
-    22
-  ],
-  [
-    "mata",
-    22
-  ],
-  [
-    "ia",
-    22
-  ],
-  [
-    "gunga",
-    22
-  ],
-  [
-    "escravidao",
-    22
-  ],
-  [
-    "disse",
-    22
-  ],
-  [
-    "chora",
-    22
-  ],
-  [
-    "bate",
-    22
+    "ceu",
+    35
   ],
   [
     "veio",
-    21
+    34
   ],
   [
-    "sangue",
-    21
+    "senzala",
+    34
   ],
   [
-    "mulher",
-    21
+    "pastinha",
+    34
   ],
   [
-    "levar",
-    21
+    "maria",
+    34
   ],
   [
-    "amigo",
-    21
+    "le",
+    34
   ],
   [
-    "vento",
-    20
+    "chegou",
+    34
   ],
   [
-    "passar",
-    20
+    "chama",
+    34
   ],
   [
-    "ouro",
-    20
+    "velho",
+    33
   ],
   [
-    "ioio",
-    20
+    "vadiar",
+    33
   ],
   [
-    "chamar",
-    20
+    "ninguem",
+    33
   ],
   [
-    "besouro",
-    20
+    "mingueiro",
+    33
   ],
   [
-    "areia",
-    20
+    "ginga",
+    33
   ],
   [
-    "sinha",
-    19
+    "canto",
+    33
   ],
   [
-    "rio",
-    19
+    "toco",
+    32
   ],
   [
-    "morreu",
-    19
+    "peiro",
+    32
   ],
   [
-    "eh",
-    19
-  ],
-  [
-    "cuidado",
-    19
-  ],
-  [
-    "chegar",
-    19
-  ],
-  [
-    "bonito",
-    19
-  ],
-  [
-    "zumbi",
-    18
-  ],
-  [
-    "som",
-    18
-  ],
-  [
-    "pegar",
-    18
-  ],
-  [
-    "navio",
-    18
-  ],
-  [
-    "liberdade",
-    18
-  ],
-  [
-    "irmao",
-    18
-  ],
-  [
-    "fica",
-    18
-  ],
-  [
-    "dinheiro",
-    18
-  ],
-  [
-    "ca",
-    18
+    "brasil",
+    32
   ],
   [
     "bento",
-    18
+    32
   ],
   [
-    "barco",
-    18
+    "tinha",
+    31
   ],
   [
-    "bamba",
-    18
+    "tao",
+    31
   ],
   [
-    "axe",
-    18
+    "pois",
+    31
   ],
   [
-    "sol",
-    17
+    "pai",
+    31
   ],
   [
-    "santo",
-    17
+    "nego",
+    31
+  ],
+  [
+    "guerreiro",
+    31
+  ],
+  [
+    "deixa",
+    31
+  ],
+  [
+    "nasceu",
+    30
+  ],
+  [
+    "mim",
+    30
+  ],
+  [
+    "mata",
+    30
+  ],
+  [
+    "forca",
+    30
+  ],
+  [
+    "energia",
+    30
+  ],
+  [
+    "disse",
+    30
+  ],
+  [
+    "amigo",
+    30
+  ],
+  [
+    "mae",
+    29
+  ],
+  [
+    "filho",
+    29
+  ],
+  [
+    "cuidado",
+    29
+  ],
+  [
+    "som",
+    28
+  ],
+  [
+    "mulher",
+    28
+  ],
+  [
+    "escravidao",
+    28
+  ],
+  [
+    "camarada",
+    28
+  ],
+  [
+    "viver",
+    27
+  ],
+  [
+    "vento",
+    27
+  ],
+  [
+    "tava",
+    27
+  ],
+  [
+    "morreu",
+    27
+  ],
+  [
+    "mesmo",
+    27
+  ],
+  [
+    "ioio",
+    27
+  ],
+  [
+    "ia",
+    27
+  ],
+  [
+    "gunga",
+    27
+  ],
+  [
+    "sangue",
+    26
   ],
   [
     "samba",
-    17
+    26
   ],
   [
-    "sabia",
-    17
+    "rio",
+    26
   ],
   [
-    "meia",
-    17
+    "ouro",
+    26
   ],
   [
-    "magia",
-    17
+    "liberdade",
+    26
   ],
   [
-    "falou",
-    17
+    "irmao",
+    26
   ],
   [
-    "escravo",
-    17
+    "chora",
+    26
   ],
   [
-    "chego",
-    17
+    "bonito",
+    26
   ],
   [
-    "chamou",
-    17
+    "besouro",
+    26
   ],
   [
-    "cantador",
-    17
-  ],
-  [
-    "ve",
-    16
-  ],
-  [
-    "tristeza",
-    16
-  ],
-  [
-    "tocou",
-    16
-  ],
-  [
-    "praia",
-    16
-  ],
-  [
-    "parar",
-    16
-  ],
-  [
-    "palma",
-    16
-  ],
-  [
-    "lutar",
-    16
-  ],
-  [
-    "levo",
-    16
-  ],
-  [
-    "homem",
-    16
-  ],
-  [
-    "faca",
-    16
-  ],
-  [
-    "dor",
-    16
-  ],
-  [
-    "chamo",
-    16
-  ],
-  [
-    "cativeiro",
-    16
-  ],
-  [
-    "caminho",
-    16
-  ],
-  [
-    "ar",
-    16
-  ],
-  [
-    "agua",
-    16
-  ],
-  [
-    "abada",
-    16
-  ],
-  [
-    "peixe",
-    15
-  ],
-  [
-    "peito",
-    15
-  ],
-  [
-    "jogava",
-    15
-  ],
-  [
-    "jogador",
-    15
-  ],
-  [
-    "entao",
-    15
-  ],
-  [
-    "encontrar",
-    15
+    "chamar",
+    25
   ],
   [
     "brincadeira",
-    15
+    25
   ],
   [
-    "balanca",
-    15
+    "bate",
+    25
+  ],
+  [
+    "bamba",
+    25
+  ],
+  [
+    "areia",
+    25
+  ],
+  [
+    "sinha",
+    24
+  ],
+  [
+    "passar",
+    24
+  ],
+  [
+    "eh",
+    24
+  ],
+  [
+    "sai",
+    23
+  ],
+  [
+    "peito",
+    23
+  ],
+  [
+    "navio",
+    23
+  ],
+  [
+    "dinheiro",
+    23
+  ],
+  [
+    "chego",
+    23
+  ],
+  [
+    "ca",
+    23
+  ],
+  [
+    "zumbi",
+    22
+  ],
+  [
+    "ve",
+    22
+  ],
+  [
+    "sabia",
+    22
+  ],
+  [
+    "praia",
+    22
+  ],
+  [
+    "meia",
+    22
+  ],
+  [
+    "magia",
+    22
+  ],
+  [
+    "levar",
+    22
+  ],
+  [
+    "jogador",
+    22
+  ],
+  [
+    "homem",
+    22
+  ],
+  [
+    "fica",
+    22
+  ],
+  [
+    "faca",
+    22
+  ],
+  [
+    "chegar",
+    22
+  ],
+  [
+    "chamou",
+    22
+  ],
+  [
+    "cantador",
+    22
+  ],
+  [
+    "barco",
+    22
+  ],
+  [
+    "axe",
+    22
+  ],
+  [
+    "tocou",
+    21
+  ],
+  [
+    "jogava",
+    21
+  ],
+  [
+    "entao",
+    21
+  ],
+  [
+    "deixou",
+    21
+  ],
+  [
+    "cais",
+    21
+  ],
+  [
+    "benguela",
+    21
+  ],
+  [
+    "agua",
+    21
+  ],
+  [
+    "abada",
+    21
+  ],
+  [
+    "tristeza",
+    20
+  ],
+  [
+    "sol",
+    20
+  ],
+  [
+    "santo",
+    20
+  ],
+  [
+    "parar",
+    20
+  ],
+  [
+    "levo",
+    20
+  ],
+  [
+    "ladeira",
+    20
+  ],
+  [
+    "falou",
+    20
+  ],
+  [
+    "escravo",
+    20
+  ],
+  [
+    "cativeiro",
+    20
+  ],
+  [
+    "caminho",
+    20
+  ],
+  [
+    "cai",
+    20
   ],
   [
     "aprender",
-    15
+    20
   ],
   [
     "venha",
+    19
+  ],
+  [
+    "valente",
+    19
+  ],
+  [
+    "qualquer",
+    19
+  ],
+  [
+    "pegar",
+    19
+  ],
+  [
+    "oh",
+    19
+  ],
+  [
+    "moco",
+    19
+  ],
+  [
+    "matar",
+    19
+  ],
+  [
+    "lutar",
+    19
+  ],
+  [
+    "ficar",
+    19
+  ],
+  [
+    "festa",
+    19
+  ],
+  [
+    "dor",
+    19
+  ],
+  [
+    "chamo",
+    19
+  ],
+  [
+    "balanca",
+    19
+  ],
+  [
+    "ar",
+    19
+  ],
+  [
+    "voltar",
+    18
+  ],
+  [
+    "salvador",
+    18
+  ],
+  [
+    "reis",
+    18
+  ],
+  [
+    "peixe",
+    18
+  ],
+  [
+    "morrer",
+    18
+  ],
+  [
+    "mercado",
+    18
+  ],
+  [
+    "ligeiro",
+    18
+  ],
+  [
+    "emocao",
+    18
+  ],
+  [
+    "dizia",
+    18
+  ],
+  [
+    "danca",
+    18
+  ],
+  [
+    "cantou",
+    18
+  ],
+  [
+    "cair",
+    18
+  ],
+  [
+    "amanha",
+    18
+  ],
+  [
+    "alegria",
+    18
+  ],
+  [
+    "preto",
+    17
+  ],
+  [
+    "pau",
+    17
+  ],
+  [
+    "palma",
+    17
+  ],
+  [
+    "navalha",
+    17
+  ],
+  [
+    "mato",
+    17
+  ],
+  [
+    "manganga",
+    17
+  ],
+  [
+    "malicia",
+    17
+  ],
+  [
+    "lembra",
+    17
+  ],
+  [
+    "janeiro",
+    17
+  ],
+  [
+    "dona",
+    17
+  ],
+  [
+    "cobra",
+    17
+  ],
+  [
+    "chorar",
+    17
+  ],
+  [
+    "brasileira",
+    17
+  ],
+  [
+    "trago",
+    16
+  ],
+  [
+    "pequeno",
+    16
+  ],
+  [
+    "paz",
+    16
+  ],
+  [
+    "patua",
+    16
+  ],
+  [
+    "olho",
+    16
+  ],
+  [
+    "olhar",
+    16
+  ],
+  [
+    "negros",
+    16
+  ],
+  [
+    "negreiro",
+    16
+  ],
+  [
+    "mestres",
+    16
+  ],
+  [
+    "malragem",
+    16
+  ],
+  [
+    "machado",
+    16
+  ],
+  [
+    "jeito",
+    16
+  ],
+  [
+    "ilha",
+    16
+  ],
+  [
+    "feitor",
+    16
+  ],
+  [
+    "encontrar",
+    16
+  ],
+  [
+    "africa",
+    16
+  ],
+  [
+    "acabou",
+    16
+  ],
+  [
+    "voz",
+    15
+  ],
+  [
+    "vale",
+    15
+  ],
+  [
+    "tres",
+    15
+  ],
+  [
+    "trabalhar",
+    15
+  ],
+  [
+    "terreiro",
+    15
+  ],
+  [
+    "sofrimento",
+    15
+  ],
+  [
+    "sinho",
+    15
+  ],
+  [
+    "saudades",
+    15
+  ],
+  [
+    "professor",
+    15
+  ],
+  [
+    "pega",
+    15
+  ],
+  [
+    "ondas",
+    15
+  ],
+  [
+    "onda",
+    15
+  ],
+  [
+    "manoel",
+    15
+  ],
+  [
+    "mano",
+    15
+  ],
+  [
+    "levou",
+    15
+  ],
+  [
+    "lamento",
+    15
+  ],
+  [
+    "fundo",
+    15
+  ],
+  [
+    "entra",
+    15
+  ],
+  [
+    "criador",
+    15
+  ],
+  [
+    "canta",
+    15
+  ],
+  [
+    "cabeca",
+    15
+  ],
+  [
+    "boca",
+    15
+  ],
+  [
+    "batuque",
+    15
+  ],
+  [
+    "bater",
+    15
+  ],
+  [
+    "arua",
+    15
+  ],
+  [
+    "verdade",
     14
   ],
   [
@@ -772,143 +1096,167 @@
     14
   ],
   [
-    "valente",
+    "sinto",
     14
   ],
   [
-    "qualquer",
+    "seja",
     14
   ],
   [
-    "preto",
+    "quiser",
     14
   ],
   [
-    "patua",
+    "queria",
     14
   ],
   [
-    "olho",
+    "protecao",
     14
-  ],
-  [
-    "oh",
-    14
-  ],
-  [
-    "negros",
-    14
-  ],
-  [
-    "mestres",
-    14
-  ],
-  [
-    "mercado",
-    14
-  ],
-  [
-    "malragem",
-    14
-  ],
-  [
-    "ladeira",
-    14
-  ],
-  [
-    "jeito",
-    14
-  ],
-  [
-    "ficar",
-    14
-  ],
-  [
-    "dona",
-    14
-  ],
-  [
-    "dizia",
-    14
-  ],
-  [
-    "deixou",
-    14
-  ],
-  [
-    "chorar",
-    14
-  ],
-  [
-    "cantou",
-    14
-  ],
-  [
-    "bater",
-    14
-  ],
-  [
-    "amanha",
-    14
-  ],
-  [
-    "alegria",
-    14
-  ],
-  [
-    "voltar",
-    13
-  ],
-  [
-    "tres",
-    13
-  ],
-  [
-    "trago",
-    13
-  ],
-  [
-    "sofrimento",
-    13
-  ],
-  [
-    "reis",
-    13
-  ],
-  [
-    "pequeno",
-    13
-  ],
-  [
-    "pega",
-    13
   ],
   [
     "oxala",
+    14
+  ],
+  [
+    "olhos",
+    14
+  ],
+  [
+    "morena",
+    14
+  ],
+  [
+    "licao",
+    14
+  ],
+  [
+    "lembrar",
+    14
+  ],
+  [
+    "guia",
+    14
+  ],
+  [
+    "ficou",
+    14
+  ],
+  [
+    "fazenda",
+    14
+  ],
+  [
+    "estrelas",
+    14
+  ],
+  [
+    "ensinar",
+    14
+  ],
+  [
+    "dificil",
+    14
+  ],
+  [
+    "comigo",
+    14
+  ],
+  [
+    "comecar",
+    14
+  ],
+  [
+    "coco",
+    14
+  ],
+  [
+    "cidade",
+    14
+  ],
+  [
+    "cheia",
+    14
+  ],
+  [
+    "cd",
+    14
+  ],
+  [
+    "caiu",
+    14
+  ],
+  [
+    "cabecada",
+    14
+  ],
+  [
+    "buscar",
+    14
+  ],
+  [
+    "apanhar",
+    14
+  ],
+  [
+    "waldemar",
     13
   ],
   [
-    "navalha",
+    "vinha",
     13
   ],
   [
-    "morrer",
+    "sereia",
     13
   ],
   [
-    "moco",
+    "razao",
     13
   ],
   [
-    "matar",
+    "quilombo",
     13
   ],
   [
-    "ligeiro",
+    "querendo",
     13
   ],
   [
-    "janeiro",
+    "quebrar",
+    13
+  ],
+  [
+    "peco",
+    13
+  ],
+  [
+    "passou",
+    13
+  ],
+  [
+    "palmares",
+    13
+  ],
+  [
+    "moleque",
+    13
+  ],
+  [
+    "menina",
+    13
+  ],
+  [
+    "medo",
+    13
+  ],
+  [
+    "manha",
+    13
+  ],
+  [
+    "libertar",
     13
   ],
   [
@@ -916,231 +1264,255 @@
     13
   ],
   [
-    "ilha",
+    "fosse",
     13
   ],
   [
-    "guia",
+    "faltar",
     13
   ],
   [
-    "festa",
+    "fala",
     13
   ],
   [
-    "feitor",
+    "estrela",
     13
   ],
   [
-    "entra",
+    "cultura",
     13
   ],
   [
-    "emocao",
+    "corre",
     13
-  ],
-  [
-    "danca",
-    13
-  ],
-  [
-    "cais",
-    13
-  ],
-  [
-    "cabeca",
-    13
-  ],
-  [
-    "brasileira",
-    13
-  ],
-  [
-    "arua",
-    13
-  ],
-  [
-    "acabou",
-    13
-  ],
-  [
-    "verdade",
-    12
-  ],
-  [
-    "vale",
-    12
-  ],
-  [
-    "seja",
-    12
-  ],
-  [
-    "queria",
-    12
-  ],
-  [
-    "negreiro",
-    12
-  ],
-  [
-    "manoel",
-    12
-  ],
-  [
-    "manha",
-    12
-  ],
-  [
-    "malicia",
-    12
-  ],
-  [
-    "libertar",
-    12
-  ],
-  [
-    "lamento",
-    12
-  ],
-  [
-    "ficou",
-    12
-  ],
-  [
-    "fazenda",
-    12
-  ],
-  [
-    "estrelas",
-    12
-  ],
-  [
-    "dificil",
-    12
-  ],
-  [
-    "comigo",
-    12
-  ],
-  [
-    "comecar",
-    12
   ],
   [
     "coisas",
-    12
+    13
   ],
   [
-    "cobra",
-    12
+    "chega",
+    13
   ],
   [
-    "cair",
-    12
+    "cana",
+    13
   ],
   [
-    "cai",
-    12
-  ],
-  [
-    "boca",
-    12
+    "beleza",
+    13
   ],
   [
     "bateu",
+    13
+  ],
+  [
+    "agradeco",
+    13
+  ],
+  [
+    "vontade",
     12
   ],
   [
-    "africa",
+    "voar",
     12
   ],
   [
-    "waldemar",
-    11
+    "viu",
+    12
   ],
   [
-    "voz",
-    11
+    "venho",
+    12
   ],
   [
-    "vinha",
-    11
+    "vencer",
+    12
+  ],
+  [
+    "va",
+    12
   ],
   [
     "traira",
-    11
+    12
   ],
   [
-    "trabalhar",
-    11
+    "santa",
+    12
   ],
   [
-    "sinto",
-    11
+    "respeito",
+    12
   ],
   [
-    "sinho",
-    11
-  ],
-  [
-    "salvador",
-    11
+    "respeitado",
+    12
   ],
   [
     "rei",
-    11
-  ],
-  [
-    "razao",
-    11
-  ],
-  [
-    "quiser",
-    11
+    12
   ],
   [
     "pensamento",
+    12
+  ],
+  [
+    "pego",
+    12
+  ],
+  [
+    "passado",
+    12
+  ],
+  [
+    "ouvir",
+    12
+  ],
+  [
+    "mortal",
+    12
+  ],
+  [
+    "melhor",
+    12
+  ],
+  [
+    "maldade",
+    12
+  ],
+  [
+    "jogou",
+    12
+  ],
+  [
+    "igual",
+    12
+  ],
+  [
+    "guerra",
+    12
+  ],
+  [
+    "feito",
+    12
+  ],
+  [
+    "fe",
+    12
+  ],
+  [
+    "entrar",
+    12
+  ],
+  [
+    "destino",
+    12
+  ],
+  [
+    "deixe",
+    12
+  ],
+  [
+    "danado",
+    12
+  ],
+  [
+    "couro",
+    12
+  ],
+  [
+    "corta",
+    12
+  ],
+  [
+    "contar",
+    12
+  ],
+  [
+    "comer",
+    12
+  ],
+  [
+    "comecou",
+    12
+  ],
+  [
+    "canavial",
+    12
+  ],
+  [
+    "arrepia",
+    12
+  ],
+  [
+    "amizade",
+    12
+  ],
+  [
+    "agogo",
+    12
+  ],
+  [
+    "ae",
+    12
+  ],
+  [
+    "acabar",
+    12
+  ],
+  [
+    "velha",
     11
   ],
   [
-    "paz",
+    "valdemar",
     11
   ],
   [
-    "pau",
+    "trouxe",
     11
   ],
   [
-    "ondas",
+    "tronco",
     11
   ],
   [
-    "olhos",
+    "triste",
     11
   ],
   [
-    "olhar",
+    "sinal",
     11
   ],
   [
-    "menina",
+    "sentimento",
     11
   ],
   [
-    "mato",
+    "precisa",
     11
   ],
   [
-    "mano",
+    "passo",
     11
   ],
   [
-    "manganga",
+    "paixao",
     11
   ],
   [
-    "machado",
+    "morte",
+    11
+  ],
+  [
+    "mei",
+    11
+  ],
+  [
+    "medio",
     11
   ],
   [
@@ -1148,39 +1520,59 @@
     11
   ],
   [
-    "levou",
+    "iuna",
     11
   ],
   [
-    "jogou",
+    "ir",
     11
   ],
   [
-    "igual",
+    "iemanja",
     11
   ],
   [
-    "fundo",
+    "fundamento",
     11
   ],
   [
-    "fosse",
+    "fora",
     11
   ],
   [
-    "estrela",
+    "fechado",
     11
   ],
   [
-    "coco",
+    "faco",
     11
   ],
   [
-    "chega",
+    "diga",
     11
   ],
   [
-    "canta",
+    "daqui",
+    11
+  ],
+  [
+    "cordao",
+    11
+  ],
+  [
+    "cor",
+    11
+  ],
+  [
+    "conhece",
+    11
+  ],
+  [
+    "certo",
+    11
+  ],
+  [
+    "capitao",
     11
   ],
   [
@@ -1188,43 +1580,27 @@
     11
   ],
   [
-    "buscar",
+    "cabra",
     11
   ],
   [
-    "beleza",
+    "balanco",
     11
   ],
   [
-    "batuque",
+    "arrepiar",
     11
   ],
   [
-    "apanhar",
+    "aprendi",
     11
   ],
   [
-    "amizade",
+    "amigos",
     11
   ],
   [
-    "agogo",
-    11
-  ],
-  [
-    "ae",
-    11
-  ],
-  [
-    "vencer",
-    10
-  ],
-  [
-    "va",
-    10
-  ],
-  [
-    "tronco",
+    "vivo",
     10
   ],
   [
@@ -1236,71 +1612,71 @@
     10
   ],
   [
-    "to",
+    "tombo",
     10
   ],
   [
-    "terreiro",
+    "solta",
     10
   ],
   [
-    "sentimento",
+    "sera",
     10
   ],
   [
-    "quilombo",
+    "salve",
     10
   ],
   [
-    "querendo",
+    "sair",
     10
   ],
   [
-    "protecao",
+    "rosto",
     10
   ],
   [
-    "professor",
+    "pudesse",
     10
   ],
   [
-    "passou",
+    "popular",
     10
   ],
   [
-    "palmares",
+    "poe",
     10
   ],
   [
-    "ouvir",
+    "parana",
     10
   ],
   [
-    "onda",
+    "n",
     10
   ],
   [
-    "moleque",
+    "mente",
     10
   ],
   [
-    "melhor",
+    "martelo",
     10
   ],
   [
-    "medo",
+    "malro",
     10
   ],
   [
-    "maldade",
+    "madeira",
     10
   ],
   [
-    "lembrar",
+    "levanta",
     10
   ],
   [
-    "lembra",
+    "lembro",
     10
   ],
   [
@@ -1308,31 +1684,47 @@
     10
   ],
   [
-    "fundamento",
+    "familia",
     10
   ],
   [
-    "feito",
+    "falo",
     10
   ],
   [
-    "fala",
+    "entro",
     10
   ],
   [
-    "diga",
+    "encontrei",
     10
   ],
   [
-    "cultura",
+    "doutor",
     10
   ],
   [
-    "criador",
+    "discipulo",
     10
   ],
   [
-    "comecou",
+    "digo",
+    10
+  ],
+  [
+    "dava",
+    10
+  ],
+  [
+    "criou",
+    10
+  ],
+  [
+    "conhecer",
+    10
+  ],
+  [
+    "comeca",
     10
   ],
   [
@@ -1340,35 +1732,75 @@
     10
   ],
   [
-    "cidade",
+    "chamado",
     10
   ],
   [
-    "certo",
+    "cantava",
     10
   ],
   [
-    "cabecada",
+    "cansado",
     10
   ],
   [
-    "benguela",
+    "camisa",
     10
   ],
   [
-    "aprendi",
+    "cade",
     10
   ],
   [
-    "vontade",
+    "bonita",
+    10
+  ],
+  [
+    "aprende",
+    10
+  ],
+  [
+    "amaro",
+    10
+  ],
+  [
+    "aluno",
+    10
+  ],
+  [
+    "alma",
+    10
+  ],
+  [
+    "ajuda",
+    10
+  ],
+  [
+    "aconteceu",
+    10
+  ],
+  [
+    "volto",
     9
   ],
   [
-    "vivo",
+    "venceu",
     9
   ],
   [
-    "solta",
+    "tras",
+    9
+  ],
+  [
+    "sozinho",
+    9
+  ],
+  [
+    "sorriso",
+    9
+  ],
+  [
+    "sentado",
     9
   ],
   [
@@ -1376,27 +1808,35 @@
     9
   ],
   [
-    "salve",
+    "saia",
     9
   ],
   [
-    "sair",
+    "rodas",
     9
   ],
   [
-    "rosto",
+    "rapaz",
     9
   ],
   [
-    "respeito",
+    "rabo",
     9
   ],
   [
-    "pego",
+    "pulo",
     9
   ],
   [
-    "peco",
+    "praca",
+    9
+  ],
+  [
+    "pero",
+    9
+  ],
+  [
+    "passa",
     9
   ],
   [
@@ -1404,87 +1844,127 @@
     9
   ],
   [
-    "n",
+    "nago",
     9
   ],
   [
-    "morte",
+    "muitas",
     9
   ],
   [
-    "mortal",
+    "mora",
     9
   ],
   [
-    "morena",
+    "molejo",
     9
   ],
   [
-    "mei",
+    "modelo",
     9
   ],
   [
-    "medio",
+    "maneira",
     9
   ],
   [
-    "guerra",
+    "licenca",
     9
   ],
   [
-    "fora",
+    "levantar",
     9
   ],
   [
-    "faltar",
+    "jogue",
     9
   ],
   [
-    "entro",
+    "jesus",
     9
   ],
   [
-    "entrar",
+    "historias",
     9
   ],
   [
-    "ensinar",
+    "ha",
     9
   ],
   [
-    "doutor",
+    "gosto",
     9
   ],
   [
-    "digo",
+    "gerais",
     9
   ],
   [
-    "daqui",
+    "firme",
     9
   ],
   [
-    "danado",
+    "fico",
     9
   ],
   [
-    "couro",
+    "fazendo",
     9
   ],
   [
-    "corre",
+    "expressao",
     9
   ],
   [
-    "cor",
+    "ensino",
     9
   ],
   [
-    "contar",
+    "eee",
     9
   ],
   [
-    "comer",
+    "dou",
+    9
+  ],
+  [
+    "derrubar",
+    9
+  ],
+  [
+    "deixar",
+    9
+  ],
+  [
+    "dei",
+    9
+  ],
+  [
+    "correr",
+    9
+  ],
+  [
+    "corda",
+    9
+  ],
+  [
+    "coqueiro",
+    9
+  ],
+  [
+    "conforme",
+    9
+  ],
+  [
+    "choro",
+    9
+  ],
+  [
+    "chicote",
+    9
+  ],
+  [
+    "cavalaria",
     9
   ],
   [
@@ -1492,23 +1972,23 @@
     9
   ],
   [
-    "cana",
+    "capataz",
     9
   ],
   [
-    "caiu",
+    "caboclo",
     9
   ],
   [
-    "cade",
+    "branco",
     9
   ],
   [
-    "bonita",
+    "bonfim",
     9
   ],
   [
-    "balanco",
+    "batalha",
     9
   ],
   [
@@ -1516,59 +1996,79 @@
     9
   ],
   [
-    "arrepia",
+    "arma",
     9
   ],
   [
-    "alma",
+    "arame",
     9
   ],
   [
-    "agradeco",
+    "apanha",
     9
   ],
   [
-    "aconteceu",
+    "ajudou",
     9
   ],
   [
-    "volto",
+    "zum",
     8
   ],
   [
-    "voar",
+    "voltava",
     8
   ],
   [
-    "trouxe",
+    "virar",
     8
   ],
   [
-    "tombo",
+    "vao",
     8
   ],
   [
-    "sozinho",
+    "treino",
     8
   ],
   [
-    "sereia",
+    "trabalhava",
     8
   ],
   [
-    "sera",
+    "tirar",
     8
   ],
   [
-    "santa",
+    "tempos",
     8
   ],
   [
-    "respeitado",
+    "subir",
     8
   ],
   [
-    "quebrar",
+    "sorrindo",
+    8
+  ],
+  [
+    "sonho",
+    8
+  ],
+  [
+    "segura",
+    8
+  ],
+  [
+    "salto",
+    8
+  ],
+  [
+    "saiu",
+    8
+  ],
+  [
+    "quebrou",
     8
   ],
   [
@@ -1576,19 +2076,23 @@
     8
   ],
   [
+    "pula",
+    8
+  ],
+  [
     "preciso",
     8
   ],
   [
-    "precisa",
+    "porta",
     8
   ],
   [
-    "popular",
+    "ponteira",
     8
   ],
   [
-    "poe",
+    "penso",
     8
   ],
   [
@@ -1596,23 +2100,23 @@
     8
   ],
   [
-    "parana",
+    "pele",
     8
   ],
   [
-    "paixao",
+    "pegou",
     8
   ],
   [
-    "nago",
+    "orixas",
     8
   ],
   [
-    "muitas",
+    "morar",
     8
   ],
   [
-    "mente",
+    "moca",
     8
   ],
   [
@@ -1620,27 +2124,47 @@
     8
   ],
   [
-    "malro",
+    "louvar",
     8
   ],
   [
-    "licao",
+    "linda",
     8
   ],
   [
-    "levantar",
+    "libertou",
     8
   ],
   [
-    "levanta",
+    "libertacao",
     8
   ],
   [
-    "iemanja",
+    "lele",
     8
   ],
   [
-    "historias",
+    "laranja",
+    8
+  ],
+  [
+    "junto",
+    8
+  ],
+  [
+    "joao",
+    8
+  ],
+  [
+    "guine",
+    8
+  ],
+  [
+    "group",
+    8
+  ],
+  [
+    "gres",
     8
   ],
   [
@@ -1648,27 +2172,39 @@
     8
   ],
   [
-    "firme",
+    "fiz",
     8
   ],
   [
-    "fico",
+    "fazia",
     8
   ],
   [
-    "fechado",
+    "esquece",
     8
   ],
   [
-    "falo",
+    "escute",
     8
   ],
   [
-    "faco",
+    "entender",
     8
   ],
   [
-    "eee",
+    "ensina",
+    8
+  ],
+  [
+    "ee",
+    8
+  ],
+  [
+    "dono",
+    8
+  ],
+  [
+    "dizendo",
     8
   ],
   [
@@ -1676,15 +2212,11 @@
     8
   ],
   [
-    "destino",
+    "devagar",
     8
   ],
   [
-    "deixe",
-    8
-  ],
-  [
-    "deixar",
+    "deixo",
     8
   ],
   [
@@ -1692,27 +2224,15 @@
     8
   ],
   [
-    "cordao",
+    "conceicao",
     8
   ],
   [
-    "corda",
+    "chorou",
     8
   ],
   [
-    "conhece",
-    8
-  ],
-  [
-    "cheia",
-    8
-  ],
-  [
-    "cd",
-    8
-  ],
-  [
-    "capitao",
+    "chegava",
     8
   ],
   [
@@ -1720,23 +2240,47 @@
     8
   ],
   [
-    "cantava",
-    8
-  ],
-  [
-    "canavial",
-    8
-  ],
-  [
     "cabaca",
     8
   ],
   [
-    "bonfim",
+    "brilho",
     8
   ],
   [
-    "apanha",
+    "briga",
+    8
+  ],
+  [
+    "branca",
+    8
+  ],
+  [
+    "bota",
+    8
+  ],
+  [
+    "benzer",
+    8
+  ],
+  [
+    "balancar",
+    8
+  ],
+  [
+    "ba",
+    8
+  ],
+  [
+    "aue",
+    8
+  ],
+  [
+    "au",
+    8
+  ],
+  [
+    "atras",
     8
   ],
   [
@@ -1744,51 +2288,75 @@
     8
   ],
   [
-    "aluno",
+    "alguem",
     8
   ],
   [
-    "venho",
+    "ajudar",
+    8
+  ],
+  [
+    "acontecer",
+    8
+  ],
+  [
+    "virou",
     7
   ],
   [
-    "venceu",
+    "viajo",
     7
   ],
   [
-    "velha",
+    "veneno",
     7
   ],
   [
-    "valdemar",
+    "vaz",
     7
   ],
   [
-    "triste",
+    "trazendo",
     7
   ],
   [
-    "treino",
+    "tempero",
     7
   ],
   [
-    "tras",
+    "suor",
     7
   ],
   [
-    "sentado",
+    "suassuna",
     7
   ],
   [
-    "saudades",
+    "sorte",
     7
   ],
   [
-    "saiu",
+    "solidao",
     7
   ],
   [
-    "saia",
+    "sofrer",
+    7
+  ],
+  [
+    "sinhozinho",
+    7
+  ],
+  [
+    "sereno",
+    7
+  ],
+  [
+    "seguir",
+    7
+  ],
+  [
+    "roupa",
     7
   ],
   [
@@ -1796,27 +2364,43 @@
     7
   ],
   [
+    "raca",
+    7
+  ],
+  [
     "pular",
     7
   ],
   [
-    "porta",
+    "princesa",
     7
   ],
   [
-    "pero",
+    "ponta",
     7
   ],
   [
-    "penso",
+    "poesia",
     7
   ],
   [
-    "pele",
+    "planta",
     7
   ],
   [
-    "passado",
+    "pescador",
+    7
+  ],
+  [
+    "pelourinho",
+    7
+  ],
+  [
+    "pedir",
+    7
+  ],
+  [
+    "ouvi",
     7
   ],
   [
@@ -1824,79 +2408,79 @@
     7
   ],
   [
-    "moca",
+    "orgulho",
     7
   ],
   [
-    "martelo",
+    "oracao",
     7
   ],
   [
-    "maneira",
+    "muca",
     7
   ],
   [
-    "louvar",
+    "mostrar",
     7
   ],
   [
-    "linda",
+    "mexe",
     7
   ],
   [
-    "licenca",
+    "memoria",
     7
   ],
   [
-    "libertacao",
+    "marinheiro",
     7
   ],
   [
-    "lembro",
+    "luar",
     7
   ],
   [
-    "laranja",
+    "ligeira",
     7
   ],
   [
-    "jogue",
+    "laue",
     7
   ],
   [
-    "joao",
+    "laranjeira",
     7
   ],
   [
-    "jesus",
+    "lagrimas",
     7
   ],
   [
-    "ir",
+    "ladainha",
     7
   ],
   [
-    "ha",
+    "isabel",
     7
   ],
   [
-    "group",
+    "grito",
     7
   ],
   [
-    "fiz",
+    "fundamentos",
     7
   ],
   [
-    "fe",
+    "fiquei",
     7
   ],
   [
-    "fazendo",
+    "filosofia",
     7
   ],
   [
-    "escute",
+    "feira",
     7
   ],
   [
@@ -1904,11 +2488,11 @@
     7
   ],
   [
-    "entender",
+    "escuta",
     7
   ],
   [
-    "ensino",
+    "escola",
     7
   ],
   [
@@ -1916,47 +2500,31 @@
     7
   ],
   [
-    "encontrei",
+    "ei",
     7
   ],
   [
-    "ee",
+    "dedicacao",
     7
   ],
   [
-    "dou",
+    "cruz",
     7
   ],
   [
-    "dizendo",
+    "crianca",
     7
   ],
   [
-    "devagar",
+    "cortar",
     7
   ],
   [
-    "dava",
+    "coral",
     7
   ],
   [
-    "corta",
-    7
-  ],
-  [
-    "coqueiro",
-    7
-  ],
-  [
-    "conhecer",
-    7
-  ],
-  [
-    "chorou",
-    7
-  ],
-  [
-    "choro",
+    "conquistou",
     7
   ],
   [
@@ -1964,11 +2532,7 @@
     7
   ],
   [
-    "cansado",
-    7
-  ],
-  [
-    "camisa",
+    "capoeirista",
     7
   ],
   [
@@ -1976,55 +2540,59 @@
     7
   ],
   [
-    "cabra",
+    "brincar",
     7
   ],
   [
-    "branco",
+    "boneco",
     7
   ],
   [
-    "batalha",
+    "batuqueiro",
     7
   ],
   [
-    "balancar",
+    "barra",
     7
   ],
   [
-    "atras",
+    "baiana",
     7
   ],
   [
-    "arrepiar",
+    "avo",
     7
   ],
   [
-    "arame",
+    "arraia",
     7
   ],
   [
-    "amaro",
+    "armada",
     7
   ],
   [
-    "alguem",
+    "aprendeu",
     7
   ],
   [
-    "ajuda",
+    "angoleiro",
     7
   ],
   [
-    "acabar",
+    "afora",
     7
   ],
   [
-    "zum",
+    "academia",
+    7
+  ],
+  [
+    "voou",
     6
   ],
   [
-    "virar",
+    "visitar",
     6
   ],
   [
@@ -2032,31 +2600,39 @@
     6
   ],
   [
-    "viajo",
+    "vencedor",
     6
   ],
   [
-    "vao",
+    "treinar",
     6
   ],
   [
-    "trabalhava",
+    "track",
     6
   ],
   [
-    "tirar",
+    "toma",
     6
   ],
   [
-    "sorte",
+    "tocava",
     6
   ],
   [
-    "sorriso",
+    "tira",
     6
   ],
   [
-    "sonho",
+    "tico",
+    6
+  ],
+  [
+    "tambor",
+    6
+  ],
+  [
+    "solto",
     6
   ],
   [
@@ -2064,31 +2640,15 @@
     6
   ],
   [
-    "sinal",
-    6
-  ],
-  [
-    "sereno",
-    6
-  ],
-  [
     "sentir",
     6
   ],
   [
-    "segura",
+    "s",
     6
   ],
   [
-    "salto",
-    6
-  ],
-  [
-    "roupa",
-    6
-  ],
-  [
-    "rodas",
+    "ribeira",
     6
   ],
   [
@@ -2096,23 +2656,23 @@
     6
   ],
   [
+    "rede",
+    6
+  ],
+  [
     "recado",
     6
   ],
   [
-    "quebrou",
+    "rainha",
     6
   ],
   [
-    "pulo",
+    "qui",
     6
   ],
   [
-    "pula",
-    6
-  ],
-  [
-    "pudesse",
+    "querer",
     6
   ],
   [
@@ -2120,27 +2680,47 @@
     6
   ],
   [
-    "praca",
+    "pes",
     6
   ],
   [
-    "poesia",
+    "perigo",
     6
   ],
   [
-    "pelourinho",
+    "pergunto",
     6
   ],
   [
-    "pegou",
+    "perder",
     6
   ],
   [
-    "passo",
+    "peiros",
     6
   ],
   [
-    "passa",
+    "pedindo",
+    6
+  ],
+  [
+    "pedaco",
+    6
+  ],
+  [
+    "patrao",
+    6
+  ],
+  [
+    "passava",
+    6
+  ],
+  [
+    "partiu",
+    6
+  ],
+  [
+    "pais",
     6
   ],
   [
@@ -2148,11 +2728,11 @@
     6
   ],
   [
-    "orixas",
+    "ora",
     6
   ],
   [
-    "oracao",
+    "negra",
     6
   ],
   [
@@ -2172,19 +2752,15 @@
     6
   ],
   [
-    "morar",
+    "miudinho",
     6
   ],
   [
-    "mora",
+    "matou",
     6
   ],
   [
-    "molejo",
-    6
-  ],
-  [
-    "modelo",
+    "marcar",
     6
   ],
   [
@@ -2192,27 +2768,27 @@
     6
   ],
   [
-    "madeira",
+    "m",
     6
   ],
   [
-    "luar",
+    "luz",
     6
   ],
   [
-    "libertou",
+    "leve",
     6
   ],
   [
-    "lele",
+    "lenco",
     6
   ],
   [
-    "lagrimas",
+    "lapa",
     6
   ],
   [
-    "junto",
+    "lampiao",
     6
   ],
   [
@@ -2220,31 +2796,39 @@
     6
   ],
   [
-    "iuna",
+    "iniciante",
     6
   ],
   [
-    "isabel",
+    "igreja",
     6
   ],
   [
-    "gres",
+    "humildade",
     6
   ],
   [
-    "gosto",
+    "harmonia",
     6
   ],
   [
-    "fundamentos",
+    "gigante",
     6
   ],
   [
-    "familia",
+    "formo",
     6
   ],
   [
-    "expressao",
+    "fenomenal",
+    6
+  ],
+  [
+    "falha",
+    6
+  ],
+  [
+    "falei",
     6
   ],
   [
@@ -2252,39 +2836,51 @@
     6
   ],
   [
-    "esquece",
+    "esquecer",
     6
   ],
   [
-    "escuta",
+    "esperar",
     6
   ],
   [
-    "escola",
+    "escravos",
     6
   ],
   [
-    "dono",
+    "entrou",
     6
   ],
   [
-    "discipulo",
+    "encontrou",
     6
   ],
   [
-    "derrubar",
+    "duro",
     6
   ],
   [
-    "dei",
+    "dias",
     6
   ],
   [
-    "dedicacao",
+    "derruba",
     6
   ],
   [
-    "criou",
+    "der",
+    6
+  ],
+  [
+    "d",
+    6
+  ],
+  [
+    "cristo",
+    6
+  ],
+  [
+    "criado",
     6
   ],
   [
@@ -2292,27 +2888,35 @@
     6
   ],
   [
-    "conforme",
+    "cheguei",
     6
   ],
   [
-    "conceicao",
+    "chapeu",
     6
   ],
   [
-    "chicote",
+    "causa",
     6
   ],
   [
-    "chegava",
+    "cantigas",
     6
   ],
   [
-    "cavalaria",
+    "canoa",
     6
   ],
   [
-    "capataz",
+    "cancao",
+    6
+  ],
+  [
+    "caminhar",
+    6
+  ],
+  [
+    "camaradinho",
     6
   ],
   [
@@ -2320,19 +2924,27 @@
     6
   ],
   [
-    "brilho",
-    6
-  ],
-  [
     "brigar",
     6
   ],
   [
-    "boneco",
+    "braco",
     6
   ],
   [
-    "ba",
+    "boi",
+    6
+  ],
+  [
+    "beriba",
+    6
+  ],
+  [
+    "batia",
+    6
+  ],
+  [
+    "baixa",
     6
   ],
   [
@@ -2340,47 +2952,47 @@
     6
   ],
   [
-    "aue",
-    6
-  ],
-  [
-    "au",
-    6
-  ],
-  [
-    "arma",
-    6
-  ],
-  [
-    "aprende",
-    6
-  ],
-  [
     "apareceu",
     6
   ],
   [
-    "angoleiro",
+    "apanhava",
     6
   ],
   [
-    "amigos",
+    "alto",
     6
   ],
   [
-    "ajudou",
+    "acorrentado",
     6
   ],
   [
-    "ajudar",
+    "acordeon",
     6
   ],
   [
-    "afora",
+    "achar",
     6
+  ],
+  [
+    "acaba",
+    6
+  ],
+  [
+    "aberre",
+    6
+  ],
+  [
+    "vol",
+    5
   ],
   [
     "voces",
+    5
+  ],
+  [
+    "viveu",
     5
   ],
   [
@@ -2388,11 +3000,23 @@
     5
   ],
   [
-    "viu",
+    "vieram",
     5
   ],
   [
-    "vaz",
+    "viemos",
+    5
+  ],
+  [
+    "viajar",
+    5
+  ],
+  [
+    "verde",
+    5
+  ],
+  [
+    "vargas",
     5
   ],
   [
@@ -2400,15 +3024,11 @@
     5
   ],
   [
-    "treinar",
-    5
-  ],
-  [
     "treina",
     5
   ],
   [
-    "trazendo",
+    "tocado",
     5
   ],
   [
@@ -2416,7 +3036,7 @@
     5
   ],
   [
-    "tico",
+    "tiro",
     5
   ],
   [
@@ -2424,23 +3044,19 @@
     5
   ],
   [
-    "tempero",
+    "tentar",
     5
   ],
   [
-    "tambor",
+    "tempestade",
     5
   ],
   [
-    "sorrindo",
+    "subiu",
     5
   ],
   [
-    "solto",
-    5
-  ],
-  [
-    "solidao",
+    "sobe",
     5
   ],
   [
@@ -2448,11 +3064,19 @@
     5
   ],
   [
+    "sertao",
+    5
+  ],
+  [
     "serra",
     5
   ],
   [
-    "seguir",
+    "semente",
+    5
+  ],
+  [
+    "segredo",
     5
   ],
   [
@@ -2464,7 +3088,11 @@
     5
   ],
   [
-    "ribeira",
+    "saio",
+    5
+  ],
+  [
+    "ruim",
     5
   ],
   [
@@ -2472,27 +3100,47 @@
     5
   ],
   [
-    "rapaz",
+    "quis",
     5
   ],
   [
-    "rainha",
+    "quilombos",
     5
   ],
   [
-    "raca",
+    "querido",
     5
   ],
   [
-    "rabo",
+    "quase",
     5
   ],
   [
-    "querer",
+    "quadra",
     5
   ],
   [
-    "princesa",
+    "puxa",
+    5
+  ],
+  [
+    "proteger",
+    5
+  ],
+  [
+    "procurar",
+    5
+  ],
+  [
+    "preta",
+    5
+  ],
+  [
+    "policia",
+    5
+  ],
+  [
+    "podia",
     5
   ],
   [
@@ -2504,15 +3152,11 @@
     5
   ],
   [
-    "pescador",
+    "pescoco",
     5
   ],
   [
-    "perigo",
-    5
-  ],
-  [
-    "perder",
+    "perdido",
     5
   ],
   [
@@ -2520,11 +3164,7 @@
     5
   ],
   [
-    "pedindo",
-    5
-  ],
-  [
-    "pedaco",
+    "pedia",
     5
   ],
   [
@@ -2532,11 +3172,19 @@
     5
   ],
   [
+    "passei",
+    5
+  ],
+  [
     "passarinho",
     5
   ],
   [
-    "ouvi",
+    "palha",
+    5
+  ],
+  [
+    "navegar",
     5
   ],
   [
@@ -2548,23 +3196,19 @@
     5
   ],
   [
-    "mostrar",
+    "manuel",
     5
   ],
   [
-    "miudinho",
+    "manhoso",
     5
   ],
   [
-    "matou",
+    "louvacao",
     5
   ],
   [
-    "marinheiro",
-    5
-  ],
-  [
-    "m",
+    "livre",
     5
   ],
   [
@@ -2572,15 +3216,27 @@
     5
   ],
   [
-    "leve",
+    "lembrancas",
     5
   ],
   [
-    "laranjeira",
+    "lembranca",
     5
   ],
   [
-    "ladainha",
+    "lala",
+    5
+  ],
+  [
+    "laia",
+    5
+  ],
+  [
+    "lagoa",
+    5
+  ],
+  [
+    "lae",
     5
   ],
   [
@@ -2588,7 +3244,23 @@
     5
   ],
   [
+    "jangada",
+    5
+  ],
+  [
     "io",
+    5
+  ],
+  [
+    "inteligencia",
+    5
+  ],
+  [
+    "inspiracao",
+    5
+  ],
+  [
+    "inimigo",
     5
   ],
   [
@@ -2596,15 +3268,15 @@
     5
   ],
   [
-    "igreja",
+    "idalina",
     5
   ],
   [
-    "humildade",
+    "homens",
     5
   ],
   [
-    "guine",
+    "havia",
     5
   ],
   [
@@ -2612,7 +3284,19 @@
     5
   ],
   [
-    "grito",
+    "grao",
+    5
+  ],
+  [
+    "genial",
+    5
+  ],
+  [
+    "general",
+    5
+  ],
+  [
+    "garoto",
     5
   ],
   [
@@ -2620,19 +3304,23 @@
     5
   ],
   [
-    "fiquei",
+    "frio",
     5
   ],
   [
-    "filosofia",
+    "frente",
     5
   ],
   [
-    "feira",
+    "fome",
     5
   ],
   [
-    "fazia",
+    "ficava",
+    5
+  ],
+  [
+    "fevereiro",
     5
   ],
   [
@@ -2644,7 +3332,19 @@
     5
   ],
   [
+    "estrangeiro",
+    5
+  ],
+  [
     "estrada",
+    5
+  ],
+  [
+    "estivador",
+    5
+  ],
+  [
+    "estilo",
     5
   ],
   [
@@ -2652,19 +3352,11 @@
     5
   ],
   [
-    "esperar",
+    "escolhi",
     5
   ],
   [
-    "escravos",
-    5
-  ],
-  [
-    "entrou",
-    5
-  ],
-  [
-    "ensina",
+    "eeee",
     5
   ],
   [
@@ -2676,11 +3368,11 @@
     5
   ],
   [
-    "dela",
+    "desce",
     5
   ],
   [
-    "deixo",
+    "dela",
     5
   ],
   [
@@ -2688,27 +3380,15 @@
     5
   ],
   [
-    "d",
+    "covardia",
     5
   ],
   [
-    "cruz",
+    "corria",
     5
   ],
   [
-    "cristo",
-    5
-  ],
-  [
-    "crianca",
-    5
-  ],
-  [
-    "cortar",
-    5
-  ],
-  [
-    "correr",
+    "correu",
     5
   ],
   [
@@ -2716,47 +3396,59 @@
     5
   ],
   [
-    "coral",
+    "conheci",
     5
   ],
   [
-    "comeca",
+    "comecei",
     5
   ],
   [
-    "cheguei",
+    "comble",
     5
   ],
   [
-    "chapeu",
+    "clarear",
     5
   ],
   [
-    "chamado",
+    "clarao",
     5
   ],
   [
-    "causa",
+    "chibata",
     5
   ],
   [
-    "cantigas",
+    "ceara",
     5
   ],
   [
-    "canoa",
+    "cavalo",
     5
   ],
   [
-    "cancao",
+    "carrega",
     5
   ],
   [
-    "caminhar",
+    "carinho",
     5
   ],
   [
-    "camaradinho",
+    "capital",
+    5
+  ],
+  [
+    "cao",
+    5
+  ],
+  [
+    "cantei",
+    5
+  ],
+  [
+    "caminhos",
     5
   ],
   [
@@ -2764,7 +3456,7 @@
     5
   ],
   [
-    "caboclo",
+    "c",
     5
   ],
   [
@@ -2772,19 +3464,19 @@
     5
   ],
   [
-    "brincar",
+    "brilhar",
     5
   ],
   [
-    "braco",
+    "brilha",
     5
   ],
   [
-    "bota",
+    "bote",
     5
   ],
   [
-    "boi",
+    "botar",
     5
   ],
   [
@@ -2796,15 +3488,23 @@
     5
   ],
   [
-    "benzer",
+    "berco",
     5
   ],
   [
-    "batuqueiro",
+    "bela",
     5
   ],
   [
-    "barra",
+    "bata",
+    5
+  ],
+  [
+    "bas",
+    5
+  ],
+  [
+    "barrao",
     5
   ],
   [
@@ -2812,7 +3512,7 @@
     5
   ],
   [
-    "avo",
+    "avisa",
     5
   ],
   [
@@ -2820,7 +3520,15 @@
     5
   ],
   [
-    "apanhava",
+    "aprendo",
+    5
+  ],
+  [
+    "aperto",
+    5
+  ],
+  [
+    "ancestrais",
     5
   ],
   [
@@ -2828,15 +3536,39 @@
     5
   ],
   [
-    "acorrentado",
+    "amaralina",
     5
   ],
   [
-    "acontecer",
+    "alem",
     5
   ],
   [
-    "aberre",
+    "aide",
+    5
+  ],
+  [
+    "ah",
+    5
+  ],
+  [
+    "africana",
+    5
+  ],
+  [
+    "acreditar",
+    5
+  ],
+  [
+    "acredita",
+    5
+  ],
+  [
+    "acaraje",
+    5
+  ],
+  [
+    "abre",
     5
   ],
   [
@@ -2852,27 +3584,23 @@
     4
   ],
   [
-    "viveu",
-    4
-  ],
-  [
     "vitoria",
     4
   ],
   [
-    "visitar",
+    "vir",
     4
   ],
   [
-    "vieram",
+    "violao",
     4
   ],
   [
-    "viemos",
+    "vier",
     4
   ],
   [
-    "viajar",
+    "via",
     4
   ],
   [
@@ -2880,11 +3608,11 @@
     4
   ],
   [
-    "veneno",
+    "vermelho",
     4
   ],
   [
-    "vencedor",
+    "vender",
     4
   ],
   [
@@ -2892,7 +3620,31 @@
     4
   ],
   [
+    "valentao",
+    4
+  ],
+  [
+    "vadeia",
+    4
+  ],
+  [
+    "usava",
+    4
+  ],
+  [
     "urubu",
+    4
+  ],
+  [
+    "tucum",
+    4
+  ],
+  [
+    "trazido",
+    4
+  ],
+  [
+    "traicao",
     4
   ],
   [
@@ -2900,19 +3652,27 @@
     4
   ],
   [
+    "toques",
+    4
+  ],
+  [
+    "toquei",
+    4
+  ],
+  [
     "tome",
     4
   ],
   [
-    "toma",
+    "tomar",
     4
   ],
   [
-    "tocado",
+    "ti",
     4
   ],
   [
-    "tira",
+    "the",
     4
   ],
   [
@@ -2920,19 +3680,7 @@
     4
   ],
   [
-    "tentar",
-    4
-  ],
-  [
-    "tempos",
-    4
-  ],
-  [
-    "tempestade",
-    4
-  ],
-  [
-    "suor",
+    "talento",
     4
   ],
   [
@@ -2940,7 +3688,7 @@
     4
   ],
   [
-    "subir",
+    "sozinha",
     4
   ],
   [
@@ -2948,11 +3696,23 @@
     4
   ],
   [
+    "song",
+    4
+  ],
+  [
+    "solucao",
+    4
+  ],
+  [
+    "soco",
+    4
+  ],
+  [
     "sobrado",
     4
   ],
   [
-    "sobe",
+    "simples",
     4
   ],
   [
@@ -2960,7 +3720,15 @@
     4
   ],
   [
-    "semente",
+    "sentia",
+    4
+  ],
+  [
+    "sente",
+    4
+  ],
+  [
+    "saveiro",
     4
   ],
   [
@@ -2968,11 +3736,7 @@
     4
   ],
   [
-    "saio",
-    4
-  ],
-  [
-    "s",
+    "sabedoria",
     4
   ],
   [
@@ -2984,7 +3748,19 @@
     4
   ],
   [
-    "rede",
+    "riacho",
+    4
+  ],
+  [
+    "respondo",
+    4
+  ],
+  [
+    "responde",
+    4
+  ],
+  [
+    "recordar",
     4
   ],
   [
@@ -2996,39 +3772,55 @@
     4
   ],
   [
-    "quilombos",
+    "raizes",
     4
   ],
   [
-    "quase",
+    "quilombola",
     4
   ],
   [
-    "puxa",
+    "pulava",
     4
   ],
   [
-    "proteger",
+    "proteja",
     4
   ],
   [
-    "procurar",
+    "pronto",
     4
   ],
   [
-    "preta",
+    "procure",
     4
   ],
   [
-    "ponta",
+    "presente",
     4
   ],
   [
-    "podia",
+    "praticado",
     4
   ],
   [
-    "pes",
+    "porto",
+    4
+  ],
+  [
+    "ponha",
+    4
+  ],
+  [
+    "poeira",
+    4
+  ],
+  [
+    "pilao",
+    4
+  ],
+  [
+    "peso",
     4
   ],
   [
@@ -3036,15 +3828,15 @@
     4
   ],
   [
-    "pergunto",
-    4
-  ],
-  [
     "perguntei",
     4
   ],
   [
-    "perdido",
+    "perguntar",
+    4
+  ],
+  [
+    "pergunta",
     4
   ],
   [
@@ -3056,31 +3848,11 @@
     4
   ],
   [
-    "peiros",
-    4
-  ],
-  [
     "peguei",
     4
   ],
   [
     "pedro",
-    4
-  ],
-  [
-    "pedir",
-    4
-  ],
-  [
-    "patrao",
-    4
-  ],
-  [
-    "passava",
-    4
-  ],
-  [
-    "partiu",
     4
   ],
   [
@@ -3092,11 +3864,11 @@
     4
   ],
   [
-    "palha",
+    "pao",
     4
   ],
   [
-    "pais",
+    "palavra",
     4
   ],
   [
@@ -3104,15 +3876,23 @@
     4
   ],
   [
-    "orgulho",
+    "ordem",
     4
   ],
   [
-    "ora",
+    "noticia",
     4
   ],
   [
-    "negra",
+    "negao",
+    4
+  ],
+  [
+    "natureza",
+    4
+  ],
+  [
+    "nascer",
     4
   ],
   [
@@ -3124,6 +3904,22 @@
     4
   ],
   [
+    "museu",
+    4
+  ],
+  [
+    "mudar",
+    4
+  ],
+  [
+    "mostrou",
+    4
+  ],
+  [
+    "morde",
+    4
+  ],
+  [
     "molho",
     4
   ],
@@ -3132,11 +3928,19 @@
     4
   ],
   [
+    "mocambique",
+    4
+  ],
+  [
     "mingar",
     4
   ],
   [
-    "mexe",
+    "milho",
+    4
+  ],
+  [
+    "mentira",
     4
   ],
   [
@@ -3144,19 +3948,19 @@
     4
   ],
   [
-    "manhoso",
+    "marimbondo",
     4
   ],
   [
-    "luz",
+    "maneiro",
     4
   ],
   [
-    "louvacao",
+    "madrugada",
     4
   ],
   [
-    "livre",
+    "livrar",
     4
   ],
   [
@@ -3164,19 +3968,27 @@
     4
   ],
   [
-    "ligeira",
+    "limao",
     4
   ],
   [
-    "lenco",
+    "levantou",
     4
   ],
   [
-    "lembranca",
+    "lenda",
+    4
+  ],
+  [
+    "lembrei",
     4
   ],
   [
     "lei",
+    4
+  ],
+  [
+    "legal",
     4
   ],
   [
@@ -3188,27 +4000,11 @@
     4
   ],
   [
-    "lampiao",
+    "jurei",
     4
   ],
   [
-    "lala",
-    4
-  ],
-  [
-    "laia",
-    4
-  ],
-  [
-    "lagoa",
-    4
-  ],
-  [
-    "jangada",
-    4
-  ],
-  [
-    "inteligencia",
+    "jamais",
     4
   ],
   [
@@ -3216,15 +4012,23 @@
     4
   ],
   [
-    "inimigo",
-    4
-  ],
-  [
     "importante",
     4
   ],
   [
-    "homens",
+    "imensidao",
+    4
+  ],
+  [
+    "i",
+    4
+  ],
+  [
+    "homen",
+    4
+  ],
+  [
+    "heroi",
     4
   ],
   [
@@ -3232,7 +4036,11 @@
     4
   ],
   [
-    "harmonia",
+    "guerreira",
+    4
+  ],
+  [
+    "guardo",
     4
   ],
   [
@@ -3244,7 +4052,7 @@
     4
   ],
   [
-    "grao",
+    "golpe",
     4
   ],
   [
@@ -3252,11 +4060,15 @@
     4
   ],
   [
-    "gato",
+    "gingar",
     4
   ],
   [
-    "garoto",
+    "gingado",
+    4
+  ],
+  [
+    "gato",
     4
   ],
   [
@@ -3268,19 +4080,31 @@
     4
   ],
   [
-    "frio",
+    "fugido",
     4
   ],
   [
-    "frente",
+    "fraco",
     4
   ],
   [
-    "fome",
+    "fogo",
     4
   ],
   [
-    "ficava",
+    "foge",
+    4
+  ],
+  [
+    "fique",
+    4
+  ],
+  [
+    "filhos",
+    4
+  ],
+  [
+    "feliz",
     4
   ],
   [
@@ -3288,23 +4112,11 @@
     4
   ],
   [
-    "falei",
-    4
-  ],
-  [
     "facil",
     4
   ],
   [
-    "estrangeiro",
-    4
-  ],
-  [
-    "estivador",
-    4
-  ],
-  [
-    "esquecer",
+    "existia",
     4
   ],
   [
@@ -3312,7 +4124,23 @@
     4
   ],
   [
+    "espalhou",
+    4
+  ],
+  [
+    "escuto",
+    4
+  ],
+  [
     "escuro",
+    4
+  ],
+  [
+    "escura",
+    4
+  ],
+  [
+    "errado",
     4
   ],
   [
@@ -3324,19 +4152,15 @@
     4
   ],
   [
-    "encontrou",
+    "encanta",
     4
   ],
   [
-    "ei",
+    "embaixo",
     4
   ],
   [
-    "eeee",
-    4
-  ],
-  [
-    "duro",
+    "dourado",
     4
   ],
   [
@@ -3344,15 +4168,19 @@
     4
   ],
   [
-    "dias",
+    "doente",
     4
   ],
   [
-    "desce",
+    "ditado",
     4
   ],
   [
-    "der",
+    "direcao",
+    4
+  ],
+  [
+    "desafio",
     4
   ],
   [
@@ -3361,6 +4189,22 @@
   ],
   [
     "defesa",
+    4
+  ],
+  [
+    "defender",
+    4
+  ],
+  [
+    "dancar",
+    4
+  ],
+  [
+    "danada",
+    4
+  ],
+  [
+    "dai",
     4
   ],
   [
@@ -3380,19 +4224,47 @@
     4
   ],
   [
-    "covardia",
+    "cresce",
     4
   ],
   [
-    "corria",
+    "cozinhar",
     4
   ],
   [
-    "conquistou",
+    "corte",
     4
   ],
   [
-    "comecei",
+    "coro",
+    4
+  ],
+  [
+    "conversa",
+    4
+  ],
+  [
+    "consola",
+    4
+  ],
+  [
+    "consigo",
+    4
+  ],
+  [
+    "consegue",
+    4
+  ],
+  [
+    "conhecido",
+    4
+  ],
+  [
+    "conheceu",
+    4
+  ],
+  [
+    "confusao",
     4
   ],
   [
@@ -3400,23 +4272,35 @@
     4
   ],
   [
-    "clarao",
+    "coma",
     4
   ],
   [
-    "chibata",
+    "colonial",
     4
   ],
   [
-    "ceara",
+    "colher",
     4
   ],
   [
-    "carrega",
+    "cintura",
     4
   ],
   [
-    "carinho",
+    "chula",
+    4
+  ],
+  [
+    "cheio",
+    4
+  ],
+  [
+    "cem",
+    4
+  ],
+  [
+    "catarina",
     4
   ],
   [
@@ -3424,19 +4308,31 @@
     4
   ],
   [
-    "capoeirista",
+    "capoeiras",
     4
   ],
   [
-    "cao",
+    "capoeiragem",
     4
   ],
   [
-    "cantei",
+    "capela",
     4
   ],
   [
     "cante",
+    4
+  ],
+  [
+    "canarinho",
+    4
+  ],
+  [
+    "camugere",
+    4
+  ],
+  [
+    "cajueiro",
     4
   ],
   [
@@ -3448,31 +4344,15 @@
     4
   ],
   [
-    "c",
+    "brinco",
     4
   ],
   [
-    "brilhar",
+    "bolso",
     4
   ],
   [
-    "brilha",
-    4
-  ],
-  [
-    "briga",
-    4
-  ],
-  [
-    "bote",
-    4
-  ],
-  [
-    "botar",
-    4
-  ],
-  [
-    "berco",
+    "berimbaus",
     4
   ],
   [
@@ -3480,11 +4360,15 @@
     4
   ],
   [
-    "bela",
+    "barro",
     4
   ],
   [
-    "batia",
+    "barracao",
+    4
+  ],
+  [
+    "banguela",
     4
   ],
   [
@@ -3492,11 +4376,7 @@
     4
   ],
   [
-    "baixa",
-    4
-  ],
-  [
-    "avisa",
+    "azar",
     4
   ],
   [
@@ -3504,19 +4384,23 @@
     4
   ],
   [
-    "arraia",
+    "arcos",
     4
   ],
   [
-    "aprendo",
+    "amarrado",
     4
   ],
   [
-    "aperto",
+    "amargurado",
     4
   ],
   [
-    "amaralina",
+    "amanhecer",
+    4
+  ],
+  [
+    "alunos",
     4
   ],
   [
@@ -3528,11 +4412,7 @@
     4
   ],
   [
-    "alem",
-    4
-  ],
-  [
-    "ah",
+    "aldeia",
     4
   ],
   [
@@ -3540,11 +4420,7 @@
     4
   ],
   [
-    "africana",
-    4
-  ],
-  [
-    "acordeon",
+    "acordei",
     4
   ],
   [
@@ -3552,19 +4428,27 @@
     4
   ],
   [
-    "achar",
-    4
-  ],
-  [
     "acha",
     4
   ],
   [
-    "academia",
+    "abraco",
     4
   ],
   [
-    "acaba",
+    "abolicao",
+    4
+  ],
+  [
+    "aberta",
+    4
+  ],
+  [
+    "abencoar",
+    4
+  ],
+  [
+    "abaete",
     4
   ],
   [
@@ -3572,15 +4456,15 @@
     3
   ],
   [
-    "voou",
+    "vosmice",
     3
   ],
   [
-    "voltava",
+    "voo",
     3
   ],
   [
-    "vol",
+    "voltou",
     3
   ],
   [
@@ -3592,19 +4476,7 @@
     3
   ],
   [
-    "virou",
-    3
-  ],
-  [
-    "vir",
-    3
-  ],
-  [
-    "violao",
-    3
-  ],
-  [
-    "vier",
+    "virgem",
     3
   ],
   [
@@ -3612,23 +4484,15 @@
     3
   ],
   [
-    "via",
-    3
-  ],
-  [
     "versos",
     3
   ],
   [
-    "verde",
+    "verdadeira",
     3
   ],
   [
     "vendo",
-    3
-  ],
-  [
-    "vender",
     3
   ],
   [
@@ -3652,10 +4516,6 @@
     3
   ],
   [
-    "vargas",
-    3
-  ],
-  [
     "vamo",
     3
   ],
@@ -3664,15 +4524,11 @@
     3
   ],
   [
-    "valentao",
+    "valer",
     3
   ],
   [
     "vadio",
-    3
-  ],
-  [
-    "vadeia",
     3
   ],
   [
@@ -3688,11 +4544,23 @@
     3
   ],
   [
-    "torta",
+    "transformou",
     3
   ],
   [
-    "toques",
+    "traga",
+    3
+  ],
+  [
+    "trabalhador",
+    3
+  ],
+  [
+    "totonho",
+    3
+  ],
+  [
+    "torta",
     3
   ],
   [
@@ -3700,15 +4568,11 @@
     3
   ],
   [
-    "tomar",
-    3
-  ],
-  [
-    "tocava",
-    3
-  ],
-  [
     "tocador",
+    3
+  ],
+  [
+    "tirava",
     3
   ],
   [
@@ -3716,11 +4580,11 @@
     3
   ],
   [
-    "ti",
+    "terminar",
     3
   ],
   [
-    "the",
+    "temido",
     3
   ],
   [
@@ -3728,7 +4592,11 @@
     3
   ],
   [
-    "talento",
+    "tapa",
+    3
+  ],
+  [
+    "tamanha",
     3
   ],
   [
@@ -3740,7 +4608,11 @@
     3
   ],
   [
-    "suassuna",
+    "starts",
+    3
+  ],
+  [
+    "sonhei",
     3
   ],
   [
@@ -3760,11 +4632,7 @@
     3
   ],
   [
-    "sofrer",
-    3
-  ],
-  [
-    "sinhozinho",
+    "sofreu",
     3
   ],
   [
@@ -3772,15 +4640,7 @@
     3
   ],
   [
-    "simples",
-    3
-  ],
-  [
     "siga",
-    3
-  ],
-  [
-    "sertao",
     3
   ],
   [
@@ -3788,15 +4648,7 @@
     3
   ],
   [
-    "sentia",
-    3
-  ],
-  [
     "senti",
-    3
-  ],
-  [
-    "sente",
     3
   ],
   [
@@ -3812,15 +4664,15 @@
     3
   ],
   [
-    "segredo",
-    3
-  ],
-  [
-    "saveiro",
+    "saude",
     3
   ],
   [
     "sapato",
+    3
+  ],
+  [
+    "sapateiro",
     3
   ],
   [
@@ -3833,10 +4685,6 @@
   ],
   [
     "saci",
-    3
-  ],
-  [
-    "sabedoria",
     3
   ],
   [
@@ -3864,11 +4712,15 @@
     3
   ],
   [
-    "rico",
+    "ritual",
     3
   ],
   [
-    "riacho",
+    "ringue",
+    3
+  ],
+  [
+    "rico",
     3
   ],
   [
@@ -3876,11 +4728,19 @@
     3
   ],
   [
+    "rezo",
+    3
+  ],
+  [
     "rezar",
     3
   ],
   [
-    "respondo",
+    "respirar",
+    3
+  ],
+  [
+    "respeita",
     3
   ],
   [
@@ -3888,7 +4748,15 @@
     3
   ],
   [
+    "renda",
+    3
+  ],
+  [
     "remo",
+    3
+  ],
+  [
+    "remar",
     3
   ],
   [
@@ -3896,23 +4764,11 @@
     3
   ],
   [
-    "recordar",
+    "recordo",
     3
   ],
   [
-    "quis",
-    3
-  ],
-  [
-    "quilombola",
-    3
-  ],
-  [
-    "querido",
-    3
-  ],
-  [
-    "quadra",
+    "quadras",
     3
   ],
   [
@@ -3936,15 +4792,11 @@
     3
   ],
   [
-    "procure",
-    3
-  ],
-  [
     "preste",
     3
   ],
   [
-    "presente",
+    "presentear",
     3
   ],
   [
@@ -3952,27 +4804,51 @@
     3
   ],
   [
+    "preguica",
+    3
+  ],
+  [
+    "preco",
+    3
+  ],
+  [
     "praga",
     3
   ],
   [
-    "porto",
+    "portao",
     3
   ],
   [
-    "ponteira",
+    "popo",
     3
   ],
   [
-    "poeira",
+    "pomba",
     3
   ],
   [
-    "planta",
+    "poeta",
+    3
+  ],
+  [
+    "poderosa",
+    3
+  ],
+  [
+    "planto",
+    3
+  ],
+  [
+    "pisei",
     3
   ],
   [
     "pisar",
+    3
+  ],
+  [
+    "pisada",
     3
   ],
   [
@@ -3984,18 +4860,6 @@
     3
   ],
   [
-    "pilao",
-    3
-  ],
-  [
-    "peso",
-    3
-  ],
-  [
-    "pescoco",
-    3
-  ],
-  [
     "pernambuco",
     3
   ],
@@ -4004,11 +4868,11 @@
     3
   ],
   [
-    "perguntar",
+    "pernada",
     3
   ],
   [
-    "pergunta",
+    "pereira",
     3
   ],
   [
@@ -4020,11 +4884,39 @@
     3
   ],
   [
+    "pensa",
+    3
+  ],
+  [
+    "pegava",
+    3
+  ],
+  [
+    "pedra",
+    3
+  ],
+  [
+    "pede",
+    3
+  ],
+  [
     "paulao",
     3
   ],
   [
-    "passei",
+    "passear",
+    3
+  ],
+  [
+    "passe",
+    3
+  ],
+  [
+    "passaro",
+    3
+  ],
+  [
+    "parei",
     3
   ],
   [
@@ -4032,7 +4924,15 @@
     3
   ],
   [
+    "parecia",
+    3
+  ],
+  [
     "pare",
+    3
+  ],
+  [
+    "papo",
     3
   ],
   [
@@ -4040,11 +4940,15 @@
     3
   ],
   [
-    "palavra",
+    "palmas",
     3
   ],
   [
     "pago",
+    3
+  ],
+  [
+    "pagar",
     3
   ],
   [
@@ -4056,7 +4960,15 @@
     3
   ],
   [
-    "ordem",
+    "ouvia",
+    3
+  ],
+  [
+    "outrora",
+    3
+  ],
+  [
+    "olhei",
     3
   ],
   [
@@ -4064,7 +4976,15 @@
     3
   ],
   [
+    "ola",
+    3
+  ],
+  [
     "ogun",
+    3
+  ],
+  [
+    "oferenda",
     3
   ],
   [
@@ -4076,6 +4996,14 @@
     3
   ],
   [
+    "nordeste",
+    3
+  ],
+  [
+    "nenhum",
+    3
+  ],
+  [
     "nele",
     3
   ],
@@ -4084,11 +5012,11 @@
     3
   ],
   [
-    "negao",
+    "negocio",
     3
   ],
   [
-    "navegar",
+    "navega",
     3
   ],
   [
@@ -4096,15 +5024,23 @@
     3
   ],
   [
-    "natureza",
+    "natal",
     3
   ],
   [
-    "nascer",
+    "nascida",
     3
   ],
   [
-    "museu",
+    "nagos",
+    3
+  ],
+  [
+    "mundial",
+    3
+  ],
+  [
+    "muleque",
     3
   ],
   [
@@ -4116,7 +5052,7 @@
     3
   ],
   [
-    "mudar",
+    "muda",
     3
   ],
   [
@@ -4124,19 +5060,15 @@
     3
   ],
   [
-    "mostrou",
-    3
-  ],
-  [
     "mostra",
     3
   ],
   [
-    "mordeu",
+    "morria",
     3
   ],
   [
-    "morde",
+    "mordeu",
     3
   ],
   [
@@ -4148,19 +5080,35 @@
     3
   ],
   [
-    "mocambique",
-    3
-  ],
-  [
     "mo",
     3
   ],
   [
-    "mentira",
+    "misterios",
     3
   ],
   [
-    "memoria",
+    "minguante",
+    3
+  ],
+  [
+    "migueiro",
+    3
+  ],
+  [
+    "mexa",
+    3
+  ],
+  [
+    "merece",
+    3
+  ],
+  [
+    "mataram",
+    3
+  ],
+  [
+    "marquinho",
     3
   ],
   [
@@ -4168,7 +5116,15 @@
     3
   ],
   [
-    "maneiro",
+    "marca",
+    3
+  ],
+  [
+    "maravilhosa",
+    3
+  ],
+  [
+    "maracangalha",
     3
   ],
   [
@@ -4184,11 +5140,15 @@
     3
   ],
   [
-    "lobo",
+    "lugares",
     3
   ],
   [
-    "livrar",
+    "longo",
+    3
+  ],
+  [
+    "lobo",
     3
   ],
   [
@@ -4200,11 +5160,11 @@
     3
   ],
   [
-    "limao",
+    "lhes",
     3
   ],
   [
-    "levantou",
+    "levei",
     3
   ],
   [
@@ -4212,11 +5172,11 @@
     3
   ],
   [
-    "ler",
+    "levantei",
     3
   ],
   [
-    "lembrei",
+    "ler",
     3
   ],
   [
@@ -4224,23 +5184,11 @@
     3
   ],
   [
-    "lembrancas",
-    3
-  ],
-  [
-    "legal",
+    "lembrado",
     3
   ],
   [
     "lavar",
-    3
-  ],
-  [
-    "laue",
-    3
-  ],
-  [
-    "lapa",
     3
   ],
   [
@@ -4249,10 +5197,6 @@
   ],
   [
     "lamentar",
-    3
-  ],
-  [
-    "lae",
     3
   ],
   [
@@ -4272,7 +5216,15 @@
     3
   ],
   [
-    "jurei",
+    "jose",
+    3
+  ],
+  [
+    "jogada",
+    3
+  ],
+  [
+    "jequitiba",
     3
   ],
   [
@@ -4284,35 +5236,39 @@
     3
   ],
   [
-    "jamais",
+    "irmaos",
     3
   ],
   [
-    "iniciante",
+    "instrutor",
     3
   ],
   [
-    "imensidao",
+    "inimigos",
     3
   ],
   [
-    "idalina",
+    "infinito",
     3
   ],
   [
-    "i",
+    "importa",
     3
   ],
   [
-    "homen",
+    "ilusao",
     3
   ],
   [
-    "heroi",
+    "iluminar",
     3
   ],
   [
-    "havia",
+    "ilumina",
+    3
+  ],
+  [
+    "hino",
     3
   ],
   [
@@ -4320,7 +5276,7 @@
     3
   ],
   [
-    "guardo",
+    "gueirreiro",
     3
   ],
   [
@@ -4328,23 +5284,43 @@
     3
   ],
   [
+    "graduacao",
+    3
+  ],
+  [
     "graca",
     3
   ],
   [
-    "gigante",
+    "gaviao",
     3
   ],
   [
-    "gerais",
+    "garoa",
     3
   ],
   [
-    "genial",
+    "ganho",
     3
   ],
   [
-    "fugido",
+    "gangazumba",
+    3
+  ],
+  [
+    "galho",
+    3
+  ],
+  [
+    "fugiu",
+    3
+  ],
+  [
+    "fuba",
+    3
+  ],
+  [
+    "frutos",
     3
   ],
   [
@@ -4352,11 +5328,23 @@
     3
   ],
   [
+    "from",
+    3
+  ],
+  [
+    "francisco",
+    3
+  ],
+  [
     "franca",
     3
   ],
   [
-    "fraco",
+    "fortes",
+    3
+  ],
+  [
+    "forcas",
     3
   ],
   [
@@ -4364,11 +5352,7 @@
     3
   ],
   [
-    "fogo",
-    3
-  ],
-  [
-    "foge",
+    "flutuante",
     3
   ],
   [
@@ -4380,7 +5364,11 @@
     3
   ],
   [
-    "fique",
+    "fio",
+    3
+  ],
+  [
+    "finge",
     3
   ],
   [
@@ -4388,15 +5376,11 @@
     3
   ],
   [
-    "filhos",
+    "filha",
     3
   ],
   [
-    "fevereiro",
-    3
-  ],
-  [
-    "fenomenal",
+    "ferro",
     3
   ],
   [
@@ -4408,7 +5392,23 @@
     3
   ],
   [
+    "fecha",
+    3
+  ],
+  [
+    "fato",
+    3
+  ],
+  [
     "farinha",
+    3
+  ],
+  [
+    "fara",
+    3
+  ],
+  [
+    "famosa",
     3
   ],
   [
@@ -4416,11 +5416,31 @@
     3
   ],
   [
-    "falha",
+    "faleceu",
+    3
+  ],
+  [
+    "falai",
+    3
+  ],
+  [
+    "faceira",
+    3
+  ],
+  [
+    "facao",
+    3
+  ],
+  [
+    "euforia",
     3
   ],
   [
     "estiver",
+    3
+  ],
+  [
+    "esquiva",
     3
   ],
   [
@@ -4432,11 +5452,19 @@
     3
   ],
   [
+    "esquecerei",
+    3
+  ],
+  [
     "espirito",
     3
   ],
   [
     "espinho",
+    3
+  ],
+  [
+    "esperto",
     3
   ],
   [
@@ -4448,15 +5476,7 @@
     3
   ],
   [
-    "escuto",
-    3
-  ],
-  [
     "escutei",
-    3
-  ],
-  [
-    "escura",
     3
   ],
   [
@@ -4464,7 +5484,15 @@
     3
   ],
   [
-    "errado",
+    "escolheu",
+    3
+  ],
+  [
+    "escolher",
+    3
+  ],
+  [
+    "escapar",
     3
   ],
   [
@@ -4472,11 +5500,27 @@
     3
   ],
   [
+    "entrava",
+    3
+  ],
+  [
+    "entendo",
+    3
+  ],
+  [
     "enganar",
     3
   ],
   [
-    "encanta",
+    "enganador",
+    3
+  ],
+  [
+    "encontro",
+    3
+  ],
+  [
+    "encantado",
     3
   ],
   [
@@ -4488,14 +5532,6 @@
     3
   ],
   [
-    "embaixo",
-    3
-  ],
-  [
-    "dourado",
-    3
-  ],
-  [
     "dorme",
     3
   ],
@@ -4504,15 +5540,11 @@
     3
   ],
   [
+    "dobra",
+    3
+  ],
+  [
     "divina",
-    3
-  ],
-  [
-    "ditado",
-    3
-  ],
-  [
-    "direcao",
     3
   ],
   [
@@ -4520,7 +5552,23 @@
     3
   ],
   [
+    "diamante",
+    3
+  ],
+  [
     "diablo",
+    3
+  ],
+  [
+    "devocao",
+    3
+  ],
+  [
+    "devo",
+    3
+  ],
+  [
+    "devagarinho",
     3
   ],
   [
@@ -4532,7 +5580,15 @@
     3
   ],
   [
+    "desceu",
+    3
+  ],
+  [
     "descer",
+    3
+  ],
+  [
+    "descascada",
     3
   ],
   [
@@ -4540,15 +5596,11 @@
     3
   ],
   [
-    "desafio",
-    3
-  ],
-  [
-    "derruba",
-    3
-  ],
-  [
     "dera",
+    3
+  ],
+  [
+    "demora",
     3
   ],
   [
@@ -4556,15 +5608,7 @@
     3
   ],
   [
-    "defender",
-    3
-  ],
-  [
-    "danada",
-    3
-  ],
-  [
-    "dai",
+    "dali",
     3
   ],
   [
@@ -4572,19 +5616,11 @@
     3
   ],
   [
-    "criado",
-    3
-  ],
-  [
-    "cresce",
-    3
-  ],
-  [
     "crenca",
     3
   ],
   [
-    "cozinhar",
+    "costas",
     3
   ],
   [
@@ -4592,11 +5628,15 @@
     3
   ],
   [
-    "corte",
+    "corto",
     3
   ],
   [
-    "correu",
+    "corrido",
+    3
+  ],
+  [
+    "coronel",
     3
   ],
   [
@@ -4604,11 +5644,11 @@
     3
   ],
   [
-    "coro",
+    "coreba",
     3
   ],
   [
-    "conversa",
+    "coragem",
     3
   ],
   [
@@ -4620,35 +5660,15 @@
     3
   ],
   [
-    "consola",
+    "considerado",
     3
   ],
   [
-    "consigo",
+    "congo",
     3
   ],
   [
-    "consegue",
-    3
-  ],
-  [
-    "conheci",
-    3
-  ],
-  [
-    "conheceu",
-    3
-  ],
-  [
-    "confusao",
-    3
-  ],
-  [
-    "comble",
-    3
-  ],
-  [
-    "colher",
+    "comeco",
     3
   ],
   [
@@ -4660,7 +5680,11 @@
     3
   ],
   [
-    "clarear",
+    "cocada",
+    3
+  ],
+  [
+    "claro",
     3
   ],
   [
@@ -4668,15 +5692,19 @@
     3
   ],
   [
-    "cintura",
+    "chuva",
     3
   ],
   [
-    "cheio",
+    "chame",
     3
   ],
   [
-    "cem",
+    "chamava",
+    3
+  ],
+  [
+    "certa",
     3
   ],
   [
@@ -4688,19 +5716,15 @@
     3
   ],
   [
-    "cavalo",
-    3
-  ],
-  [
     "carta",
     3
   ],
   [
-    "capoeiras",
+    "capenga",
     3
   ],
   [
-    "capital",
+    "canjiquinha",
     3
   ],
   [
@@ -4708,19 +5732,23 @@
     3
   ],
   [
-    "canarinho",
-    3
-  ],
-  [
-    "camugere",
-    3
-  ],
-  [
     "campo",
     3
   ],
   [
+    "camaradas",
+    3
+  ],
+  [
+    "camafeu",
+    3
+  ],
+  [
     "caindo",
+    3
+  ],
+  [
+    "caicara",
     3
   ],
   [
@@ -4732,11 +5760,11 @@
     3
   ],
   [
-    "brinco",
+    "bravo",
     3
   ],
   [
-    "bravo",
+    "brava",
     3
   ],
   [
@@ -4744,15 +5772,11 @@
     3
   ],
   [
-    "bolso",
-    3
-  ],
-  [
-    "beriba",
-    3
-  ],
-  [
     "beber",
+    3
+  ],
+  [
+    "be",
     3
   ],
   [
@@ -4760,11 +5784,7 @@
     3
   ],
   [
-    "bata",
-    3
-  ],
-  [
-    "barro",
+    "basta",
     3
   ],
   [
@@ -4772,7 +5792,11 @@
     3
   ],
   [
-    "barracao",
+    "bantos",
+    3
+  ],
+  [
+    "balancou",
     3
   ],
   [
@@ -4780,11 +5804,7 @@
     3
   ],
   [
-    "baiana",
-    3
-  ],
-  [
-    "azar",
+    "azul",
     3
   ],
   [
@@ -4792,7 +5812,19 @@
     3
   ],
   [
+    "aumentar",
+    3
+  ],
+  [
+    "atenilo",
+    3
+  ],
+  [
     "ataque",
+    3
+  ],
+  [
+    "at",
     3
   ],
   [
@@ -4808,11 +5840,11 @@
     3
   ],
   [
-    "armada",
+    "apertar",
     3
   ],
   [
-    "apertar",
+    "apanhou",
     3
   ],
   [
@@ -4836,27 +5868,27 @@
     3
   ],
   [
-    "ancestrais",
+    "amava",
     3
   ],
   [
-    "amarrado",
+    "amanheco",
     3
   ],
   [
-    "alunos",
+    "alta",
     3
   ],
   [
-    "alto",
+    "alice",
     3
   ],
   [
-    "aldeia",
+    "africano",
     3
   ],
   [
-    "aide",
+    "afinado",
     3
   ],
   [
@@ -4864,39 +5896,19 @@
     3
   ],
   [
-    "acreditar",
+    "acreditei",
     3
   ],
   [
-    "acredita",
+    "aco",
     3
   ],
   [
-    "acordei",
-    3
-  ],
-  [
-    "acaraje",
-    3
-  ],
-  [
-    "abre",
+    "aceito",
     3
   ],
   [
     "abra",
-    3
-  ],
-  [
-    "abolicao",
-    3
-  ],
-  [
-    "aberta",
-    3
-  ],
-  [
-    "abencoar",
     3
   ],
   [
@@ -4908,19 +5920,15 @@
     2
   ],
   [
-    "vosmice",
-    2
-  ],
-  [
-    "voo",
-    2
-  ],
-  [
-    "voltou",
+    "vulgar",
     2
   ],
   [
     "voltas",
+    2
+  ],
+  [
+    "voices",
     2
   ],
   [
@@ -4933,10 +5941,6 @@
   ],
   [
     "vista",
-    2
-  ],
-  [
-    "virgem",
     2
   ],
   [
@@ -4960,10 +5964,6 @@
     2
   ],
   [
-    "verdadeira",
-    2
-  ],
-  [
     "verao",
     2
   ],
@@ -4984,7 +5984,27 @@
     2
   ],
   [
+    "vendeu",
+    2
+  ],
+  [
+    "vendendo",
+    2
+  ],
+  [
+    "vende",
+    2
+  ],
+  [
     "vencido",
+    2
+  ],
+  [
+    "vence",
+    2
+  ],
+  [
+    "velhaco",
     2
   ],
   [
@@ -5004,7 +6024,19 @@
     2
   ],
   [
+    "varios",
+    2
+  ],
+  [
+    "vara",
+    2
+  ],
+  [
     "valia",
+    2
+  ],
+  [
+    "vadiagem",
     2
   ],
   [
@@ -5016,7 +6048,7 @@
     2
   ],
   [
-    "usava",
+    "v",
     2
   ],
   [
@@ -5024,7 +6056,19 @@
     2
   ],
   [
+    "usada",
+    2
+  ],
+  [
+    "ungo",
+    2
+  ],
+  [
     "un",
+    2
+  ],
+  [
+    "umbundo",
     2
   ],
   [
@@ -5032,7 +6076,15 @@
     2
   ],
   [
+    "tumbar",
+    2
+  ],
+  [
     "tumba",
+    2
+  ],
+  [
+    "tudos",
     2
   ],
   [
@@ -5052,7 +6104,7 @@
     2
   ],
   [
-    "trazido",
+    "trazia",
     2
   ],
   [
@@ -5060,11 +6112,11 @@
     2
   ],
   [
-    "traicoeira",
+    "transformo",
     2
   ],
   [
-    "traga",
+    "traicoeira",
     2
   ],
   [
@@ -5072,7 +6124,7 @@
     2
   ],
   [
-    "trabalhador",
+    "trabalha",
     2
   ],
   [
@@ -5080,11 +6132,7 @@
     2
   ],
   [
-    "totonho",
-    2
-  ],
-  [
-    "toquei",
+    "tony",
     2
   ],
   [
@@ -5096,15 +6144,11 @@
     2
   ],
   [
-    "tiro",
+    "tiririca",
     2
   ],
   [
     "tire",
-    2
-  ],
-  [
-    "tirava",
     2
   ],
   [
@@ -5116,11 +6160,11 @@
     2
   ],
   [
-    "terminar",
+    "tento",
     2
   ],
   [
-    "tento",
+    "tente",
     2
   ],
   [
@@ -5132,15 +6176,7 @@
     2
   ],
   [
-    "temido",
-    2
-  ],
-  [
     "tardinha",
-    2
-  ],
-  [
-    "tapa",
     2
   ],
   [
@@ -5148,11 +6184,11 @@
     2
   ],
   [
-    "tamanha",
+    "surpresa",
     2
   ],
   [
-    "surpresa",
+    "surpreendeu",
     2
   ],
   [
@@ -5160,15 +6196,11 @@
     2
   ],
   [
+    "sumiu",
+    2
+  ],
+  [
     "subi",
-    2
-  ],
-  [
-    "starts",
-    2
-  ],
-  [
-    "sozinha",
     2
   ],
   [
@@ -5176,23 +6208,19 @@
     2
   ],
   [
+    "sorisso",
+    2
+  ],
+  [
     "sopra",
     2
   ],
   [
-    "sonhei",
+    "sonhar",
     2
   ],
   [
     "sonhador",
-    2
-  ],
-  [
-    "song",
-    2
-  ],
-  [
-    "solucao",
     2
   ],
   [
@@ -5204,11 +6232,19 @@
     2
   ],
   [
+    "sofredor",
+    2
+  ],
+  [
     "sofre",
     2
   ],
   [
-    "soco",
+    "sobreviver",
+    2
+  ],
+  [
+    "sobrasse",
     2
   ],
   [
@@ -5216,7 +6252,15 @@
     2
   ],
   [
+    "simple",
+    2
+  ],
+  [
     "sequer",
+    2
+  ],
+  [
+    "seq",
     2
   ],
   [
@@ -5224,7 +6268,19 @@
     2
   ],
   [
+    "semeo",
+    2
+  ],
+  [
     "sela",
+    2
+  ],
+  [
+    "sede",
+    2
+  ],
+  [
+    "seda",
     2
   ],
   [
@@ -5232,7 +6288,7 @@
     2
   ],
   [
-    "saude",
+    "sata",
     2
   ],
   [
@@ -5240,15 +6296,27 @@
     2
   ],
   [
-    "sapateiro",
-    2
-  ],
-  [
     "sapateia",
     2
   ],
   [
+    "santana",
+    2
+  ],
+  [
+    "sambar",
+    2
+  ],
+  [
+    "salom",
+    2
+  ],
+  [
     "sagrado",
+    2
+  ],
+  [
+    "sacrificio",
     2
   ],
   [
@@ -5264,10 +6332,6 @@
     2
   ],
   [
-    "ruim",
-    2
-  ],
-  [
     "rufou",
     2
   ],
@@ -5276,7 +6340,15 @@
     2
   ],
   [
+    "romper",
+    2
+  ],
+  [
     "rolou",
+    2
+  ],
+  [
+    "rola",
     2
   ],
   [
@@ -5288,7 +6360,7 @@
     2
   ],
   [
-    "ritual",
+    "ritmo",
     2
   ],
   [
@@ -5296,15 +6368,7 @@
     2
   ],
   [
-    "ringue",
-    2
-  ],
-  [
     "riachao",
-    2
-  ],
-  [
-    "rezo",
     2
   ],
   [
@@ -5316,7 +6380,7 @@
     2
   ],
   [
-    "responde",
+    "respondia",
     2
   ],
   [
@@ -5324,11 +6388,7 @@
     2
   ],
   [
-    "respirar",
-    2
-  ],
-  [
-    "respeita",
+    "respiro",
     2
   ],
   [
@@ -5348,11 +6408,11 @@
     2
   ],
   [
-    "renda",
+    "reluz",
     2
   ],
   [
-    "remar",
+    "religiosas",
     2
   ],
   [
@@ -5364,15 +6424,15 @@
     2
   ],
   [
-    "recordo",
-    2
-  ],
-  [
     "reconcavo",
     2
   ],
   [
     "reco",
+    2
+  ],
+  [
+    "reclamar",
     2
   ],
   [
@@ -5388,11 +6448,15 @@
     2
   ],
   [
+    "rapido",
+    2
+  ],
+  [
     "rampa",
     2
   ],
   [
-    "raizes",
+    "raiz",
     2
   ],
   [
@@ -5400,11 +6464,27 @@
     2
   ],
   [
+    "raia",
+    2
+  ],
+  [
+    "quizer",
+    2
+  ],
+  [
     "quimbundo",
     2
   ],
   [
-    "qui",
+    "quente",
+    2
+  ],
+  [
+    "queimava",
+    2
+  ],
+  [
+    "queda",
     2
   ],
   [
@@ -5428,11 +6508,11 @@
     2
   ],
   [
-    "quadras",
+    "puxar",
     2
   ],
   [
-    "puxar",
+    "punhal",
     2
   ],
   [
@@ -5440,15 +6520,7 @@
     2
   ],
   [
-    "pulava",
-    2
-  ],
-  [
     "prova",
-    2
-  ],
-  [
-    "proteja",
     2
   ],
   [
@@ -5461,10 +6533,6 @@
   ],
   [
     "pros",
-    2
-  ],
-  [
-    "pronto",
     2
   ],
   [
@@ -5488,7 +6556,15 @@
     2
   ],
   [
+    "procura",
+    2
+  ],
+  [
     "prisao",
+    2
+  ],
+  [
+    "pretos",
     2
   ],
   [
@@ -5496,7 +6572,7 @@
     2
   ],
   [
-    "presentear",
+    "pressa",
     2
   ],
   [
@@ -5516,19 +6592,15 @@
     2
   ],
   [
-    "preguica",
-    2
-  ],
-  [
     "prece",
     2
   ],
   [
-    "praticado",
+    "praticada",
     2
   ],
   [
-    "praticada",
+    "prata",
     2
   ],
   [
@@ -5540,31 +6612,7 @@
     2
   ],
   [
-    "portao",
-    2
-  ],
-  [
-    "popo",
-    2
-  ],
-  [
-    "ponha",
-    2
-  ],
-  [
-    "pomba",
-    2
-  ],
-  [
-    "policia",
-    2
-  ],
-  [
-    "poeta",
-    2
-  ],
-  [
-    "poderosa",
+    "porao",
     2
   ],
   [
@@ -5580,15 +6628,7 @@
     2
   ],
   [
-    "pisei",
-    2
-  ],
-  [
     "pisao",
-    2
-  ],
-  [
-    "pisada",
     2
   ],
   [
@@ -5604,7 +6644,15 @@
     2
   ],
   [
+    "picava",
+    2
+  ],
+  [
     "pessoal",
+    2
+  ],
+  [
+    "pescar",
     2
   ],
   [
@@ -5624,10 +6672,6 @@
     2
   ],
   [
-    "pernada",
-    2
-  ],
-  [
     "perna",
     2
   ],
@@ -5644,6 +6688,14 @@
     2
   ],
   [
+    "perdi",
+    2
+  ],
+  [
+    "perderam",
+    2
+  ],
+  [
     "perde",
     2
   ],
@@ -5652,11 +6704,11 @@
     2
   ],
   [
-    "pensam",
+    "pensamentos",
     2
   ],
   [
-    "pensa",
+    "pensam",
     2
   ],
   [
@@ -5668,7 +6720,11 @@
     2
   ],
   [
-    "pegava",
+    "pegue",
+    2
+  ],
+  [
+    "pedreira",
     2
   ],
   [
@@ -5676,11 +6732,7 @@
     2
   ],
   [
-    "pedia",
-    2
-  ],
-  [
-    "pede",
+    "pedi",
     2
   ],
   [
@@ -5696,7 +6748,7 @@
     2
   ],
   [
-    "passaro",
+    "passeio",
     2
   ],
   [
@@ -5708,15 +6760,7 @@
     2
   ],
   [
-    "parei",
-    2
-  ],
-  [
     "pareco",
-    2
-  ],
-  [
-    "parecia",
     2
   ],
   [
@@ -5732,19 +6776,11 @@
     2
   ],
   [
-    "papo",
-    2
-  ],
-  [
     "pancada",
     2
   ],
   [
-    "palmas",
-    2
-  ],
-  [
-    "pagar",
+    "palpita",
     2
   ],
   [
@@ -5752,11 +6788,11 @@
     2
   ],
   [
-    "outrora",
+    "ouca",
     2
   ],
   [
-    "ouca",
+    "osso",
     2
   ],
   [
@@ -5784,7 +6820,7 @@
     2
   ],
   [
-    "olhei",
+    "olhou",
     2
   ],
   [
@@ -5804,10 +6840,6 @@
     2
   ],
   [
-    "ola",
-    2
-  ],
-  [
     "oia",
     2
   ],
@@ -5816,15 +6848,11 @@
     2
   ],
   [
-    "noticia",
-    2
-  ],
-  [
-    "nordeste",
-    2
-  ],
-  [
     "noitinha",
+    2
+  ],
+  [
+    "nobre",
     2
   ],
   [
@@ -5836,15 +6864,15 @@
     2
   ],
   [
-    "nenhum",
-    2
-  ],
-  [
     "nela",
     2
   ],
   [
-    "negocio",
+    "negritude",
+    2
+  ],
+  [
+    "negos",
     2
   ],
   [
@@ -5864,14 +6892,6 @@
     2
   ],
   [
-    "navega",
-    2
-  ],
-  [
-    "natal",
-    2
-  ],
-  [
     "nascido",
     2
   ],
@@ -5884,7 +6904,7 @@
     2
   ],
   [
-    "nagos",
+    "name",
     2
   ],
   [
@@ -5892,7 +6912,11 @@
     2
   ],
   [
-    "mundial",
+    "my",
+    2
+  ],
+  [
+    "multidao",
     2
   ],
   [
@@ -5900,19 +6924,11 @@
     2
   ],
   [
-    "muda",
-    2
-  ],
-  [
-    "muca",
+    "movimentos",
     2
   ],
   [
     "movimento",
-    2
-  ],
-  [
-    "morria",
     2
   ],
   [
@@ -5924,7 +6940,27 @@
     2
   ],
   [
+    "moqueca",
+    2
+  ],
+  [
+    "montado",
+    2
+  ],
+  [
+    "molhou",
+    2
+  ],
+  [
+    "molejar",
+    2
+  ],
+  [
     "mola",
+    2
+  ],
+  [
+    "moenda",
     2
   ],
   [
@@ -5936,7 +6972,7 @@
     2
   ],
   [
-    "misterios",
+    "mistura",
     2
   ],
   [
@@ -5952,6 +6988,14 @@
     2
   ],
   [
+    "miseria",
+    2
+  ],
+  [
+    "mironga",
+    2
+  ],
+  [
     "mingueiros",
     2
   ],
@@ -5964,11 +7008,11 @@
     2
   ],
   [
-    "milho",
+    "mingado",
     2
   ],
   [
-    "migueiro",
+    "mingada",
     2
   ],
   [
@@ -5984,7 +7028,7 @@
     2
   ],
   [
-    "merece",
+    "mesa",
     2
   ],
   [
@@ -6012,7 +7056,7 @@
     2
   ],
   [
-    "mataram",
+    "matagal",
     2
   ],
   [
@@ -6020,7 +7064,11 @@
     2
   ],
   [
-    "marimbondo",
+    "marias",
+    2
+  ],
+  [
+    "mareja",
     2
   ],
   [
@@ -6028,11 +7076,11 @@
     2
   ],
   [
-    "marcar",
+    "marcado",
     2
   ],
   [
-    "marca",
+    "marcacao",
     2
   ],
   [
@@ -6040,11 +7088,7 @@
     2
   ],
   [
-    "maracangalha",
-    2
-  ],
-  [
-    "manuel",
+    "manteiga",
     2
   ],
   [
@@ -6053,6 +7097,10 @@
   ],
   [
     "mangue",
+    2
+  ],
+  [
+    "malvada",
     2
   ],
   [
@@ -6076,11 +7124,23 @@
     2
   ],
   [
-    "madrugada",
+    "madame",
     2
   ],
   [
     "maceio",
+    2
+  ],
+  [
+    "macaruba",
+    2
+  ],
+  [
+    "macaco",
+    2
+  ],
+  [
+    "luto",
     2
   ],
   [
@@ -6092,7 +7152,23 @@
     2
   ],
   [
-    "longo",
+    "lutador",
+    2
+  ],
+  [
+    "luiz",
+    2
+  ],
+  [
+    "louvor",
+    2
+  ],
+  [
+    "longue",
+    2
+  ],
+  [
+    "lombo",
     2
   ],
   [
@@ -6104,7 +7180,19 @@
     2
   ],
   [
+    "livra",
+    2
+  ],
+  [
+    "linguagem",
+    2
+  ],
+  [
     "lingua",
+    2
+  ],
+  [
+    "limpinha",
     2
   ],
   [
@@ -6112,7 +7200,15 @@
     2
   ],
   [
-    "levei",
+    "lider",
+    2
+  ],
+  [
+    "liberal",
+    2
+  ],
+  [
+    "li",
     2
   ],
   [
@@ -6124,11 +7220,7 @@
     2
   ],
   [
-    "lenda",
-    2
-  ],
-  [
-    "lembrado",
+    "lendario",
     2
   ],
   [
@@ -6136,7 +7228,19 @@
     2
   ],
   [
+    "leguas",
+    2
+  ],
+  [
     "lavoura",
+    2
+  ],
+  [
+    "laua",
+    2
+  ],
+  [
+    "largar",
     2
   ],
   [
@@ -6145,6 +7249,26 @@
   ],
   [
     "lampioes",
+    2
+  ],
+  [
+    "lamenta",
+    2
+  ],
+  [
+    "lagrima",
+    2
+  ],
+  [
+    "lados",
+    2
+  ],
+  [
+    "ladainhas",
+    2
+  ],
+  [
+    "lacos",
     2
   ],
   [
@@ -6160,7 +7284,15 @@
     2
   ],
   [
+    "kim",
+    2
+  ],
+  [
     "juro",
+    2
+  ],
+  [
+    "juntou",
     2
   ],
   [
@@ -6168,11 +7300,11 @@
     2
   ],
   [
-    "juizo",
+    "julgue",
     2
   ],
   [
-    "jose",
+    "juizo",
     2
   ],
   [
@@ -6184,11 +7316,15 @@
     2
   ],
   [
-    "jogada",
+    "joelhada",
     2
   ],
   [
-    "jequitiba",
+    "jeji",
+    2
+  ],
+  [
+    "japones",
     2
   ],
   [
@@ -6196,7 +7332,23 @@
     2
   ],
   [
-    "irmaos",
+    "itapua",
+    2
+  ],
+  [
+    "itapoan",
+    2
+  ],
+  [
+    "iris",
+    2
+  ],
+  [
+    "iria",
+    2
+  ],
+  [
+    "ipe",
     2
   ],
   [
@@ -6204,11 +7356,11 @@
     2
   ],
   [
-    "instrutor",
+    "inundava",
     2
   ],
   [
-    "inspiracao",
+    "instante",
     2
   ],
   [
@@ -6216,15 +7368,15 @@
     2
   ],
   [
-    "inimigos",
-    2
-  ],
-  [
     "ingratidao",
     2
   ],
   [
-    "infinito",
+    "ingazeira",
+    2
+  ],
+  [
+    "infeliz",
     2
   ],
   [
@@ -6236,7 +7388,15 @@
     2
   ],
   [
-    "importa",
+    "impossivel",
+    2
+  ],
+  [
+    "importar",
+    2
+  ],
+  [
+    "implorava",
     2
   ],
   [
@@ -6248,7 +7408,11 @@
     2
   ],
   [
-    "ilusao",
+    "imagem",
+    2
+  ],
+  [
+    "iguais",
     2
   ],
   [
@@ -6256,7 +7420,23 @@
     2
   ],
   [
-    "hino",
+    "ideal",
+    2
+  ],
+  [
+    "idade",
+    2
+  ],
+  [
+    "iam",
+    2
+  ],
+  [
+    "houve",
+    2
+  ],
+  [
+    "homenagem",
     2
   ],
   [
@@ -6280,7 +7460,15 @@
     2
   ],
   [
-    "guerreira",
+    "guatambu",
+    2
+  ],
+  [
+    "guardava",
+    2
+  ],
+  [
+    "guardar",
     2
   ],
   [
@@ -6296,7 +7484,7 @@
     2
   ],
   [
-    "graduacao",
+    "graduado",
     2
   ],
   [
@@ -6324,15 +7512,15 @@
     2
   ],
   [
+    "goias",
+    2
+  ],
+  [
+    "goiania",
+    2
+  ],
+  [
     "girar",
-    2
-  ],
-  [
-    "gingar",
-    2
-  ],
-  [
-    "gingado",
     2
   ],
   [
@@ -6340,23 +7528,23 @@
     2
   ],
   [
-    "general",
-    2
-  ],
-  [
-    "gaviao",
-    2
-  ],
-  [
     "garra",
     2
   ],
   [
-    "garoa",
+    "garapa",
     2
   ],
   [
-    "ganho",
+    "gantois",
+    2
+  ],
+  [
+    "ganhou",
+    2
+  ],
+  [
+    "ganhei",
     2
   ],
   [
@@ -6368,7 +7556,19 @@
     2
   ],
   [
-    "galho",
+    "gameleira",
+    2
+  ],
+  [
+    "gamaleira",
+    2
+  ],
+  [
+    "galinha",
+    2
+  ],
+  [
+    "galha",
     2
   ],
   [
@@ -6384,7 +7584,11 @@
     2
   ],
   [
-    "fugiu",
+    "furar",
+    2
+  ],
+  [
+    "fumo",
     2
   ],
   [
@@ -6396,19 +7600,7 @@
     2
   ],
   [
-    "fuba",
-    2
-  ],
-  [
     "fruta",
-    2
-  ],
-  [
-    "from",
-    2
-  ],
-  [
-    "francisco",
     2
   ],
   [
@@ -6420,11 +7612,7 @@
     2
   ],
   [
-    "fortes",
-    2
-  ],
-  [
-    "formo",
+    "formou",
     2
   ],
   [
@@ -6432,11 +7620,15 @@
     2
   ],
   [
+    "folha",
+    2
+  ],
+  [
     "fofoca",
     2
   ],
   [
-    "flutuante",
+    "fita",
     2
   ],
   [
@@ -6444,19 +7636,11 @@
     2
   ],
   [
-    "fio",
-    2
-  ],
-  [
-    "finge",
+    "findar",
     2
   ],
   [
     "filmava",
-    2
-  ],
-  [
-    "filha",
     2
   ],
   [
@@ -6468,7 +7652,11 @@
     2
   ],
   [
-    "ferro",
+    "festejo",
+    2
+  ],
+  [
+    "festas",
     2
   ],
   [
@@ -6476,27 +7664,15 @@
     2
   ],
   [
-    "feliz",
-    2
-  ],
-  [
     "fede",
     2
   ],
   [
-    "fecha",
+    "favela",
     2
   ],
   [
-    "fato",
-    2
-  ],
-  [
-    "fara",
-    2
-  ],
-  [
-    "famosa",
+    "fanho",
     2
   ],
   [
@@ -6505,10 +7681,6 @@
   ],
   [
     "falto",
-    2
-  ],
-  [
-    "faleceu",
     2
   ],
   [
@@ -6524,11 +7696,35 @@
     2
   ],
   [
-    "facao",
+    "faceiro",
     2
   ],
   [
-    "existia",
+    "fabricador",
+    2
+  ],
+  [
+    "eziquiel",
+    2
+  ],
+  [
+    "eziquel",
+    2
+  ],
+  [
+    "expresso",
+    2
+  ],
+  [
+    "esverdeados",
+    2
+  ],
+  [
+    "estudar",
+    2
+  ],
+  [
+    "estivesse",
     2
   ],
   [
@@ -6548,11 +7744,7 @@
     2
   ],
   [
-    "esquiva",
-    2
-  ],
-  [
-    "esquecerei",
+    "esquenta",
     2
   ],
   [
@@ -6560,15 +7752,7 @@
     2
   ],
   [
-    "esperto",
-    2
-  ],
-  [
     "especie",
-    2
-  ],
-  [
-    "espalhou",
     2
   ],
   [
@@ -6584,15 +7768,11 @@
     2
   ],
   [
+    "escorreria",
+    2
+  ],
+  [
     "escondo",
-    2
-  ],
-  [
-    "escolhi",
-    2
-  ],
-  [
-    "escolher",
     2
   ],
   [
@@ -6601,6 +7781,10 @@
   ],
   [
     "erro",
+    2
+  ],
+  [
+    "errante",
     2
   ],
   [
@@ -6620,11 +7804,7 @@
     2
   ],
   [
-    "entrava",
-    2
-  ],
-  [
-    "entendo",
+    "entendi",
     2
   ],
   [
@@ -6632,11 +7812,15 @@
     2
   ],
   [
+    "ensinavam",
+    2
+  ],
+  [
     "ensinamentos",
     2
   ],
   [
-    "enganador",
+    "enriquecer",
     2
   ],
   [
@@ -6652,15 +7836,23 @@
     2
   ],
   [
-    "encontro",
-    2
-  ],
-  [
     "encontra",
     2
   ],
   [
+    "encia",
+    2
+  ],
+  [
+    "enche",
+    2
+  ],
+  [
     "encarnado",
+    2
+  ],
+  [
+    "encantou",
     2
   ],
   [
@@ -6684,6 +7876,10 @@
     2
   ],
   [
+    "eficiente",
+    2
+  ],
+  [
     "eea",
     2
   ],
@@ -6696,6 +7892,10 @@
     2
   ],
   [
+    "ecoo",
+    2
+  ],
+  [
     "dormir",
     2
   ],
@@ -6704,11 +7904,15 @@
     2
   ],
   [
-    "domingos",
+    "dormi",
     2
   ],
   [
-    "doente",
+    "dores",
+    2
+  ],
+  [
+    "domingos",
     2
   ],
   [
@@ -6716,7 +7920,7 @@
     2
   ],
   [
-    "dobra",
+    "doce",
     2
   ],
   [
@@ -6740,7 +7944,7 @@
     2
   ],
   [
-    "diamante",
+    "dialeto",
     2
   ],
   [
@@ -6756,15 +7960,23 @@
     2
   ],
   [
-    "devocao",
+    "desilusao",
     2
   ],
   [
-    "devo",
+    "desigualdade",
     2
   ],
   [
-    "devagarinho",
+    "desfaco",
+    2
+  ],
+  [
+    "desespero",
+    2
+  ],
+  [
+    "desenvolveu",
     2
   ],
   [
@@ -6776,7 +7988,15 @@
     2
   ],
   [
+    "desejar",
+    2
+  ],
+  [
     "desconhecido",
+    2
+  ],
+  [
+    "descobriu",
     2
   ],
   [
@@ -6784,7 +8004,7 @@
     2
   ],
   [
-    "desceu",
+    "descendo",
     2
   ],
   [
@@ -6796,11 +8016,23 @@
     2
   ],
   [
-    "demora",
+    "derramou",
+    2
+  ],
+  [
+    "deputado",
     2
   ],
   [
     "dema",
+    2
+  ],
+  [
+    "delicado",
+    2
+  ],
+  [
+    "deles",
     2
   ],
   [
@@ -6809,14 +8041,6 @@
   ],
   [
     "dedico",
-    2
-  ],
-  [
-    "dancar",
-    2
-  ],
-  [
-    "dali",
     2
   ],
   [
@@ -6832,11 +8056,35 @@
     2
   ],
   [
+    "cultural",
+    2
+  ],
+  [
     "cujo",
     2
   ],
   [
+    "cuidar",
+    2
+  ],
+  [
+    "cruel",
+    2
+  ],
+  [
     "crio",
+    2
+  ],
+  [
+    "criaram",
+    2
+  ],
+  [
+    "criada",
+    2
+  ],
+  [
+    "cozinha",
     2
   ],
   [
@@ -6856,11 +8104,7 @@
     2
   ],
   [
-    "costas",
-    2
-  ],
-  [
-    "corto",
+    "correnteza",
     2
   ],
   [
@@ -6868,11 +8112,11 @@
     2
   ],
   [
-    "coronel",
+    "coros",
     2
   ],
   [
-    "coragem",
+    "convite",
     2
   ],
   [
@@ -6880,19 +8124,23 @@
     2
   ],
   [
+    "contou",
+    2
+  ],
+  [
     "contagiar",
     2
   ],
   [
-    "conhecido",
-    2
-  ],
-  [
-    "congo",
+    "confirmar",
     2
   ],
   [
     "confesso",
+    2
+  ],
+  [
+    "comprar",
     2
   ],
   [
@@ -6904,27 +8152,15 @@
     2
   ],
   [
-    "comeco",
-    2
-  ],
-  [
-    "coma",
-    2
-  ],
-  [
     "colosso",
     2
   ],
   [
-    "colonial",
-    2
-  ],
-  [
-    "cocada",
-    2
-  ],
-  [
     "cobertor",
+    2
+  ],
+  [
+    "clareia",
     2
   ],
   [
@@ -6940,7 +8176,11 @@
     2
   ],
   [
-    "chula",
+    "chotao",
+    2
+  ],
+  [
+    "chorao",
     2
   ],
   [
@@ -6952,11 +8192,19 @@
     2
   ],
   [
-    "chame",
+    "charuto",
     2
   ],
   [
-    "certa",
+    "chamei",
+    2
+  ],
+  [
+    "chamada",
+    2
+  ],
+  [
+    "certeiro",
     2
   ],
   [
@@ -6964,11 +8212,15 @@
     2
   ],
   [
-    "cativo",
+    "ceias",
     2
   ],
   [
-    "catarina",
+    "ceia",
+    2
+  ],
+  [
+    "cativo",
     2
   ],
   [
@@ -6984,7 +8236,15 @@
     2
   ],
   [
+    "case",
+    2
+  ],
+  [
     "cascavel",
+    2
+  ],
+  [
+    "casar",
     2
   ],
   [
@@ -6992,15 +8252,47 @@
     2
   ],
   [
+    "carreira",
+    2
+  ],
+  [
+    "carregam",
+    2
+  ],
+  [
     "caroco",
     2
   ],
   [
-    "capoeiragem",
+    "carioca",
     2
   ],
   [
-    "capenga",
+    "capoiera",
+    2
+  ],
+  [
+    "capixaba",
+    2
+  ],
+  [
+    "capineiro",
+    2
+  ],
+  [
+    "capim",
+    2
+  ],
+  [
+    "capanga",
+    2
+  ],
+  [
+    "cantavem",
+    2
+  ],
+  [
+    "cantarolava",
     2
   ],
   [
@@ -7012,7 +8304,11 @@
     2
   ],
   [
-    "caminhos",
+    "campos",
+    2
+  ],
+  [
+    "camboata",
     2
   ],
   [
@@ -7024,15 +8320,7 @@
     2
   ],
   [
-    "camaradas",
-    2
-  ],
-  [
     "camaleao",
-    2
-  ],
-  [
-    "camafeu",
     2
   ],
   [
@@ -7048,15 +8336,19 @@
     2
   ],
   [
-    "cajueiro",
+    "caju",
     2
   ],
   [
-    "caicara",
+    "cairam",
     2
   ],
   [
     "caetano",
+    2
+  ],
+  [
+    "cadenciado",
     2
   ],
   [
@@ -7065,6 +8357,10 @@
   ],
   [
     "cachoeira",
+    2
+  ],
+  [
+    "cacau",
     2
   ],
   [
@@ -7088,23 +8384,15 @@
     2
   ],
   [
-    "brava",
-    2
-  ],
-  [
-    "branca",
-    2
-  ],
-  [
     "bobo",
     2
   ],
   [
-    "bico",
+    "boazinha",
     2
   ],
   [
-    "berimbaus",
+    "bico",
     2
   ],
   [
@@ -7116,7 +8404,19 @@
     2
   ],
   [
+    "bentinho",
+    2
+  ],
+  [
+    "bentevi",
+    2
+  ],
+  [
     "bengue",
+    2
+  ],
+  [
+    "benedito",
     2
   ],
   [
@@ -7124,11 +8424,11 @@
     2
   ],
   [
-    "be",
+    "bato",
     2
   ],
   [
-    "bato",
+    "batente",
     2
   ],
   [
@@ -7140,11 +8440,7 @@
     2
   ],
   [
-    "basta",
-    2
-  ],
-  [
-    "bas",
+    "barulho",
     2
   ],
   [
@@ -7156,15 +8452,7 @@
     2
   ],
   [
-    "bantos",
-    2
-  ],
-  [
-    "banguela",
-    2
-  ],
-  [
-    "balancou",
+    "banzo",
     2
   ],
   [
@@ -7176,15 +8464,35 @@
     2
   ],
   [
+    "baianas",
+    2
+  ],
+  [
+    "bahiana",
+    2
+  ],
+  [
     "b",
     2
   ],
   [
-    "aumentar",
+    "ava",
     2
   ],
   [
-    "atenilo",
+    "aurora",
+    2
+  ],
+  [
+    "atrasado",
+    2
+  ],
+  [
+    "atingia",
+    2
+  ],
+  [
+    "aticum",
     2
   ],
   [
@@ -7192,7 +8500,11 @@
     2
   ],
   [
-    "at",
+    "astral",
+    2
+  ],
+  [
+    "assustado",
     2
   ],
   [
@@ -7208,6 +8520,18 @@
     2
   ],
   [
+    "arria",
+    2
+  ],
+  [
+    "arrepiou",
+    2
+  ],
+  [
+    "arrepiado",
+    2
+  ],
+  [
     "arrebentar",
     2
   ],
@@ -7216,11 +8540,27 @@
     2
   ],
   [
+    "armas",
+    2
+  ],
+  [
     "armado",
     2
   ],
   [
-    "arcos",
+    "ares",
+    2
+  ],
+  [
+    "arde",
+    2
+  ],
+  [
+    "arco",
+    2
+  ],
+  [
+    "ara",
     2
   ],
   [
@@ -7240,7 +8580,7 @@
     2
   ],
   [
-    "aprendeu",
+    "aprendia",
     2
   ],
   [
@@ -7252,6 +8592,10 @@
     2
   ],
   [
+    "apertado",
+    2
+  ],
+  [
     "aperta",
     2
   ],
@@ -7260,11 +8604,19 @@
     2
   ],
   [
-    "apanhou",
+    "apagou",
+    2
+  ],
+  [
+    "apaga",
     2
   ],
   [
     "anzol",
+    2
+  ],
+  [
+    "anoitecer",
     2
   ],
   [
@@ -7284,10 +8636,6 @@
     2
   ],
   [
-    "amava",
-    2
-  ],
-  [
     "amarrou",
     2
   ],
@@ -7296,19 +8644,11 @@
     2
   ],
   [
-    "amargurado",
-    2
-  ],
-  [
     "amargurada",
     2
   ],
   [
-    "amanheco",
-    2
-  ],
-  [
-    "amanhecer",
+    "amar",
     2
   ],
   [
@@ -7320,15 +8660,11 @@
     2
   ],
   [
-    "alta",
+    "altar",
     2
   ],
   [
     "alo",
-    2
-  ],
-  [
-    "alice",
     2
   ],
   [
@@ -7340,6 +8676,10 @@
     2
   ],
   [
+    "alemao",
+    2
+  ],
+  [
     "alarido",
     2
   ],
@@ -7348,11 +8688,43 @@
     2
   ],
   [
+    "aia",
+    2
+  ],
+  [
+    "aguenta",
+    2
+  ],
+  [
     "aguas",
     2
   ],
   [
+    "agente",
+    2
+  ],
+  [
+    "agarre",
+    2
+  ],
+  [
+    "agarrar",
+    2
+  ],
+  [
+    "agarrao",
+    2
+  ],
+  [
     "agachou",
+    2
+  ],
+  [
+    "africanos",
+    2
+  ],
+  [
+    "afogar",
     2
   ],
   [
@@ -7376,7 +8748,7 @@
     2
   ],
   [
-    "acreditei",
+    "acordar",
     2
   ],
   [
@@ -7400,11 +8772,7 @@
     2
   ],
   [
-    "aco",
-    2
-  ],
-  [
-    "aceito",
+    "acende",
     2
   ],
   [
@@ -7420,11 +8788,15 @@
     2
   ],
   [
-    "abraco",
+    "abriu",
     2
   ],
   [
-    "abaete",
+    "abrir",
+    2
+  ],
+  [
+    "abencoou",
     2
   ],
   [
@@ -7448,7 +8820,15 @@
     1
   ],
   [
+    "your",
+    1
+  ],
+  [
     "you",
+    1
+  ],
+  [
+    "yoruba",
     1
   ],
   [
@@ -7476,6 +8856,14 @@
     1
   ],
   [
+    "xerelete",
+    1
+  ],
+  [
+    "xareu",
+    1
+  ],
+  [
     "xarel",
     1
   ],
@@ -7500,11 +8888,11 @@
     1
   ],
   [
-    "vulgar",
+    "vulcao",
     1
   ],
   [
-    "vulcao",
+    "vugas",
     1
   ],
   [
@@ -7532,11 +8920,11 @@
     1
   ],
   [
-    "voltado",
+    "voltara",
     1
   ],
   [
-    "voices",
+    "voltado",
     1
   ],
   [
@@ -7561,6 +8949,14 @@
   ],
   [
     "vivendo",
+    1
+  ],
+  [
+    "vivencia",
+    1
+  ],
+  [
+    "vivemos",
     1
   ],
   [
@@ -7604,7 +9000,15 @@
     1
   ],
   [
+    "vinham",
+    1
+  ],
+  [
     "vingou",
+    1
+  ],
+  [
+    "vingativa",
     1
   ],
   [
@@ -7613,6 +9017,10 @@
   ],
   [
     "vigilia",
+    1
+  ],
+  [
+    "viemo",
     1
   ],
   [
@@ -7648,15 +9056,15 @@
     1
   ],
   [
-    "vermelho",
-    1
-  ],
-  [
     "vergonha",
     1
   ],
   [
     "vergalhao",
+    1
+  ],
+  [
+    "verga",
     1
   ],
   [
@@ -7672,11 +9080,19 @@
     1
   ],
   [
+    "verdadeiras",
+    1
+  ],
+  [
     "ventos",
     1
   ],
   [
     "ventar",
+    1
+  ],
+  [
+    "venenosa",
     1
   ],
   [
@@ -7688,18 +9104,6 @@
     1
   ],
   [
-    "vendeu",
-    1
-  ],
-  [
-    "vendendo",
-    1
-  ],
-  [
-    "vende",
-    1
-  ],
-  [
     "venda",
     1
   ],
@@ -7708,15 +9112,7 @@
     1
   ],
   [
-    "vence",
-    1
-  ],
-  [
     "veloz",
-    1
-  ],
-  [
-    "velhaco",
     1
   ],
   [
@@ -7740,7 +9136,15 @@
     1
   ],
   [
+    "veces",
+    1
+  ],
+  [
     "veado",
+    1
+  ],
+  [
+    "vava",
     1
   ],
   [
@@ -7748,11 +9152,11 @@
     1
   ],
   [
-    "varonil",
+    "vasio",
     1
   ],
   [
-    "varios",
+    "varonil",
     1
   ],
   [
@@ -7772,10 +9176,6 @@
     1
   ],
   [
-    "vara",
-    1
-  ],
-  [
     "valorizar",
     1
   ],
@@ -7788,11 +9188,11 @@
     1
   ],
   [
-    "valer",
+    "vaiz",
     1
   ],
   [
-    "vaiz",
+    "vaidade",
     1
   ],
   [
@@ -7808,11 +9208,15 @@
     1
   ],
   [
-    "vadiagem",
+    "vadiava",
     1
   ],
   [
     "vacilar",
+    1
+  ],
+  [
+    "usou",
     1
   ],
   [
@@ -7828,10 +9232,6 @@
     1
   ],
   [
-    "usada",
-    1
-  ],
-  [
     "universo",
     1
   ],
@@ -7844,11 +9244,7 @@
     1
   ],
   [
-    "ungo",
-    1
-  ],
-  [
-    "umbundo",
+    "unida",
     1
   ],
   [
@@ -7860,6 +9256,10 @@
     1
   ],
   [
+    "ultrapasso",
+    1
+  ],
+  [
     "tyranias",
     1
   ],
@@ -7868,15 +9268,7 @@
     1
   ],
   [
-    "tumbar",
-    1
-  ],
-  [
     "tum",
-    1
-  ],
-  [
-    "tucum",
     1
   ],
   [
@@ -7889,6 +9281,10 @@
   ],
   [
     "trovoada",
+    1
+  ],
+  [
+    "tropecei",
     1
   ],
   [
@@ -7920,15 +9316,19 @@
     1
   ],
   [
+    "treinou",
+    1
+  ],
+  [
+    "treinei",
+    1
+  ],
+  [
     "treinado",
     1
   ],
   [
     "trazidos",
-    1
-  ],
-  [
-    "trazia",
     1
   ],
   [
@@ -7968,14 +9368,6 @@
     1
   ],
   [
-    "transformou",
-    1
-  ],
-  [
-    "transformo",
-    1
-  ],
-  [
     "transformar",
     1
   ],
@@ -7992,7 +9384,7 @@
     1
   ],
   [
-    "traicao",
+    "traido",
     1
   ],
   [
@@ -8016,10 +9408,6 @@
     1
   ],
   [
-    "track",
-    1
-  ],
-  [
     "trabalo",
     1
   ],
@@ -8036,11 +9424,15 @@
     1
   ],
   [
-    "trabalha",
+    "trabalhadeira",
     1
   ],
   [
     "total",
+    1
+  ],
+  [
+    "torpedeira",
     1
   ],
   [
@@ -8049,6 +9441,10 @@
   ],
   [
     "tornei",
+    1
+  ],
+  [
+    "torna",
     1
   ],
   [
@@ -8080,11 +9476,15 @@
     1
   ],
   [
+    "tirou",
+    1
+  ],
+  [
     "tiros",
     1
   ],
   [
-    "tiririca",
+    "tiriri",
     1
   ],
   [
@@ -8112,7 +9512,15 @@
     1
   ],
   [
+    "testemunha",
+    1
+  ],
+  [
     "tesouro",
+    1
+  ],
+  [
+    "terrra",
     1
   ],
   [
@@ -8132,11 +9540,11 @@
     1
   ],
   [
-    "tentei",
+    "teresa",
     1
   ],
   [
-    "tente",
+    "tentei",
     1
   ],
   [
@@ -8145,6 +9553,10 @@
   ],
   [
     "tempestades",
+    1
+  ],
+  [
+    "temperar",
     1
   ],
   [
@@ -8184,7 +9596,19 @@
     1
   ],
   [
+    "take",
+    1
+  ],
+  [
     "taco",
+    1
+  ],
+  [
+    "tabuleiro",
+    1
+  ],
+  [
+    "tabareu",
     1
   ],
   [
@@ -8216,7 +9640,11 @@
     1
   ],
   [
-    "surpreendeu",
+    "surgindo",
+    1
+  ],
+  [
+    "surgia",
     1
   ],
   [
@@ -8233,10 +9661,6 @@
   ],
   [
     "sunce",
-    1
-  ],
-  [
-    "sumiu",
     1
   ],
   [
@@ -8261,10 +9685,6 @@
   ],
   [
     "subo",
-    1
-  ],
-  [
-    "subiu",
     1
   ],
   [
@@ -8296,7 +9716,15 @@
     1
   ],
   [
+    "sosinho",
+    1
+  ],
+  [
     "sorteio",
+    1
+  ],
+  [
+    "sorriu",
     1
   ],
   [
@@ -8304,7 +9732,7 @@
     1
   ],
   [
-    "sorisso",
+    "sorria",
     1
   ],
   [
@@ -8316,11 +9744,11 @@
     1
   ],
   [
-    "sono",
+    "sopa",
     1
   ],
   [
-    "sonhar",
+    "sono",
     1
   ],
   [
@@ -8364,27 +9792,11 @@
     1
   ],
   [
-    "sofreu",
-    1
-  ],
-  [
-    "sofredor",
-    1
-  ],
-  [
     "socorro",
     1
   ],
   [
     "sobrino",
-    1
-  ],
-  [
-    "sobreviver",
-    1
-  ],
-  [
-    "sobrasse",
     1
   ],
   [
@@ -8401,6 +9813,10 @@
   ],
   [
     "soa",
+    1
+  ],
+  [
+    "smba",
     1
   ],
   [
@@ -8456,11 +9872,15 @@
     1
   ],
   [
-    "simple",
+    "simbora",
     1
   ],
   [
-    "simbora",
+    "simbolo",
+    1
+  ],
+  [
+    "sileciou",
     1
   ],
   [
@@ -8484,15 +9904,23 @@
     1
   ],
   [
+    "sereira",
+    1
+  ],
+  [
     "serei",
     1
   ],
   [
-    "seq",
+    "sequencia",
     1
   ],
   [
     "separou",
+    1
+  ],
+  [
+    "separe",
     1
   ],
   [
@@ -8505,6 +9933,14 @@
   ],
   [
     "sentimos",
+    1
+  ],
+  [
+    "sentada",
+    1
+  ],
+  [
+    "senor",
     1
   ],
   [
@@ -8524,15 +9960,15 @@
     1
   ],
   [
-    "semeo",
-    1
-  ],
-  [
     "semear",
     1
   ],
   [
     "semana",
+    1
+  ],
+  [
+    "selva",
     1
   ],
   [
@@ -8548,15 +9984,23 @@
     1
   ],
   [
+    "seguia",
+    1
+  ],
+  [
     "segui",
     1
   ],
   [
-    "sede",
+    "segredos",
     1
   ],
   [
     "secular",
+    1
+  ],
+  [
+    "secredo",
     1
   ],
   [
@@ -8616,11 +10060,15 @@
     1
   ],
   [
-    "santana",
+    "santurgy",
     1
   ],
   [
     "sanjere",
+    1
+  ],
+  [
+    "sangro",
     1
   ],
   [
@@ -8636,15 +10084,15 @@
     1
   ],
   [
-    "sambar",
-    1
-  ],
-  [
     "salvou",
     1
   ],
   [
-    "salom",
+    "salvacao",
+    1
+  ],
+  [
+    "saltou",
     1
   ],
   [
@@ -8664,6 +10112,10 @@
     1
   ],
   [
+    "safo",
+    1
+  ],
+  [
     "safei",
     1
   ],
@@ -8680,11 +10132,19 @@
     1
   ],
   [
+    "sacudiu",
+    1
+  ],
+  [
     "sacrifio",
     1
   ],
   [
-    "sacrificio",
+    "sacrificios",
+    1
+  ],
+  [
+    "sacode",
     1
   ],
   [
@@ -8728,11 +10188,19 @@
     1
   ],
   [
+    "rubi",
+    1
+  ],
+  [
     "ruas",
     1
   ],
   [
     "roxo",
+    1
+  ],
+  [
+    "roxa",
     1
   ],
   [
@@ -8760,11 +10228,7 @@
     1
   ],
   [
-    "romper",
-    1
-  ],
-  [
-    "rola",
+    "rolava",
     1
   ],
   [
@@ -8773,6 +10237,14 @@
   ],
   [
     "rogo",
+    1
+  ],
+  [
+    "roer",
+    1
+  ],
+  [
+    "rodam",
     1
   ],
   [
@@ -8792,11 +10264,19 @@
     1
   ],
   [
-    "ritmo",
+    "ritimo",
     1
   ],
   [
     "rita",
+    1
+  ],
+  [
+    "risca",
+    1
+  ],
+  [
+    "risadinha",
     1
   ],
   [
@@ -8837,6 +10317,10 @@
   ],
   [
     "rezavam",
+    1
+  ],
+  [
+    "rezadeiras",
     1
   ],
   [
@@ -8896,19 +10380,19 @@
     1
   ],
   [
-    "respondia",
-    1
-  ],
-  [
     "responder",
     1
   ],
   [
-    "respiro",
+    "respeto",
     1
   ],
   [
     "resolvi",
+    1
+  ],
+  [
+    "resolver",
     1
   ],
   [
@@ -8924,7 +10408,15 @@
     1
   ],
   [
+    "repique",
+    1
+  ],
+  [
     "repetir",
+    1
+  ],
+  [
+    "reparar",
     1
   ],
   [
@@ -8936,15 +10428,11 @@
     1
   ],
   [
-    "reluz",
+    "relogio",
     1
   ],
   [
     "religioso",
-    1
-  ],
-  [
-    "religiosas",
     1
   ],
   [
@@ -8961,6 +10449,10 @@
   ],
   [
     "reinar",
+    1
+  ],
+  [
+    "registrada",
     1
   ],
   [
@@ -8992,7 +10484,15 @@
     1
   ],
   [
+    "reconheco",
+    1
+  ],
+  [
     "reconhecido",
+    1
+  ],
+  [
+    "recompensado",
     1
   ],
   [
@@ -9001,10 +10501,6 @@
   ],
   [
     "reclamo",
-    1
-  ],
-  [
-    "reclamar",
     1
   ],
   [
@@ -9052,6 +10548,10 @@
     1
   ],
   [
+    "rateira",
+    1
+  ],
+  [
     "rastreira",
     1
   ],
@@ -9072,6 +10572,10 @@
     1
   ],
   [
+    "rasteiro",
+    1
+  ],
+  [
     "rasta",
     1
   ],
@@ -9088,15 +10592,15 @@
     1
   ],
   [
+    "rasga",
+    1
+  ],
+  [
     "rascunhos",
     1
   ],
   [
     "rara",
-    1
-  ],
-  [
-    "rapido",
     1
   ],
   [
@@ -9140,11 +10644,15 @@
     1
   ],
   [
+    "raios",
+    1
+  ],
+  [
     "raio",
     1
   ],
   [
-    "raia",
+    "raiava",
     1
   ],
   [
@@ -9157,10 +10665,6 @@
   ],
   [
     "r",
-    1
-  ],
-  [
-    "quizer",
     1
   ],
   [
@@ -9184,6 +10688,10 @@
     1
   ],
   [
+    "quiabo",
+    1
+  ],
+  [
     "quetemos",
     1
   ],
@@ -9196,7 +10704,7 @@
     1
   ],
   [
-    "quente",
+    "quera",
     1
   ],
   [
@@ -9208,15 +10716,11 @@
     1
   ],
   [
-    "queimava",
-    1
-  ],
-  [
     "queima",
     1
   ],
   [
-    "queda",
+    "quedas",
     1
   ],
   [
@@ -9256,10 +10760,6 @@
     1
   ],
   [
-    "punhal",
-    1
-  ],
-  [
     "pulsa",
     1
   ],
@@ -9296,6 +10796,14 @@
     1
   ],
   [
+    "protegia",
+    1
+  ],
+  [
+    "protega",
+    1
+  ],
+  [
     "proteccao",
     1
   ],
@@ -9312,11 +10820,19 @@
     1
   ],
   [
+    "prometeu",
+    1
+  ],
+  [
     "promessa",
     1
   ],
   [
     "proibie",
+    1
+  ],
+  [
+    "profundezas",
     1
   ],
   [
@@ -9328,7 +10844,7 @@
     1
   ],
   [
-    "procura",
+    "procurou",
     1
   ],
   [
@@ -9364,11 +10880,11 @@
     1
   ],
   [
-    "pretos",
+    "pretinho",
     1
   ],
   [
-    "pretinho",
+    "pretendo",
     1
   ],
   [
@@ -9392,7 +10908,11 @@
     1
   ],
   [
-    "pressa",
+    "preso",
+    1
+  ],
+  [
+    "presidente",
     1
   ],
   [
@@ -9412,7 +10932,19 @@
     1
   ],
   [
+    "preparo",
+    1
+  ],
+  [
+    "prepare",
+    1
+  ],
+  [
     "preparar",
+    1
+  ],
+  [
+    "preocupe",
     1
   ],
   [
@@ -9452,7 +10984,7 @@
     1
   ],
   [
-    "preco",
+    "precisou",
     1
   ],
   [
@@ -9472,7 +11004,15 @@
     1
   ],
   [
+    "pre",
+    1
+  ],
+  [
     "prazer",
+    1
+  ],
+  [
+    "prato",
     1
   ],
   [
@@ -9488,7 +11028,7 @@
     1
   ],
   [
-    "prata",
+    "prateiou",
     1
   ],
   [
@@ -9504,11 +11044,23 @@
     1
   ],
   [
+    "pracas",
+    1
+  ],
+  [
+    "pourque",
+    1
+  ],
+  [
     "posi",
     1
   ],
   [
     "pos",
+    1
+  ],
+  [
+    "portugal",
     1
   ],
   [
@@ -9532,7 +11084,7 @@
     1
   ],
   [
-    "porao",
+    "poquinho",
     1
   ],
   [
@@ -9572,6 +11124,10 @@
     1
   ],
   [
+    "podesse",
+    1
+  ],
+  [
     "podemos",
     1
   ],
@@ -9592,7 +11148,7 @@
     1
   ],
   [
-    "planto",
+    "plantou",
     1
   ],
   [
@@ -9621,6 +11177,10 @@
   ],
   [
     "pise",
+    1
+  ],
+  [
+    "piscar",
     1
   ],
   [
@@ -9656,7 +11216,7 @@
     1
   ],
   [
-    "picava",
+    "piaui",
     1
   ],
   [
@@ -9669,6 +11229,10 @@
   ],
   [
     "pezinho",
+    1
+  ],
+  [
+    "petroleo",
     1
   ],
   [
@@ -9688,15 +11252,15 @@
     1
   ],
   [
-    "pescar",
-    1
-  ],
-  [
     "perseguido",
     1
   ],
   [
     "perseguiam",
+    1
+  ],
+  [
+    "perninha",
     1
   ],
   [
@@ -9720,6 +11284,10 @@
     1
   ],
   [
+    "perigos",
+    1
+  ],
+  [
     "perguntou",
     1
   ],
@@ -9736,10 +11304,6 @@
     1
   ],
   [
-    "pereira",
-    1
-  ],
-  [
     "peregrino",
     1
   ],
@@ -9748,11 +11312,7 @@
     1
   ],
   [
-    "perdi",
-    1
-  ],
-  [
-    "perderam",
+    "perdoi",
     1
   ],
   [
@@ -9761,6 +11321,10 @@
   ],
   [
     "perdas",
+    1
+  ],
+  [
+    "percorri",
     1
   ],
   [
@@ -9792,6 +11356,18 @@
     1
   ],
   [
+    "pensador",
+    1
+  ],
+  [
+    "penha",
+    1
+  ],
+  [
+    "peneira",
+    1
+  ],
+  [
     "peixinhos",
     1
   ],
@@ -9800,7 +11376,7 @@
     1
   ],
   [
-    "pegue",
+    "pegindo",
     1
   ],
   [
@@ -9808,15 +11384,7 @@
     1
   ],
   [
-    "pedreira",
-    1
-  ],
-  [
     "pedras",
-    1
-  ],
-  [
-    "pedra",
     1
   ],
   [
@@ -9828,10 +11396,6 @@
     1
   ],
   [
-    "pedi",
-    1
-  ],
-  [
     "pedcador",
     1
   ],
@@ -9840,23 +11404,23 @@
     1
   ],
   [
+    "pecador",
+    1
+  ],
+  [
+    "paulada",
+    1
+  ],
+  [
+    "pato",
+    1
+  ],
+  [
     "pasto",
     1
   ],
   [
-    "passeio",
-    1
-  ],
-  [
     "passeia",
-    1
-  ],
-  [
-    "passear",
-    1
-  ],
-  [
-    "passe",
     1
   ],
   [
@@ -9908,6 +11472,10 @@
     1
   ],
   [
+    "parceiro",
+    1
+  ],
+  [
     "parava",
     1
   ],
@@ -9924,7 +11492,7 @@
     1
   ],
   [
-    "pao",
+    "pano",
     1
   ],
   [
@@ -9932,11 +11500,11 @@
     1
   ],
   [
-    "palpita",
+    "palmos",
     1
   ],
   [
-    "palmos",
+    "palmeira",
     1
   ],
   [
@@ -9968,6 +11536,10 @@
     1
   ],
   [
+    "paga",
+    1
+  ],
+  [
     "padres",
     1
   ],
@@ -9992,7 +11564,15 @@
     1
   ],
   [
+    "oxalas",
+    1
+  ],
+  [
     "ovos",
+    1
+  ],
+  [
+    "ovir",
     1
   ],
   [
@@ -10000,7 +11580,11 @@
     1
   ],
   [
-    "ouvia",
+    "ouviamse",
+    1
+  ],
+  [
+    "ouve",
     1
   ],
   [
@@ -10012,6 +11596,10 @@
     1
   ],
   [
+    "ousadia",
+    1
+  ],
+  [
     "ostombos",
     1
   ],
@@ -10020,15 +11608,15 @@
     1
   ],
   [
-    "osso",
-    1
-  ],
-  [
     "orum",
     1
   ],
   [
     "original",
+    1
+  ],
+  [
+    "origen",
     1
   ],
   [
@@ -10084,6 +11672,10 @@
     1
   ],
   [
+    "on",
+    1
+  ],
+  [
     "omolu",
     1
   ],
@@ -10093,10 +11685,6 @@
   ],
   [
     "olinda",
-    1
-  ],
-  [
-    "olhou",
     1
   ],
   [
@@ -10128,11 +11716,11 @@
     1
   ],
   [
-    "oferendas",
+    "ofuscante",
     1
   ],
   [
-    "oferenda",
+    "oferendas",
     1
   ],
   [
@@ -10228,6 +11816,10 @@
     1
   ],
   [
+    "not",
+    1
+  ],
+  [
     "noronho",
     1
   ],
@@ -10256,11 +11848,11 @@
     1
   ],
   [
-    "nobre",
+    "niteroi",
     1
   ],
   [
-    "niteroi",
+    "ninja",
     1
   ],
   [
@@ -10300,7 +11892,7 @@
     1
   ],
   [
-    "negritude",
+    "negreiros",
     1
   ],
   [
@@ -10324,11 +11916,19 @@
     1
   ],
   [
+    "navios",
+    1
+  ],
+  [
     "navigantes",
     1
   ],
   [
     "navegue",
+    1
+  ],
+  [
+    "navalia",
     1
   ],
   [
@@ -10345,10 +11945,6 @@
   ],
   [
     "nascimento",
-    1
-  ],
-  [
-    "nascida",
     1
   ],
   [
@@ -10388,11 +11984,11 @@
     1
   ],
   [
-    "my",
+    "musicalizar",
     1
   ],
   [
-    "musicalizar",
+    "musical",
     1
   ],
   [
@@ -10416,15 +12012,11 @@
     1
   ],
   [
-    "multidao",
-    1
-  ],
-  [
     "mulheres",
     1
   ],
   [
-    "muleque",
+    "muleuque",
     1
   ],
   [
@@ -10452,7 +12044,15 @@
     1
   ],
   [
-    "movimentos",
+    "mucamba",
+    1
+  ],
+  [
+    "ms",
+    1
+  ],
+  [
+    "movido",
     1
   ],
   [
@@ -10512,6 +12112,14 @@
     1
   ],
   [
+    "morreram",
+    1
+  ],
+  [
+    "morou",
+    1
+  ],
+  [
     "moro",
     1
   ],
@@ -10532,11 +12140,11 @@
     1
   ],
   [
-    "moqueca",
+    "morador",
     1
   ],
   [
-    "montado",
+    "morada",
     1
   ],
   [
@@ -10545,10 +12153,6 @@
   ],
   [
     "monkey",
-    1
-  ],
-  [
-    "molhou",
     1
   ],
   [
@@ -10564,11 +12168,11 @@
     1
   ],
   [
-    "molejar",
+    "moita",
     1
   ],
   [
-    "moita",
+    "moises",
     1
   ],
   [
@@ -10580,7 +12184,7 @@
     1
   ],
   [
-    "moenda",
+    "moedas",
     1
   ],
   [
@@ -10632,15 +12236,7 @@
     1
   ],
   [
-    "mistura",
-    1
-  ],
-  [
-    "miseria",
-    1
-  ],
-  [
-    "mironga",
+    "misterioso",
     1
   ],
   [
@@ -10660,15 +12256,11 @@
     1
   ],
   [
-    "minguante",
+    "mingeira",
     1
   ],
   [
-    "mingado",
-    1
-  ],
-  [
-    "mingada",
+    "mineiro",
     1
   ],
   [
@@ -10696,6 +12288,10 @@
     1
   ],
   [
+    "milhoes",
+    1
+  ],
+  [
     "migado",
     1
   ],
@@ -10712,7 +12308,11 @@
     1
   ],
   [
-    "mexa",
+    "metro",
+    1
+  ],
+  [
+    "mete",
     1
   ],
   [
@@ -10736,15 +12336,15 @@
     1
   ],
   [
-    "mesa",
-    1
-  ],
-  [
     "mes",
     1
   ],
   [
     "merino",
+    1
+  ],
+  [
+    "mereco",
     1
   ],
   [
@@ -10760,11 +12360,19 @@
     1
   ],
   [
+    "menininha",
+    1
+  ],
+  [
     "menguerio",
     1
   ],
   [
     "memorias",
+    1
+  ],
+  [
+    "melior",
     1
   ],
   [
@@ -10780,11 +12388,23 @@
     1
   ],
   [
+    "medicina",
+    1
+  ],
+  [
     "medalhas",
     1
   ],
   [
     "medalha",
+    1
+  ],
+  [
+    "maxixe",
+    1
+  ],
+  [
+    "mavam",
     1
   ],
   [
@@ -10820,10 +12440,6 @@
     1
   ],
   [
-    "matagal",
-    1
-  ],
-  [
     "master",
     1
   ],
@@ -10832,15 +12448,19 @@
     1
   ],
   [
+    "massaruba",
+    1
+  ],
+  [
     "martinha",
     1
   ],
   [
-    "marra",
+    "marrom",
     1
   ],
   [
-    "marquinho",
+    "marra",
     1
   ],
   [
@@ -10872,7 +12492,7 @@
     1
   ],
   [
-    "marias",
+    "marhistoria",
     1
   ],
   [
@@ -10884,11 +12504,11 @@
     1
   ],
   [
-    "mareja",
+    "marecha",
     1
   ],
   [
-    "marecha",
+    "marcial",
     1
   ],
   [
@@ -10897,18 +12517,6 @@
   ],
   [
     "marcao",
-    1
-  ],
-  [
-    "marcado",
-    1
-  ],
-  [
-    "marcacao",
-    1
-  ],
-  [
-    "maravilhosa",
     1
   ],
   [
@@ -10932,15 +12540,15 @@
     1
   ],
   [
+    "manto",
+    1
+  ],
+  [
     "mantento",
     1
   ],
   [
     "mantendo",
-    1
-  ],
-  [
-    "manteiga",
     1
   ],
   [
@@ -10953,6 +12561,18 @@
   ],
   [
     "manjar",
+    1
+  ],
+  [
+    "mangueira",
+    1
+  ],
+  [
+    "mangingero",
+    1
+  ],
+  [
+    "manga",
     1
   ],
   [
@@ -10972,11 +12592,15 @@
     1
   ],
   [
-    "malvada",
+    "mamar",
     1
   ],
   [
     "malungo",
+    1
+  ],
+  [
+    "maltratava",
     1
   ],
   [
@@ -11020,6 +12644,10 @@
     1
   ],
   [
+    "mala",
+    1
+  ],
+  [
     "major",
     1
   ],
@@ -11029,6 +12657,14 @@
   ],
   [
     "mai",
+    1
+  ],
+  [
+    "magrinho",
+    1
+  ],
+  [
+    "magrelo",
     1
   ],
   [
@@ -11048,7 +12684,15 @@
     1
   ],
   [
+    "maderia",
+    1
+  ],
+  [
     "macumba",
+    1
+  ],
+  [
+    "maculel",
     1
   ],
   [
@@ -11072,31 +12716,15 @@
     1
   ],
   [
-    "macaruba",
-    1
-  ],
-  [
     "macamba",
     1
   ],
   [
-    "macaco",
+    "lue",
     1
   ],
   [
-    "luto",
-    1
-  ],
-  [
-    "lutador",
-    1
-  ],
-  [
-    "luiz",
-    1
-  ],
-  [
-    "lugares",
+    "lualua",
     1
   ],
   [
@@ -11104,19 +12732,15 @@
     1
   ],
   [
-    "louvor",
-    1
-  ],
-  [
     "louvo",
     1
   ],
   [
-    "louco",
+    "louvarei",
     1
   ],
   [
-    "lombo",
+    "louco",
     1
   ],
   [
@@ -11128,23 +12752,27 @@
     1
   ],
   [
+    "lobao",
+    1
+  ],
+  [
     "ll",
     1
   ],
   [
-    "livra",
+    "listne",
+    1
+  ],
+  [
+    "lista",
+    1
+  ],
+  [
+    "lisongeiro",
     1
   ],
   [
     "linhagem",
-    1
-  ],
-  [
-    "linguagem",
-    1
-  ],
-  [
-    "limpinha",
     1
   ],
   [
@@ -11160,6 +12788,10 @@
     1
   ],
   [
+    "limites",
+    1
+  ],
+  [
     "limeira",
     1
   ],
@@ -11168,7 +12800,19 @@
     1
   ],
   [
+    "ligeros",
+    1
+  ],
+  [
+    "ligereiza",
+    1
+  ],
+  [
     "ligar",
+    1
+  ],
+  [
+    "liga",
     1
   ],
   [
@@ -11180,7 +12824,7 @@
     1
   ],
   [
-    "lider",
+    "licuri",
     1
   ],
   [
@@ -11188,11 +12832,19 @@
     1
   ],
   [
+    "lic",
+    1
+  ],
+  [
+    "librar",
+    1
+  ],
+  [
     "liberto",
     1
   ],
   [
-    "liberal",
+    "libertava",
     1
   ],
   [
@@ -11200,19 +12852,11 @@
     1
   ],
   [
-    "li",
-    1
-  ],
-  [
-    "lhes",
-    1
-  ],
-  [
     "levanter",
     1
   ],
   [
-    "levantei",
+    "levam",
     1
   ],
   [
@@ -11229,10 +12873,6 @@
   ],
   [
     "leopoldina",
-    1
-  ],
-  [
-    "lendario",
     1
   ],
   [
@@ -11260,6 +12900,10 @@
     1
   ],
   [
+    "lemba",
+    1
+  ],
+  [
     "lelelelelele",
     1
   ],
@@ -11280,7 +12924,11 @@
     1
   ],
   [
-    "leguas",
+    "legendario",
+    1
+  ],
+  [
+    "legalizada",
     1
   ],
   [
@@ -11312,10 +12960,6 @@
     1
   ],
   [
-    "laua",
-    1
-  ],
-  [
     "lau",
     1
   ],
@@ -11324,11 +12968,15 @@
     1
   ],
   [
-    "largar",
+    "lapinha",
     1
   ],
   [
-    "lapinha",
+    "lapidada",
+    1
+  ],
+  [
+    "lapela",
     1
   ],
   [
@@ -11336,11 +12984,23 @@
     1
   ],
   [
+    "lancado",
+    1
+  ],
+  [
+    "lampejo",
+    1
+  ],
+  [
     "lamentou",
     1
   ],
   [
-    "lamenta",
+    "lamentava",
+    1
+  ],
+  [
+    "lambari",
     1
   ],
   [
@@ -11352,11 +13012,11 @@
     1
   ],
   [
-    "lai",
+    "laila",
     1
   ],
   [
-    "lagrima",
+    "lai",
     1
   ],
   [
@@ -11368,19 +13028,7 @@
     1
   ],
   [
-    "lados",
-    1
-  ],
-  [
     "ladeiras",
-    1
-  ],
-  [
-    "ladainhas",
-    1
-  ],
-  [
-    "lacos",
     1
   ],
   [
@@ -11412,7 +13060,7 @@
     1
   ],
   [
-    "kim",
+    "kingenge",
     1
   ],
   [
@@ -11424,7 +13072,7 @@
     1
   ],
   [
-    "juntou",
+    "jura",
     1
   ],
   [
@@ -11433,10 +13081,6 @@
   ],
   [
     "juliana",
-    1
-  ],
-  [
-    "julgue",
     1
   ],
   [
@@ -11465,6 +13109,10 @@
   ],
   [
     "jornada",
+    1
+  ],
+  [
+    "jogeiro",
     1
   ],
   [
@@ -11500,15 +13148,7 @@
     1
   ],
   [
-    "jeji",
-    1
-  ],
-  [
     "jatoba",
-    1
-  ],
-  [
-    "japones",
     1
   ],
   [
@@ -11528,6 +13168,10 @@
     1
   ],
   [
+    "jacara",
+    1
+  ],
+  [
     "jacana",
     1
   ],
@@ -11536,11 +13180,11 @@
     1
   ],
   [
-    "itapua",
+    "itapoa",
     1
   ],
   [
-    "itapoan",
+    "itabuna",
     1
   ],
   [
@@ -11552,19 +13196,19 @@
     1
   ],
   [
+    "irria",
+    1
+  ],
+  [
     "iroco",
     1
   ],
   [
+    "irmaozumbi",
+    1
+  ],
+  [
     "irmade",
-    1
-  ],
-  [
-    "iris",
-    1
-  ],
-  [
-    "iria",
     1
   ],
   [
@@ -11573,10 +13217,6 @@
   ],
   [
     "ira",
-    1
-  ],
-  [
-    "ipe",
     1
   ],
   [
@@ -11640,15 +13280,15 @@
     1
   ],
   [
+    "invadiou",
+    1
+  ],
+  [
     "invadindo",
     1
   ],
   [
     "invade",
-    1
-  ],
-  [
-    "inundava",
     1
   ],
   [
@@ -11672,6 +13312,14 @@
     1
   ],
   [
+    "instrumentos",
+    1
+  ],
+  [
+    "instrui",
+    1
+  ],
+  [
     "inspirac",
     1
   ],
@@ -11692,11 +13340,15 @@
     1
   ],
   [
+    "inicio",
+    1
+  ],
+  [
     "inheco",
     1
   ],
   [
-    "infeliz",
+    "inga",
     1
   ],
   [
@@ -11712,11 +13364,19 @@
     1
   ],
   [
+    "incorpora",
+    1
+  ],
+  [
     "inconsolado",
     1
   ],
   [
     "incomoda",
+    1
+  ],
+  [
+    "ina",
     1
   ],
   [
@@ -11732,7 +13392,7 @@
     1
   ],
   [
-    "impossivel",
+    "improvisava",
     1
   ],
   [
@@ -11744,15 +13404,11 @@
     1
   ],
   [
-    "importar",
-    1
-  ],
-  [
-    "implorava",
-    1
-  ],
-  [
     "imortalizo",
+    1
+  ],
+  [
+    "immortal",
     1
   ],
   [
@@ -11772,7 +13428,7 @@
     1
   ],
   [
-    "imagem",
+    "imaginacao",
     1
   ],
   [
@@ -11785,10 +13441,6 @@
   ],
   [
     "ilumine",
-    1
-  ],
-  [
-    "iluminar",
     1
   ],
   [
@@ -11808,7 +13460,7 @@
     1
   ],
   [
-    "iguais",
+    "igualzinho",
     1
   ],
   [
@@ -11824,7 +13476,11 @@
     1
   ],
   [
-    "ideal",
+    "idos",
+    1
+  ],
+  [
+    "idalinha",
     1
   ],
   [
@@ -11832,15 +13488,11 @@
     1
   ],
   [
-    "idade",
-    1
-  ],
-  [
-    "iam",
-    1
-  ],
-  [
     "iaiia",
+    1
+  ],
+  [
+    "iacada",
     1
   ],
   [
@@ -11864,10 +13516,6 @@
     1
   ],
   [
-    "houve",
-    1
-  ],
-  [
     "hospitaleira",
     1
   ],
@@ -11876,11 +13524,11 @@
     1
   ],
   [
-    "homenagiei",
+    "honesta",
     1
   ],
   [
-    "homenagem",
+    "homenagiei",
     1
   ],
   [
@@ -11900,11 +13548,19 @@
     1
   ],
   [
+    "here",
+    1
+  ],
+  [
     "herdou",
     1
   ],
   [
     "herdeiro",
+    1
+  ],
+  [
+    "henrique",
     1
   ],
   [
@@ -11916,11 +13572,23 @@
     1
   ],
   [
+    "haver",
+    1
+  ],
+  [
     "have",
     1
   ],
   [
     "habita",
+    1
+  ],
+  [
+    "h",
+    1
+  ],
+  [
+    "gurrea",
     1
   ],
   [
@@ -11944,6 +13612,10 @@
     1
   ],
   [
+    "guerrou",
+    1
+  ],
+  [
     "guerrero",
     1
   ],
@@ -11960,14 +13632,6 @@
     1
   ],
   [
-    "gueirreiro",
-    1
-  ],
-  [
-    "guatambu",
-    1
-  ],
-  [
     "guardou",
     1
   ],
@@ -11976,11 +13640,7 @@
     1
   ],
   [
-    "guardava",
-    1
-  ],
-  [
-    "guardar",
+    "guardei",
     1
   ],
   [
@@ -11989,6 +13649,10 @@
   ],
   [
     "grosso",
+    1
+  ],
+  [
+    "gritos",
     1
   ],
   [
@@ -12004,11 +13668,15 @@
     1
   ],
   [
-    "graduado",
+    "gracas",
     1
   ],
   [
-    "gracas",
+    "grab",
+    1
+  ],
+  [
+    "governo",
     1
   ],
   [
@@ -12036,19 +13704,7 @@
     1
   ],
   [
-    "golpe",
-    1
-  ],
-  [
     "golo",
-    1
-  ],
-  [
-    "goias",
-    1
-  ],
-  [
-    "goiania",
     1
   ],
   [
@@ -12061,6 +13717,10 @@
   ],
   [
     "gira",
+    1
+  ],
+  [
+    "gingo",
     1
   ],
   [
@@ -12092,6 +13752,10 @@
     1
   ],
   [
+    "gemido",
+    1
+  ],
+  [
     "gemia",
     1
   ],
@@ -12108,10 +13772,6 @@
     1
   ],
   [
-    "garapa",
-    1
-  ],
-  [
     "garante",
     1
   ],
@@ -12120,31 +13780,7 @@
     1
   ],
   [
-    "gantois",
-    1
-  ],
-  [
-    "ganhou",
-    1
-  ],
-  [
-    "ganhei",
-    1
-  ],
-  [
-    "gangazumba",
-    1
-  ],
-  [
     "gamelera",
-    1
-  ],
-  [
-    "gameleira",
-    1
-  ],
-  [
-    "gamaleira",
     1
   ],
   [
@@ -12152,15 +13788,19 @@
     1
   ],
   [
+    "galopante",
+    1
+  ],
+  [
     "galinhas",
     1
   ],
   [
-    "galinha",
+    "galhos",
     1
   ],
   [
-    "galhos",
+    "galera",
     1
   ],
   [
@@ -12196,11 +13836,15 @@
     1
   ],
   [
-    "funcao",
+    "fundamental",
     1
   ],
   [
-    "fumo",
+    "funciona",
+    1
+  ],
+  [
+    "funcao",
     1
   ],
   [
@@ -12212,15 +13856,15 @@
     1
   ],
   [
+    "fugio",
+    1
+  ],
+  [
     "fuga",
     1
   ],
   [
     "fu",
-    1
-  ],
-  [
-    "frutos",
     1
   ],
   [
@@ -12232,11 +13876,19 @@
     1
   ],
   [
+    "fria",
+    1
+  ],
+  [
     "frevo",
     1
   ],
   [
     "freuderam",
+    1
+  ],
+  [
+    "freguesia",
     1
   ],
   [
@@ -12260,7 +13912,7 @@
     1
   ],
   [
-    "formou",
+    "fortalece",
     1
   ],
   [
@@ -12269,14 +13921,6 @@
   ],
   [
     "formado",
-    1
-  ],
-  [
-    "forcas",
-    1
-  ],
-  [
-    "folha",
     1
   ],
   [
@@ -12300,19 +13944,11 @@
     1
   ],
   [
-    "fita",
-    1
-  ],
-  [
     "finta",
     1
   ],
   [
     "fino",
-    1
-  ],
-  [
-    "findar",
     1
   ],
   [
@@ -12325,14 +13961,6 @@
   ],
   [
     "feudais",
-    1
-  ],
-  [
-    "festejo",
-    1
-  ],
-  [
-    "festas",
     1
   ],
   [
@@ -12364,11 +13992,19 @@
     1
   ],
   [
+    "feitico",
+    1
+  ],
+  [
     "feita",
     1
   ],
   [
     "feijao",
+    1
+  ],
+  [
+    "fechar",
     1
   ],
   [
@@ -12384,7 +14020,7 @@
     1
   ],
   [
-    "favela",
+    "faser",
     1
   ],
   [
@@ -12404,7 +14040,15 @@
     1
   ],
   [
+    "farceira",
+    1
+  ],
+  [
     "famosos",
+    1
+  ],
+  [
+    "famoso",
     1
   ],
   [
@@ -12416,15 +14060,31 @@
     1
   ],
   [
+    "faltara",
+    1
+  ],
+  [
     "falso",
     1
   ],
   [
-    "falai",
+    "falhao",
+    1
+  ],
+  [
+    "falecer",
+    1
+  ],
+  [
+    "falaram",
     1
   ],
   [
     "falacubara",
+    1
+  ],
+  [
+    "faiz",
     1
   ],
   [
@@ -12433,10 +14093,6 @@
   ],
   [
     "faces",
-    1
-  ],
-  [
-    "faceiro",
     1
   ],
   [
@@ -12460,7 +14116,11 @@
     1
   ],
   [
-    "eziquel",
+    "ezequiel",
+    1
+  ],
+  [
+    "extravios",
     1
   ],
   [
@@ -12472,7 +14132,11 @@
     1
   ],
   [
-    "expresso",
+    "expressar",
+    1
+  ],
+  [
+    "expressada",
     1
   ],
   [
@@ -12481,6 +14145,10 @@
   ],
   [
     "explodiu",
+    1
+  ],
+  [
+    "explicacao",
     1
   ],
   [
@@ -12504,7 +14172,15 @@
     1
   ],
   [
+    "existem",
+    1
+  ],
+  [
     "exigio",
+    1
+  ],
+  [
+    "exige",
     1
   ],
   [
@@ -12540,15 +14216,7 @@
     1
   ],
   [
-    "euforia",
-    1
-  ],
-  [
     "et",
-    1
-  ],
-  [
-    "esverdeados",
     1
   ],
   [
@@ -12556,7 +14224,7 @@
     1
   ],
   [
-    "estudar",
+    "estridente",
     1
   ],
   [
@@ -12580,19 +14248,15 @@
     1
   ],
   [
-    "estivesse",
-    1
-  ],
-  [
-    "estilo",
-    1
-  ],
-  [
     "esteja",
     1
   ],
   [
     "estavam",
+    1
+  ],
+  [
+    "estatua",
     1
   ],
   [
@@ -12632,10 +14296,6 @@
     1
   ],
   [
-    "esquenta",
-    1
-  ],
-  [
     "esqueco",
     1
   ],
@@ -12652,7 +14312,15 @@
     1
   ],
   [
+    "esquecas",
+    1
+  ],
+  [
     "esquadra",
+    1
+  ],
+  [
+    "espressao",
     1
   ],
   [
@@ -12684,7 +14352,15 @@
     1
   ],
   [
+    "espantava",
+    1
+  ],
+  [
     "espantar",
+    1
+  ],
+  [
+    "espalho",
     1
   ],
   [
@@ -12693,6 +14369,10 @@
   ],
   [
     "espada",
+    1
+  ],
+  [
+    "espaco",
     1
   ],
   [
@@ -12720,6 +14400,10 @@
     1
   ],
   [
+    "escurecia",
+    1
+  ],
+  [
     "escurecer",
     1
   ],
@@ -12728,11 +14412,19 @@
     1
   ],
   [
+    "esculpida",
+    1
+  ],
+  [
     "escuecer",
     1
   ],
   [
     "escudo",
+    1
+  ],
+  [
+    "escrito",
     1
   ],
   [
@@ -12756,10 +14448,6 @@
     1
   ],
   [
-    "escorreria",
-    1
-  ],
-  [
     "escorrego",
     1
   ],
@@ -12772,7 +14460,7 @@
     1
   ],
   [
-    "escolheu",
+    "escondendo",
     1
   ],
   [
@@ -12780,11 +14468,19 @@
     1
   ],
   [
+    "escolhe",
+    1
+  ],
+  [
+    "escoava",
+    1
+  ],
+  [
     "escavo",
     1
   ],
   [
-    "escapar",
+    "escapa",
     1
   ],
   [
@@ -12808,11 +14504,11 @@
     1
   ],
   [
-    "errante",
+    "eros",
     1
   ],
   [
-    "eros",
+    "ere",
     1
   ],
   [
@@ -12836,6 +14532,10 @@
     1
   ],
   [
+    "envadem",
+    1
+  ],
+  [
     "entristeceu",
     1
   ],
@@ -12856,6 +14556,10 @@
     1
   ],
   [
+    "entrada",
+    1
+  ],
+  [
     "entoado",
     1
   ],
@@ -12864,7 +14568,15 @@
     1
   ],
   [
+    "enterrou",
+    1
+  ],
+  [
     "enterre",
+    1
+  ],
+  [
+    "entendeu",
     1
   ],
   [
@@ -12884,7 +14596,7 @@
     1
   ],
   [
-    "ensinavam",
+    "ensinava",
     1
   ],
   [
@@ -12904,11 +14616,11 @@
     1
   ],
   [
-    "enriquecer",
+    "enriquece",
     1
   ],
   [
-    "enriquece",
+    "enlouqueceu",
     1
   ],
   [
@@ -12917,6 +14629,14 @@
   ],
   [
     "engrecer",
+    1
+  ],
+  [
+    "engracada",
+    1
+  ],
+  [
+    "engomar",
     1
   ],
   [
@@ -12936,6 +14656,10 @@
     1
   ],
   [
+    "enfrento",
+    1
+  ],
+  [
     "enfrenta",
     1
   ],
@@ -12948,6 +14672,10 @@
     1
   ],
   [
+    "enfeitado",
+    1
+  ],
+  [
     "endereco",
     1
   ],
@@ -12957,6 +14685,10 @@
   ],
   [
     "encorporou",
+    1
+  ],
+  [
+    "encontre",
     1
   ],
   [
@@ -12980,10 +14712,6 @@
     1
   ],
   [
-    "encia",
-    1
-  ],
-  [
     "enchente",
     1
   ],
@@ -12992,23 +14720,19 @@
     1
   ],
   [
-    "enche",
-    1
-  ],
-  [
     "encarnacao",
     1
   ],
   [
-    "encantou",
-    1
-  ],
-  [
-    "encantado",
-    1
-  ],
-  [
     "encaminho",
+    1
+  ],
+  [
+    "encabula",
+    1
+  ],
+  [
+    "empolgado",
     1
   ],
   [
@@ -13052,11 +14776,23 @@
     1
   ],
   [
+    "embalava",
+    1
+  ],
+  [
     "embalar",
     1
   ],
   [
+    "emana",
+    1
+  ],
+  [
     "elegante",
+    1
+  ],
+  [
+    "elecoes",
     1
   ],
   [
@@ -13073,10 +14809,6 @@
   ],
   [
     "ecoou",
-    1
-  ],
-  [
-    "ecoo",
     1
   ],
   [
@@ -13100,6 +14832,10 @@
     1
   ],
   [
+    "duvida",
+    1
+  ],
+  [
     "duma",
     1
   ],
@@ -13109,14 +14845,6 @@
   ],
   [
     "dosar",
-    1
-  ],
-  [
-    "dormi",
-    1
-  ],
-  [
-    "dores",
     1
   ],
   [
@@ -13148,10 +14876,6 @@
     1
   ],
   [
-    "doce",
-    1
-  ],
-  [
     "dobrar",
     1
   ],
@@ -13172,6 +14896,10 @@
     1
   ],
   [
+    "divertia",
+    1
+  ],
+  [
     "diversao",
     1
   ],
@@ -13188,6 +14916,10 @@
     1
   ],
   [
+    "disparou",
+    1
+  ],
+  [
     "disfarcar",
     1
   ],
@@ -13196,7 +14928,15 @@
     1
   ],
   [
+    "disfarca",
+    1
+  ],
+  [
     "discurso",
+    1
+  ],
+  [
+    "discriminada",
     1
   ],
   [
@@ -13240,7 +14980,7 @@
     1
   ],
   [
-    "dialeto",
+    "devolvo",
     1
   ],
   [
@@ -13272,7 +15012,23 @@
     1
   ],
   [
+    "destreza",
+    1
+  ],
+  [
     "destinos",
+    1
+  ],
+  [
+    "destinado",
+    1
+  ],
+  [
+    "destemido",
+    1
+  ],
+  [
+    "desprezada",
     1
   ],
   [
@@ -13288,6 +15044,14 @@
     1
   ],
   [
+    "despedida",
+    1
+  ],
+  [
+    "desordeiro",
+    1
+  ],
+  [
     "desmente",
     1
   ],
@@ -13296,15 +15060,11 @@
     1
   ],
   [
+    "desmaio",
+    1
+  ],
+  [
     "desisto",
-    1
-  ],
-  [
-    "desilusao",
-    1
-  ],
-  [
-    "desigualdade",
     1
   ],
   [
@@ -13320,19 +15080,7 @@
     1
   ],
   [
-    "desfaco",
-    1
-  ],
-  [
-    "desespero",
-    1
-  ],
-  [
     "desenvolvo",
-    1
-  ],
-  [
-    "desenvolveu",
     1
   ],
   [
@@ -13340,11 +15088,15 @@
     1
   ],
   [
-    "desejo",
+    "desencontrado",
     1
   ],
   [
-    "desejar",
+    "desejos",
+    1
+  ],
+  [
+    "desejo",
     1
   ],
   [
@@ -13372,7 +15124,7 @@
     1
   ],
   [
-    "descobriu",
+    "desconfiado",
     1
   ],
   [
@@ -13392,19 +15144,15 @@
     1
   ],
   [
-    "descendo",
-    1
-  ],
-  [
     "descendencia",
     1
   ],
   [
-    "descascada",
+    "descanse",
     1
   ],
   [
-    "descanse",
+    "descansava",
     1
   ],
   [
@@ -13432,6 +15180,22 @@
     1
   ],
   [
+    "desafiou",
+    1
+  ],
+  [
+    "desafiar",
+    1
+  ],
+  [
+    "desafia",
+    1
+  ],
+  [
+    "derrubou",
+    1
+  ],
+  [
     "derrubo",
     1
   ],
@@ -13444,15 +15208,11 @@
     1
   ],
   [
-    "derramou",
+    "derramado",
     1
   ],
   [
     "derrama",
-    1
-  ],
-  [
-    "deputado",
     1
   ],
   [
@@ -13480,14 +15240,6 @@
     1
   ],
   [
-    "delicado",
-    1
-  ],
-  [
-    "deles",
-    1
-  ],
-  [
     "delegado",
     1
   ],
@@ -13501,6 +15253,10 @@
   ],
   [
     "deixava",
+    1
+  ],
+  [
+    "deixarei",
     1
   ],
   [
@@ -13521,6 +15277,10 @@
   ],
   [
     "definha",
+    1
+  ],
+  [
+    "defeza",
     1
   ],
   [
@@ -13580,11 +15340,19 @@
     1
   ],
   [
+    "dabahia",
+    1
+  ],
+  [
     "cutia",
     1
   ],
   [
     "custou",
+    1
+  ],
+  [
+    "cuspa",
     1
   ],
   [
@@ -13600,6 +15368,14 @@
     1
   ],
   [
+    "curisco",
+    1
+  ],
+  [
+    "curagem",
+    1
+  ],
+  [
     "cura",
     1
   ],
@@ -13612,7 +15388,7 @@
     1
   ],
   [
-    "cultural",
+    "cultuar",
     1
   ],
   [
@@ -13640,10 +15416,6 @@
     1
   ],
   [
-    "cuidar",
-    1
-  ],
-  [
     "cuanhama",
     1
   ],
@@ -13664,7 +15436,7 @@
     1
   ],
   [
-    "cruel",
+    "crua",
     1
   ],
   [
@@ -13672,15 +15444,15 @@
     1
   ],
   [
-    "criaram",
-    1
-  ],
-  [
     "criar",
     1
   ],
   [
-    "criada",
+    "crian",
+    1
+  ],
+  [
+    "criacao",
     1
   ],
   [
@@ -13689,6 +15461,10 @@
   ],
   [
     "crescia",
+    1
+  ],
+  [
+    "cresci",
     1
   ],
   [
@@ -13716,10 +15492,6 @@
     1
   ],
   [
-    "cozinha",
-    1
-  ],
-  [
     "cotia",
     1
   ],
@@ -13744,11 +15516,11 @@
     1
   ],
   [
-    "corridos",
+    "corro",
     1
   ],
   [
-    "corrido",
+    "corridos",
     1
   ],
   [
@@ -13756,7 +15528,7 @@
     1
   ],
   [
-    "correnteza",
+    "correrias",
     1
   ],
   [
@@ -13764,15 +15536,15 @@
     1
   ],
   [
+    "corral",
+    1
+  ],
+  [
     "corota",
     1
   ],
   [
-    "coros",
-    1
-  ],
-  [
-    "coreba",
+    "cordas",
     1
   ],
   [
@@ -13784,15 +15556,15 @@
     1
   ],
   [
+    "copeira",
+    1
+  ],
+  [
     "copacabana",
     1
   ],
   [
     "conviver",
-    1
-  ],
-  [
-    "convite",
     1
   ],
   [
@@ -13824,7 +15596,11 @@
     1
   ],
   [
-    "contou",
+    "contramestre",
+    1
+  ],
+  [
+    "conto",
     1
   ],
   [
@@ -13844,11 +15620,19 @@
     1
   ],
   [
+    "contigo",
+    1
+  ],
+  [
     "conter",
     1
   ],
   [
     "contas",
+    1
+  ],
+  [
+    "contarna",
     1
   ],
   [
@@ -13876,10 +15660,6 @@
     1
   ],
   [
-    "considerado",
-    1
-  ],
-  [
     "considerada",
     1
   ],
@@ -13896,6 +15676,10 @@
     1
   ],
   [
+    "consegui",
+    1
+  ],
+  [
     "consciencia",
     1
   ],
@@ -13908,6 +15692,10 @@
     1
   ],
   [
+    "conquista",
+    1
+  ],
+  [
     "conjunto",
     1
   ],
@@ -13916,7 +15704,15 @@
     1
   ],
   [
+    "conhecida",
+    1
+  ],
+  [
     "conhecendou",
+    1
+  ],
+  [
+    "congagola",
     1
   ],
   [
@@ -13940,10 +15736,6 @@
     1
   ],
   [
-    "confirmar",
-    1
-  ],
-  [
     "confirma",
     1
   ],
@@ -13952,7 +15744,15 @@
     1
   ],
   [
+    "confiado",
+    1
+  ],
+  [
     "confessei",
+    1
+  ],
+  [
+    "confessar",
     1
   ],
   [
@@ -13968,6 +15768,18 @@
     1
   ],
   [
+    "conchas",
+    1
+  ],
+  [
+    "conceitos",
+    1
+  ],
+  [
+    "concedeu",
+    1
+  ],
+  [
     "comunidade",
     1
   ],
@@ -13977,10 +15789,6 @@
   ],
   [
     "compreensao",
-    1
-  ],
-  [
-    "comprar",
     1
   ],
   [
@@ -14004,6 +15812,10 @@
     1
   ],
   [
+    "companhero",
+    1
+  ],
+  [
     "companheiro",
     1
   ],
@@ -14012,7 +15824,15 @@
     1
   ],
   [
+    "companeira",
+    1
+  ],
+  [
     "compaixao",
+    1
+  ],
+  [
+    "compadre",
     1
   ],
   [
@@ -14029,6 +15849,14 @@
   ],
   [
     "comigou",
+    1
+  ],
+  [
+    "comia",
+    1
+  ],
+  [
+    "comeu",
     1
   ],
   [
@@ -14064,6 +15892,10 @@
     1
   ],
   [
+    "comecado",
+    1
+  ],
+  [
     "combinacao",
     1
   ],
@@ -14084,11 +15916,27 @@
     1
   ],
   [
+    "combate",
+    1
+  ],
+  [
+    "comadre",
+    1
+  ],
+  [
+    "colorindo",
+    1
+  ],
+  [
     "colo",
     1
   ],
   [
     "colete",
+    1
+  ],
+  [
+    "coler",
     1
   ],
   [
@@ -14120,6 +15968,10 @@
     1
   ],
   [
+    "cochilar",
+    1
+  ],
+  [
     "cobrindo",
     1
   ],
@@ -14136,6 +15988,10 @@
     1
   ],
   [
+    "coberta",
+    1
+  ],
+  [
     "cm",
     1
   ],
@@ -14148,15 +16004,11 @@
     1
   ],
   [
-    "claro",
-    1
-  ],
-  [
     "clareou",
     1
   ],
   [
-    "clareia",
+    "clareo",
     1
   ],
   [
@@ -14168,15 +16020,15 @@
     1
   ],
   [
+    "cieiro",
+    1
+  ],
+  [
     "cido",
     1
   ],
   [
     "cidadao",
-    1
-  ],
-  [
-    "chuva",
     1
   ],
   [
@@ -14192,10 +16044,6 @@
     1
   ],
   [
-    "chotao",
-    1
-  ],
-  [
     "chororou",
     1
   ],
@@ -14208,10 +16056,6 @@
     1
   ],
   [
-    "chorao",
-    1
-  ],
-  [
     "choque",
     1
   ],
@@ -14221,6 +16065,10 @@
   ],
   [
     "chicotada",
+    1
+  ],
+  [
+    "chibatadas",
     1
   ],
   [
@@ -14252,10 +16100,6 @@
     1
   ],
   [
-    "charuto",
-    1
-  ],
-  [
     "charm",
     1
   ],
@@ -14264,19 +16108,7 @@
     1
   ],
   [
-    "chamei",
-    1
-  ],
-  [
-    "chamava",
-    1
-  ],
-  [
     "chamam",
-    1
-  ],
-  [
-    "chamada",
     1
   ],
   [
@@ -14285,10 +16117,6 @@
   ],
   [
     "cesar",
-    1
-  ],
-  [
-    "certeiro",
     1
   ],
   [
@@ -14309,14 +16137,6 @@
   ],
   [
     "celebrar",
-    1
-  ],
-  [
-    "ceias",
-    1
-  ],
-  [
-    "ceia",
     1
   ],
   [
@@ -14392,10 +16212,6 @@
     1
   ],
   [
-    "case",
-    1
-  ],
-  [
     "casco",
     1
   ],
@@ -14412,10 +16228,6 @@
     1
   ],
   [
-    "casar",
-    1
-  ],
-  [
     "carybe",
     1
   ],
@@ -14425,10 +16237,6 @@
   ],
   [
     "carrerinha",
-    1
-  ],
-  [
-    "carreira",
     1
   ],
   [
@@ -14444,10 +16252,6 @@
     1
   ],
   [
-    "carregam",
-    1
-  ],
-  [
     "carregado",
     1
   ],
@@ -14460,7 +16264,11 @@
     1
   ],
   [
-    "carioca",
+    "carnaval",
+    1
+  ],
+  [
+    "carlinho",
     1
   ],
   [
@@ -14500,6 +16308,10 @@
     1
   ],
   [
+    "capoira",
+    1
+  ],
+  [
     "capoeiro",
     1
   ],
@@ -14508,27 +16320,19 @@
     1
   ],
   [
+    "capoeirana",
+    1
+  ],
+  [
     "capoeiraarte",
     1
   ],
   [
-    "capixaba",
+    "capeoria",
     1
   ],
   [
-    "capineiro",
-    1
-  ],
-  [
-    "capim",
-    1
-  ],
-  [
-    "capela",
-    1
-  ],
-  [
-    "capanga",
+    "capaz",
     1
   ],
   [
@@ -14548,15 +16352,7 @@
     1
   ],
   [
-    "cantavem",
-    1
-  ],
-  [
     "cantavas",
-    1
-  ],
-  [
-    "cantarolava",
     1
   ],
   [
@@ -14569,6 +16365,10 @@
   ],
   [
     "cantamos",
+    1
+  ],
+  [
+    "cantadores",
     1
   ],
   [
@@ -14592,10 +16392,6 @@
     1
   ],
   [
-    "canjiquinha",
-    1
-  ],
-  [
     "canjere",
     1
   ],
@@ -14605,6 +16401,10 @@
   ],
   [
     "cangere",
+    1
+  ],
+  [
+    "canela",
     1
   ],
   [
@@ -14624,6 +16424,14 @@
     1
   ],
   [
+    "can",
+    1
+  ],
+  [
+    "camungere",
+    1
+  ],
+  [
     "camujere",
     1
   ],
@@ -14633,10 +16441,6 @@
   ],
   [
     "camuflagem",
-    1
-  ],
-  [
-    "campos",
     1
   ],
   [
@@ -14660,11 +16464,19 @@
     1
   ],
   [
+    "caminha",
+    1
+  ],
+  [
     "camera",
     1
   ],
   [
-    "camboata",
+    "cambota",
+    1
+  ],
+  [
+    "cambinda",
     1
   ],
   [
@@ -14720,15 +16532,11 @@
     1
   ],
   [
-    "caju",
-    1
-  ],
-  [
     "caixa",
     1
   ],
   [
-    "cairam",
+    "caiou",
     1
   ],
   [
@@ -14741,6 +16549,10 @@
   ],
   [
     "caiei",
+    1
+  ],
+  [
+    "caido",
     1
   ],
   [
@@ -14760,7 +16572,11 @@
     1
   ],
   [
-    "cadenciado",
+    "cadenica",
+    1
+  ],
+  [
+    "cadenciar",
     1
   ],
   [
@@ -14780,10 +16596,6 @@
     1
   ],
   [
-    "cacau",
-    1
-  ],
-  [
     "cacarejou",
     1
   ],
@@ -14796,11 +16608,23 @@
     1
   ],
   [
+    "cacao",
+    1
+  ],
+  [
     "cacamba",
     1
   ],
   [
     "cacado",
+    1
+  ],
+  [
+    "cabula",
+    1
+  ],
+  [
+    "cabras",
     1
   ],
   [
@@ -14840,6 +16664,10 @@
     1
   ],
   [
+    "bruta",
+    1
+  ],
+  [
     "brotas",
     1
   ],
@@ -14852,6 +16680,10 @@
     1
   ],
   [
+    "brilham",
+    1
+  ],
+  [
     "brigou",
     1
   ],
@@ -14860,7 +16692,35 @@
     1
   ],
   [
+    "brigas",
+    1
+  ],
+  [
+    "brigao",
+    1
+  ],
+  [
+    "brevenuto",
+    1
+  ],
+  [
+    "brasillero",
+    1
+  ],
+  [
     "brancos",
+    1
+  ],
+  [
+    "brancas",
+    1
+  ],
+  [
+    "bramindo",
+    1
+  ],
+  [
+    "bracos",
     1
   ],
   [
@@ -14873,6 +16733,10 @@
   ],
   [
     "bozo",
+    1
+  ],
+  [
+    "botou",
     1
   ],
   [
@@ -14924,11 +16788,15 @@
     1
   ],
   [
-    "boazinha",
+    "bit",
     1
   ],
   [
-    "bit",
+    "biriba",
+    1
+  ],
+  [
+    "bima",
     1
   ],
   [
@@ -14960,6 +16828,14 @@
     1
   ],
   [
+    "berimbao",
+    1
+  ],
+  [
+    "berimau",
+    1
+  ],
+  [
     "bereum",
     1
   ],
@@ -14976,7 +16852,15 @@
     1
   ],
   [
+    "benzia",
+    1
+  ],
+  [
     "benzeu",
+    1
+  ],
+  [
+    "benzendo",
     1
   ],
   [
@@ -14984,15 +16868,11 @@
     1
   ],
   [
-    "bentinho",
-    1
-  ],
-  [
-    "bentevi",
-    1
-  ],
-  [
     "benevuto",
+    1
+  ],
+  [
+    "belo",
     1
   ],
   [
@@ -15016,6 +16896,10 @@
     1
   ],
   [
+    "batizou",
+    1
+  ],
+  [
     "batizado",
     1
   ],
@@ -15032,15 +16916,7 @@
     1
   ],
   [
-    "batente",
-    1
-  ],
-  [
     "bassula",
-    1
-  ],
-  [
-    "barulho",
     1
   ],
   [
@@ -15092,10 +16968,6 @@
     1
   ],
   [
-    "banzo",
-    1
-  ],
-  [
     "bantus",
     1
   ],
@@ -15140,6 +17012,10 @@
     1
   ],
   [
+    "balaco",
+    1
+  ],
+  [
     "baixos",
     1
   ],
@@ -15160,19 +17036,19 @@
     1
   ],
   [
-    "baianas",
-    1
-  ],
-  [
     "baia",
     1
   ],
   [
-    "bahiana",
+    "bagagem",
     1
   ],
   [
     "bagaco",
+    1
+  ],
+  [
+    "badoque",
     1
   ],
   [
@@ -15192,10 +17068,6 @@
     1
   ],
   [
-    "azul",
-    1
-  ],
-  [
     "azeite",
     1
   ],
@@ -15212,6 +17084,10 @@
     1
   ],
   [
+    "avisto",
+    1
+  ],
+  [
     "avisou",
     1
   ],
@@ -15220,11 +17096,11 @@
     1
   ],
   [
-    "ava",
+    "aumente",
     1
   ],
   [
-    "aurora",
+    "aulas",
     1
   ],
   [
@@ -15244,15 +17120,15 @@
     1
   ],
   [
-    "atrasado",
-    1
-  ],
-  [
     "atrair",
     1
   ],
   [
     "atocaiou",
+    1
+  ],
+  [
+    "atoa",
     1
   ],
   [
@@ -15268,15 +17144,7 @@
     1
   ],
   [
-    "atingia",
-    1
-  ],
-  [
     "atinge",
-    1
-  ],
-  [
-    "aticum",
     1
   ],
   [
@@ -15304,11 +17172,7 @@
     1
   ],
   [
-    "astral",
-    1
-  ],
-  [
-    "assustado",
+    "astuso",
     1
   ],
   [
@@ -15360,7 +17224,15 @@
     1
   ],
   [
+    "arthur",
+    1
+  ],
+  [
     "artesao",
+    1
+  ],
+  [
+    "artes",
     1
   ],
   [
@@ -15396,15 +17268,7 @@
     1
   ],
   [
-    "arria",
-    1
-  ],
-  [
     "arretada",
-    1
-  ],
-  [
-    "arrepiou",
     1
   ],
   [
@@ -15412,11 +17276,19 @@
     1
   ],
   [
-    "arrepiado",
+    "arrepiahoje",
     1
   ],
   [
     "arrependo",
+    1
+  ],
+  [
+    "arrependido",
+    1
+  ],
+  [
+    "arredava",
     1
   ],
   [
@@ -15436,7 +17308,7 @@
     1
   ],
   [
-    "armas",
+    "armou",
     1
   ],
   [
@@ -15445,6 +17317,10 @@
   ],
   [
     "armadura",
+    1
+  ],
+  [
+    "armados",
     1
   ],
   [
@@ -15464,10 +17340,6 @@
     1
   ],
   [
-    "ares",
-    1
-  ],
-  [
     "arenga",
     1
   ],
@@ -15476,15 +17348,15 @@
     1
   ],
   [
-    "arde",
-    1
-  ],
-  [
-    "arco",
+    "ardendo",
     1
   ],
   [
     "arc",
+    1
+  ],
+  [
+    "arastao",
     1
   ],
   [
@@ -15501,10 +17373,6 @@
   ],
   [
     "araeee",
-    1
-  ],
-  [
-    "ara",
     1
   ],
   [
@@ -15532,6 +17400,10 @@
     1
   ],
   [
+    "aprovacao",
+    1
+  ],
+  [
     "aprisionar",
     1
   ],
@@ -15540,11 +17412,15 @@
     1
   ],
   [
+    "apresentou",
+    1
+  ],
+  [
     "apresentar",
     1
   ],
   [
-    "aprendia",
+    "apprende",
     1
   ],
   [
@@ -15556,11 +17432,15 @@
     1
   ],
   [
+    "aplicava",
+    1
+  ],
+  [
     "apertou",
     1
   ],
   [
-    "apertado",
+    "apertava",
     1
   ],
   [
@@ -15592,11 +17472,15 @@
     1
   ],
   [
+    "apaixonou",
+    1
+  ],
+  [
     "apaixonei",
     1
   ],
   [
-    "apagou",
+    "apaixonar",
     1
   ],
   [
@@ -15604,7 +17488,7 @@
     1
   ],
   [
-    "apaga",
+    "any",
     1
   ],
   [
@@ -15616,15 +17500,15 @@
     1
   ],
   [
+    "antigo",
+    1
+  ],
+  [
     "antiga",
     1
   ],
   [
     "ansia",
-    1
-  ],
-  [
-    "anoitecer",
     1
   ],
   [
@@ -15644,11 +17528,23 @@
     1
   ],
   [
+    "animada",
+    1
+  ],
+  [
+    "animacao",
+    1
+  ],
+  [
     "angu",
     1
   ],
   [
     "angolero",
+    1
+  ],
+  [
+    "angolano",
     1
   ],
   [
@@ -15676,6 +17572,10 @@
     1
   ],
   [
+    "amenheco",
+    1
+  ],
+  [
     "amazonas",
     1
   ],
@@ -15688,11 +17588,15 @@
     1
   ],
   [
-    "amaralinha",
+    "amarelinda",
     1
   ],
   [
-    "amar",
+    "amarela",
+    1
+  ],
+  [
+    "amaralinha",
     1
   ],
   [
@@ -15728,7 +17632,7 @@
     1
   ],
   [
-    "altar",
+    "alua",
     1
   ],
   [
@@ -15764,11 +17668,11 @@
     1
   ],
   [
-    "alemao",
+    "alegrias",
     1
   ],
   [
-    "alegrias",
+    "alegrava",
     1
   ],
   [
@@ -15812,15 +17716,23 @@
     1
   ],
   [
-    "aia",
+    "ajoelha",
+    1
+  ],
+  [
+    "aideeeeee",
+    1
+  ],
+  [
+    "aideeee",
+    1
+  ],
+  [
+    "aiai",
     1
   ],
   [
     "ahora",
-    1
-  ],
-  [
-    "aguenta",
     1
   ],
   [
@@ -15829,6 +17741,10 @@
   ],
   [
     "agradecendo",
+    1
+  ],
+  [
+    "agradeca",
     1
   ],
   [
@@ -15848,10 +17764,6 @@
     1
   ],
   [
-    "agente",
-    1
-  ],
-  [
     "age",
     1
   ],
@@ -15860,15 +17772,7 @@
     1
   ],
   [
-    "agarre",
-    1
-  ],
-  [
-    "agarrar",
-    1
-  ],
-  [
-    "agarrao",
+    "agaxaido",
     1
   ],
   [
@@ -15892,19 +17796,11 @@
     1
   ],
   [
-    "africanos",
-    1
-  ],
-  [
-    "africano",
-    1
-  ],
-  [
     "afonja",
     1
   ],
   [
-    "afogar",
+    "afoga",
     1
   ],
   [
@@ -15913,6 +17809,10 @@
   ],
   [
     "aflicao",
+    1
+  ],
+  [
+    "afirmei",
     1
   ],
   [
@@ -15964,6 +17864,10 @@
     1
   ],
   [
+    "ador",
+    1
+  ],
+  [
     "admirado",
     1
   ],
@@ -15980,7 +17884,19 @@
     1
   ],
   [
+    "adeversario",
+    1
+  ],
+  [
+    "adencia",
+    1
+  ],
+  [
     "adalto",
+    1
+  ],
+  [
+    "acupe",
     1
   ],
   [
@@ -15992,15 +17908,35 @@
     1
   ],
   [
+    "acorrentados",
+    1
+  ],
+  [
     "acordo",
     1
   ],
   [
-    "acordar",
+    "acordava",
+    1
+  ],
+  [
+    "acordado",
     1
   ],
   [
     "acontece",
+    1
+  ],
+  [
+    "acompanhar",
+    1
+  ],
+  [
+    "acolheu",
+    1
+  ],
+  [
+    "aclamava",
     1
   ],
   [
@@ -16032,11 +17968,11 @@
     1
   ],
   [
-    "acende",
+    "acenda",
     1
   ],
   [
-    "acenda",
+    "acelerado",
     1
   ],
   [
@@ -16060,7 +17996,19 @@
     1
   ],
   [
+    "acalma",
+    1
+  ],
+  [
+    "acalenta",
+    1
+  ],
+  [
     "acaca",
+    1
+  ],
+  [
+    "acabava",
     1
   ],
   [
@@ -16069,14 +18017,6 @@
   ],
   [
     "abriua",
-    1
-  ],
-  [
-    "abriu",
-    1
-  ],
-  [
-    "abrir",
     1
   ],
   [
@@ -16097,6 +18037,10 @@
   ],
   [
     "aborrecer",
+    1
+  ],
+  [
+    "abonou",
     1
   ],
   [
@@ -16125,10 +18069,6 @@
   ],
   [
     "abencuou",
-    1
-  ],
-  [
-    "abencoou",
     1
   ],
   [
@@ -16165,6 +18105,10 @@
   ],
   [
     "abaixa",
+    1
+  ],
+  [
+    "abaite",
     1
   ],
   [
