@@ -9,6 +9,8 @@ import {
   writeSongsToFile,
 } from '../lib/SongsHelper';
 
+const debug = false;
+
 const getCorridos = () => {
   const nightmare = Nightmare({ show: true, dock: true });
 
@@ -32,7 +34,7 @@ const getCorridos = () => {
       let songs = [];
       let i;
 
-      for (i = 0; i <letterLinks.length; i++) {
+      for (i = 0; i < letterLinks.length; i++) {
         const l = letterLinks[i];
         const letterSongs = yield nightmare.goto(l)
           .wait(songLinkSelector)
@@ -192,11 +194,16 @@ Promise.all([
   getMaculele(),
   getSambaDeRoda(),
 ]).then((songsListArr) => {
-  const nightmare = Nightmare({ show: true, dock: true, waitTimeout: 5000 });
+  const nightmare = Nightmare({
+    show: true,
+    openDevTools: debug,
+    dock: true,
+    waitTimeout: 5000,
+  });
   const combinedSongs = _.flatten(songsListArr);
   combinedSongs.forEach(s => s.title = s.title.replace(/ \(EN\)/, ''));
 
-  console.log(combinedSongs);
+  // console.log(combinedSongs);
 
   loadSongsFromFile().catch(console.error).then((allSongs) => {
     if (!allSongs) {
@@ -224,9 +231,8 @@ Promise.all([
 
       for (i = 0; i < combinedSongs.length; i++) {
         const s = combinedSongs[i];
-        console.log(i, s.title);
-
         s.title_std = standardizeTitle(s.title);
+        console.log(i, s.title_std);
 
         if (doesSongExistInCollection(s, allSongs)) {
           continue;
@@ -242,7 +248,7 @@ Promise.all([
                 const el = document.querySelector(selector);
 
                 if (el) {
-                  t = _.trim(el.innerText);
+                  t = el.innerText.trim();
                 }
               }
             });
@@ -261,7 +267,7 @@ Promise.all([
 
             return t !== '' ? t : undefined;
           }, selectorLyrics, selectorLyricsAll)
-          .catch(err => console.log(err.message));
+          .catch(err => console.error);
 
         if (text) {
           allSongs.push({
