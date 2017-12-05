@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Capoeira Songs</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.0.6/wordcloud2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.17.1/axios.min.js"></script>
+    <style>
+      #capoeira-songs-word-cloud,
+      #capoeira-songs-ngrams-cloud {
+        width: 2000px;
+        height: 800px;
+        margin: auto;
+        padding: 25px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="capoeira-songs-word-cloud"></div>
+    <div id="capoeira-songs-ngrams-cloud"></div>
+    <script>
+      axios.get('/json/nlp-tokens.json').then((result) => {
+        if (result && result.data) {
+          var list = result.data.filter(w => w[1] > 5);
+          WordCloud(document.getElementById('capoeira-songs-word-cloud'), { list: list } );
+        }
+      });
+      /*
+      axios.get('/json/nlp-ngrams.json').then((result) => {
+        if (result && result.data) {
+          var list = result.data.filter(w => w[1] > 5);
+          WordCloud(document.getElementById('capoeira-songs-ngrams-cloud'), { list: list } );
+        }
+      });
+      */
+    </script>
+  </body>
+</html>
