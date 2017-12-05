@@ -9,21 +9,46 @@
     <style>
       #capoeira-songs-word-cloud,
       #capoeira-songs-ngrams-cloud {
-        width: 2000px;
-        height: 800px;
+        width: 1000px;
+        height: 600px;
         margin: auto;
         padding: 25px;
       }
     </style>
   </head>
   <body>
-    <div id="capoeira-songs-word-cloud"></div>
-    <div id="capoeira-songs-ngrams-cloud"></div>
+    <h1>Capoeira Song Analysis (<span id="song-count">0</span>)</h1>
+    <section>
+      <h2>Frequency of Words</h2>
+      <p>
+        Displaying <span id="word-count-displayed">0</span> of <span id="word-count-total">0</span> words
+        that appear in &gt;= <span id="word-count-threshold">0</span> songs.
+      </p>
+      <div id="capoeira-songs-word-cloud"></div>
+    </section>
+    <section>
+      <h2>Frequency of ngrams</h2>
+      <div id="capoeira-songs-ngrams-cloud"></div>
+    </section>
     <script>
-      axios.get('/json/nlp-tokens.json').then((result) => {
+      axios.get('/json/songs.json').then((result) => {
         if (result && result.data) {
-          var list = result.data.filter(w => w[1] > 5);
-          WordCloud(document.getElementById('capoeira-songs-word-cloud'), { list: list } );
+          document.querySelector('#song-count').innerText = result.data.length;
+        }
+      });
+
+      axios.get('/json/nlp-tokens.json').then((result) => {
+        const threshold = 20;
+
+        if (result && result.data) {
+          var list = result.data.filter(w => w[1] > threshold);
+          document.querySelector('#word-count-total').innerText = result.data.length;
+          document.querySelector('#word-count-displayed').innerText = list.length;
+          document.querySelector('#word-count-threshold').innerText = threshold;
+          WordCloud(document.getElementById('capoeira-songs-word-cloud'), {
+            list: list,
+            weightFactor: threshold / 100,
+          });
         }
       });
       /*
