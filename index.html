@@ -4,61 +4,148 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Capoeira Songs</title>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.35/css/uikit.min.css" />
+
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.35/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.35/js/uikit-icons.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+    <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.0.6/wordcloud2.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.17.1/axios.min.js"></script>
     <style>
-      #capoeira-songs-word-cloud,
-      #capoeira-songs-ngrams-cloud {
+      #capoeira-songs-word-cloud {
         width: 1000px;
         height: 600px;
         margin: auto;
         padding: 25px;
       }
+
+      #capoeira-songs-tokens,
+      #capoeira-songs-ngrams {
+        height: 400px;
+      }
     </style>
   </head>
   <body>
-    <h1>Capoeira Song Analysis (<span id="song-count">0</span>)</h1>
-    <section>
-      <h2>Frequency of Words</h2>
-      <p>
-        Displaying <span id="word-count-displayed">0</span> of <span id="word-count-total">0</span> words
-        that appear in &gt;= <span id="word-count-threshold">0</span> songs.
-      </p>
-      <div id="capoeira-songs-word-cloud"></div>
+    <div class="uk-navbar-container" uk-navbar>
+      <div class="uk-navbar-center">
+        <a href="/" class="uk-navbar-item uk-logo">
+          Capoeira Song Analysis
+        </a>
+      </div>
+    </div>
+    <div class="uk-text-center uk-margin">
+      <small><span id="song-count" class="uk-badge">0</span> <i>songs analyzed</i></small>
+    </div>
+    <section class="uk-section">
+      <div class="uk-container">
+        <h2>Frequency of Words</h2>
+        <p>
+          Displaying <strong id="word-count-displayed">0</strong>* words that appear in <strong id="word-count-threshold">0</strong> songs or more.<br>
+          <small><i>*of <strong id="word-count-total">0</strong> total words.</i></small>
+        </p>
+        <div id="capoeira-songs-word-cloud"></div>
+        <h3>Top <span id="tokens-limit">0</span> words</h3>
+        <div id="capoeira-songs-tokens"></div>
+      </div>
     </section>
-    <section>
-      <h2>Frequency of ngrams</h2>
-      <div id="capoeira-songs-ngrams-cloud"></div>
+    <section class="uk-section">
+      <div class="uk-container">
+        <h2>Top <span id="ngrams-limit">0</span> <i>ngrams</i> (Consecutive Words)</h2>
+        <div id="capoeira-songs-ngrams"></div>
+      </div>
     </section>
     <script>
-      axios.get('/json/songs.json').then((result) => {
-        if (result && result.data) {
-          document.querySelector('#song-count').innerText = result.data.length;
+      Promise.all([
+        axios.get('/json/songs.json'),
+        axios.get('/json/nlp-tokens.json'),
+        axios.get('/json/nlp-ngrams.json'),
+      ]).then((results) => {
+
+        const [ resultSongs, resultTokens, resultNGrams ] = results;
+
+        if (resultSongs && resultSongs.data) {
+          document.querySelector('#song-count').innerText = resultSongs.data.length;
         }
-      });
 
-      axios.get('/json/nlp-tokens.json').then((result) => {
-        const threshold = 20;
+        if (resultTokens && resultTokens.data) {
+          const threshold = 20;
 
-        if (result && result.data) {
-          var list = result.data.filter(w => w[1] > threshold);
-          document.querySelector('#word-count-total').innerText = result.data.length;
+          var list = resultTokens.data.filter(w => w[1] > threshold);
+          document.querySelector('#word-count-total').innerText = resultTokens.data.length;
           document.querySelector('#word-count-displayed').innerText = list.length;
           document.querySelector('#word-count-threshold').innerText = threshold;
           WordCloud(document.getElementById('capoeira-songs-word-cloud'), {
             list: list,
             weightFactor: threshold / 80,
           });
+
+          const limit = 10;
+          const data = resultTokens.data.slice(0, limit);
+          const labels = _.map(data, 0);
+          const series1 = _.map(data, (n) => {
+            return n[1];
+          });
+
+          document.querySelector('#tokens-limit').innerText = limit;
+
+          new Chartist.Bar('#capoeira-songs-tokens', {
+            labels: labels,
+            series: series1,
+          }, {
+            distributeSeries: true,
+            reverseData: true,
+            horizontalBars: true,
+            axisX: {
+              labelInterpolationFnc: function(value) {
+                return value + ' songs'
+              },
+              scaleMinSpace: 50,
+            },
+            axisY: {
+              // The offset of the chart drawing area to the border of the container
+              offset: 150,
+              showGrid: false,
+            },
+          });
+        }
+
+        if (resultNGrams && resultNGrams.data) {
+          const limit = 10;
+          const data = resultNGrams.data.slice(0, limit);
+          const labels = _.map(data, 0);
+          const series1 = _.map(data, (n) => {
+            return n[1];
+          });
+
+          document.querySelector('#ngrams-limit').innerText = limit;
+
+          new Chartist.Bar('#capoeira-songs-ngrams', {
+            labels: labels,
+            series: series1,
+          }, {
+            distributeSeries: true,
+            reverseData: true,
+            horizontalBars: true,
+            axisX: {
+              labelInterpolationFnc: function(value) {
+                return value + ' songs'
+              },
+              scaleMinSpace: 50,
+            },
+            axisY: {
+              // The offset of the chart drawing area to the border of the container
+              offset: 150,
+              showGrid: false,
+            },
+          });
         }
       });
-      /*
-      axios.get('/json/nlp-ngrams.json').then((result) => {
-        if (result && result.data) {
-          var list = result.data.filter(w => w[1] > 5);
-          WordCloud(document.getElementById('capoeira-songs-ngrams-cloud'), { list: list } );
-        }
-      });
-      */
     </script>
   </body>
 </html>
