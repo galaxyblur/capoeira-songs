@@ -43,8 +43,7 @@ loadSongsFromFile().then((songs) => {
     let text = s.text;
 
     StopWordsEnglish.forEach((w) => {
-      text = text.replace(new RegExp(w, 'g'), '');
-      text = text.replace(new RegExp(_.startCase(w), 'g'), '');
+      text = text.replace(new RegExp(`\b${w}\b`, 'gi'), '');
     });
 
     const tokens = tokenizer.tokenize(text);
