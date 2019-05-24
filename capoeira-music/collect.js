@@ -235,7 +235,7 @@ Promise.all([
         console.log(i, s.title_std);
 
         if (doesSongExistInCollection(s, allSongs)) {
-          continue;
+          // continue;
         }
 
         const text = yield nightmare.goto(s.href)
@@ -270,9 +270,12 @@ Promise.all([
           .catch(err => console.error);
 
         if (text) {
+          const textFinal = text.replace(/\n{1,2}Listen to.*:/gi, '');
+          console.log(s.title_std, textFinal);
+
           allSongs.push({
             href: s.href,
-            text,
+            text: textFinal,
             tags: [s.tag],
             title: s.title,
             title_std: s.title_std,
@@ -287,8 +290,12 @@ Promise.all([
     };
 
     vo(run)((err, allSongs) => {
-      console.log(`Writing ${allSongs.length} songs to file.`);
-      writeSongsToFile(allSongs);
+      if (!allSongs) {
+        console.log(allSongs);
+      } else {
+        console.log(`Writing ${allSongs.length} songs to file.`);
+        writeSongsToFile(allSongs);
+      }
     });
   });
 });
